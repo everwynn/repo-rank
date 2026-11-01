@@ -1,0 +1,61 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import RankList from '../../components/RankList.astro';
+import SubChips from '../../components/SubChips.astro';
+import { GROUPS, getCategoriesOf, getGroupRanking, getUpdatedAt, windowLabel } from '../../lib/rankings';
+import { formatUpdatedAt } from '../../../scripts/lib/format.mjs';
+import { withBase } from '../../lib/url';
+import type { WindowId } from '../../types';
+
+export function getStaticPaths() {
+  return GROUPS.map((group) => ({ params: { group: group.id } }));
+}
+
+const { group: groupId } = Astro.params;
+const group = GROUPS.find((item) => item.id === groupId);
+const slug = groupId as string;
+const categories = getCategoriesOf(slug);
+// 框架不参与大类合并总榜（同一仓库会在语言榜重复出现），所以分开统计
+const merged = categories.filter((category) => category.kind !== 'framework');
+const frameworks = categories.filter((category) => category.kind === 'framework');
+const items = getGroupRanking(slug, 'total' as WindowId);
+const updatedAt = getUpdatedAt();
+---
+
+<BaseLayout title={`${group?.name ?? slug}排行榜`} description={`按总星数合并 ${merged.length} 个子类的 ${group?.name} 排行榜，数据每日自动更新。`}>
+  <Header />
+
+  <main class="mx-auto max-w-5xl px-4 py-8">
+    <nav class="text-xs text-muted" aria-label="面包屑">
+      <a href={withBase('/')} class="hover:text-brand-ink">首页</a>
+      <span class="mx-1.5">/</span>
+      <span>{group?.name}</span>
+    </nav>
+
+    <h1 class="mt-2 text-2xl font-semibold tracking-tight">{group?.name}排行榜</h1>
+    <p class="mt-2 text-sm text-muted">
+      {group?.hint} · 共 {merged.length} 个分类
+      {frameworks.length > 0 && ` · ${frameworks.length} 个框架`} · 更新于 {formatUpdatedAt(updatedAt)}
+    </p>
+
+    <p class="mt-3 rounded border border-line bg-card px-3 py-2 text-xs leading-relaxed text-muted">
+      本页是{group?.name}大类总榜，只统计{windowLabel('total' as WindowId)}。需要「新星榜」「活跃榜」请进入子类页面切换。
+      {
+        frameworks.length > 0 &&
+          `下方框架榜单独成榜，不参与本页合并（框架仓库的主语言已在语言榜里出现过）。`
+      }
+    </p>
+
+    <section class="mt-6" aria-label="子类导航">
+      <SubChips group={slug} />
+    </section>
+
+    <section class="mt-6" aria-label={`${group?.name}总星榜`}>
+      <RankList items={items} label={`${group?.name}总星榜`} />
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>

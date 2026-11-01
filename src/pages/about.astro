@@ -1,0 +1,65 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { GROUPS, getCategoriesOf } from '../lib/rankings';
+---
+
+<BaseLayout title="关于本站" description="开源榜是什么、数据怎么来的、有哪些已知限制。">
+  <Header />
+
+  <main class="mx-auto max-w-3xl px-4 py-10">
+    <h1 class="text-2xl font-semibold tracking-tight">关于本站</h1>
+
+    <section class="mt-6 space-y-3 text-sm leading-relaxed">
+      <p>
+        开源榜是一个纯静态的 GitHub 仓库排行榜站点，按<strong>开发语言与框架</strong>、<strong>书籍</strong>、
+        <strong>音频</strong>三大类组织。所有榜单的对象都是 GitHub 仓库，没有第二种数据源——书名类榜单收录的是
+        「书单资源库」与「电子书工具」，而不是某本书的售卖页。
+      </p>
+      <p>
+        站点由 Astro 构建，每天由 GitHub Actions 抓取一次数据，抓到的结果直接以 JSON 提交进仓库，
+        再触发构建部署到 GitHub Pages。因此页面不需要运行时后端，也没有数据库。
+      </p>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="text-lg font-semibold">分类</h2>
+      <ul class="mt-3 space-y-2 text-sm">
+        {
+          GROUPS.map((group) => {
+            // 语言与框架分开列，否则 React 会和 Go 混在一串顿号里，看着像语言
+            const categories = getCategoriesOf(group.id);
+            const frameworks = categories.filter((category) => category.kind === 'framework');
+            const others = categories.filter((category) => category.kind !== 'framework');
+            return (
+              <li>
+                <div class="font-medium">{group.name}</div>
+                <div class="mt-1 text-muted">{others.map((category) => category.name).join('、')}</div>
+                {frameworks.length > 0 && (
+                  <div class="mt-1 text-muted">
+                    框架：{frameworks.map((category) => category.name).join('、')}
+                  </div>
+                )}
+              </li>
+            );
+          })
+        }
+      </ul>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="text-lg font-semibold">已知限制</h2>
+      <ul class="mt-3 space-y-2 text-sm text-muted">
+        <li>框架分类按 GitHub topic 归集，topic 由仓库作者自行填写，会混入少量并不使用该框架的仓库。本站已用主语言白名单过滤，但无法完全消除，框架榜仅作为参考。</li>
+        <li>框架只提供总星榜。topic 下 90 天内新建的项目太少，给新星/活跃口径会造出只有个位数条目的空页。</li>
+        <li>GitHub 没有官方 Trending API，本站用 Search API 的限定符组合近似，口径与官方 Trending 不完全一致。</li>
+        <li>单个查询最多返回 1000 条，每个榜单只保留前 100 名。</li>
+        <li>「新星榜」看的是仓库创建时间，不是 star 增长时间——一个新仓库长期霸榜属于正常现象。</li>
+        <li>抓取失败时保留上一轮的榜单，并在「数据来源」页标记失败，不会让站点变成空白。</li>
+      </ul>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>

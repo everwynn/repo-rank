@@ -1,0 +1,112 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import RankMini from '../components/RankMini.astro';
+import { GROUPS, getCategoriesOf, getGroupRanking, getItems, getUpdatedAt } from '../lib/rankings';
+import { formatUpdatedAt } from '../../scripts/lib/format.mjs';
+import { withBase } from '../lib/url';
+
+const updatedAt = getUpdatedAt();
+
+const groups = GROUPS.map((group) => {
+  const categories = getCategoriesOf(group.id);
+  // 框架不参与大类合并总榜，所以入口文案要按轴分开写，否则「24 个子类」
+  // 会和 /dev/ 页的「共 16 个子类 · 8 个框架」自相矛盾
+  const languages = categories.filter((category) => (category.kind ?? 'language') === 'language');
+  const frameworks = categories.filter((category) => category.kind === 'framework');
+  const rankingCount = categories.reduce((sum, category) => sum + category.windows.length, 0);
+  const recordCount = categories.reduce(
+    (sum, category) =>
+      sum + category.windows.reduce((inner, window) => inner + getItems(category.id, window).length, 0),
+    0,
+  );
+  return { ...group, categories, languages, frameworks, rankingCount, recordCount, top: getGroupRanking(group.id, 'total', 5) };
+});
+
+const totalRankings = groups.reduce((sum, group) => sum + group.rankingCount, 0);
+const totalRecords = groups.reduce((sum, group) => sum + group.recordCount, 0);
+
+const windows = [
+  { name: '总星榜', desc: '不限时间，按 star 总数排序', tail: '看长期影响力' },
+  { name: '新星榜', desc: '近 90 天创建且 star ≥ 50', tail: '看近期冒头的新项目' },
+  { name: '活跃榜', desc: '近 7 天有推送且 star ≥ 500', tail: '看现在还在维护的' },
+];
+---
+
+<BaseLayout title="开源榜" description="按开发语言与框架、书籍、音频分类的 GitHub 仓库排行榜，数据每日自动更新。">
+  <Header />
+
+  <main class="mx-auto max-w-5xl px-4 py-10">
+    <h1 class="text-2xl font-semibold tracking-tight sm:text-3xl">GitHub 仓库排行榜</h1>
+    <p class="mt-3 max-w-2xl text-sm leading-relaxed text-muted">
+      按开发语言与框架、书籍、音频三类整理。每个条目都是真实的 GitHub 仓库，点一下直接跳过去。
+    </p>
+
+    <dl class="mt-4 flex flex-wrap items-center gap-x-5 gap-y-1 text-xs text-muted">
+      <div class="flex items-center gap-1"><dt>大类</dt><dd class="font-medium text-fg">{groups.length}</dd></div>
+      <div class="flex items-center gap-1"><dt>分类</dt><dd class="font-medium text-fg">{groups.reduce((sum, group) => sum + group.categories.length, 0)}</dd></div>
+      <div class="flex items-center gap-1"><dt>榜单</dt><dd class="font-medium text-fg">{totalRankings}</dd></div>
+      <div class="flex items-center gap-1"><dt>条目</dt><dd class="font-medium text-fg">{totalRecords}</dd></div>
+      <div class="flex items-center gap-1"><dt>更新于</dt><dd class="font-medium text-fg">{formatUpdatedAt(updatedAt)}</dd></div>
+    </dl>
+
+    <div class="mt-8 space-y-8">
+      {
+        groups.map((group) => (
+          <section aria-label={`${group.name}排行`}>
+            <div class="flex flex-wrap items-baseline justify-between gap-2">
+              <h2 class="text-lg font-semibold tracking-tight">
+                {group.name}
+                <span class="ml-2 text-xs font-normal text-muted">{group.hint}</span>
+              </h2>
+              <a
+                href={withBase(`/${group.id}/`)}
+                class="text-xs text-muted transition-colors hover:text-brand-ink"
+              >
+                {group.frameworks.length > 0
+                  ? `查看${group.name}总榜 · ${group.languages.length} 语言 + ${group.frameworks.length} 框架 →`
+                  : `查看${group.name}总榜 · ${group.categories.length} 个子类 →`}
+              </a>
+            </div>
+
+            {group.top.length > 0 ? (
+              <ol class="mt-3 grid gap-2 lg:grid-cols-2">
+                {group.top.map((repo) => (
+                  <RankMini repo={repo} />
+                ))}
+              </ol>
+            ) : (
+              <p class="mt-3 rounded-lg border border-dashed border-line px-3 py-6 text-center text-xs text-muted">
+                暂无数据，运行 npm run fetch 后再构建
+              </p>
+            )}
+          </section>
+        ))
+      }
+    </div>
+
+    <section class="mt-10" aria-label="口径说明">
+      <h2 class="text-sm font-semibold">三个口径</h2>
+      <dl class="mt-3 grid gap-3 sm:grid-cols-3">
+        {
+          windows.map((window) => (
+            <div class="rounded-lg border border-line bg-card px-3 py-2.5">
+              <dt class="text-xs font-medium">{window.name}</dt>
+              <dd class="mt-1 text-xs leading-relaxed text-muted">
+                {window.desc}
+                <span class="mt-0.5 block">{window.tail}</span>
+              </dd>
+            </div>
+          ))
+        }
+      </dl>
+      <p class="mt-3 text-xs text-muted">
+        名次变化与 star 增速是二期功能，一期先把数据抓全、页面跑通。
+        <a href={withBase('/about/')} class="text-brand-ink hover:underline">更多说明</a>
+      </p>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>

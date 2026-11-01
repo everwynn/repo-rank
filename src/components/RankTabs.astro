@@ -1,0 +1,41 @@
+---
+import { getWindowsOf, windowLabel } from '../lib/rankings';
+import { withBase } from '../lib/url';
+import type { WindowId } from '../types';
+
+interface Props {
+  group: string;
+  slug: string;
+  active: WindowId;
+}
+
+const { group, slug, active } = Astro.props;
+const windows = getWindowsOf(slug);
+
+function hrefOf(window: WindowId) {
+  return window === 'total'
+    ? withBase(`/${group}/${slug}/`)
+    : withBase(`/${group}/${slug}/${window}/`);
+}
+---
+
+<nav class="flex flex-wrap gap-2" aria-label="榜单口径">
+  {
+    // 框架分类只有一个口径，渲染单个 tab 反而让人以为可以切
+    windows.length > 1 &&
+      windows.map((window) => (
+        <a
+          href={hrefOf(window)}
+          aria-current={window === active ? 'page' : undefined}
+          class:list={[
+            'rounded-full border px-3 py-1 text-sm transition-colors',
+            window === active
+              ? 'border-brand bg-brand text-white'
+              : 'border-line text-muted hover:text-brand-ink',
+          ]}
+        >
+          {windowLabel(window)}
+        </a>
+      ))
+  }
+</nav>

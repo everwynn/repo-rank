@@ -1,0 +1,84 @@
+name: repo-rank
+
+# 定时抓取 + 构建 + 部署必须在同一个 job 内顺序完成：
+# 因为 GITHUB_TOKEN 推送的提交不会触发 `on: push` 的下游 workflow。
+on:
+  schedule:
+    # UTC 时间；对应北京时间 07:23 与 19:23，避开整点排队
+    - cron: '23 23,11 * * *'
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 手动触发原因（仅记录用）
+        required: false
+        default: manual
+
+# 同一时间只允许一条流水线，避免两次抓取同时写 data/ 造成提交冲突
+concurrency:
+  group: repo-rank-pipeline
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  rank:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      # 认证后搜索接口限流 30 次/分，92 次请求约 3~5 分钟完成
+      # （本地未认证限流 10 次/分，实测需 691s，故 job 超时留 30 分钟）
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # 优先用 fine-grained PAT：可避免 public 仓库 60 天无活动导致 scheduled workflow 被禁用
+          token: ${{ secrets.DATA_PUSH_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run unit tests
+        run: npm test
+
+      - name: Fetch rankings
+        run: npm run fetch
+
+      - name: Commit data changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "数据无变化，跳过提交"
+            exit 0
+          fi
+          git commit -m "chore(data): refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
+
+      - name: Build site
+        # CI=true 时 astro.config.mjs 会启用 base: /repo-rank/
+        env:
+          CI: 'true'
+        run: npm run build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

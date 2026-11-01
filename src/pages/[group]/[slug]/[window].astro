@@ -1,0 +1,57 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import RankList from '../../../components/RankList.astro';
+import RankTabs from '../../../components/RankTabs.astro';
+import { getCategory, getItems, getWindowPaths, getUpdatedAt, GROUPS, windowLabel } from '../../../lib/rankings';
+import { formatUpdatedAt } from '../../../../scripts/lib/format.mjs';
+import { withBase } from '../../../lib/url';
+import type { WindowId } from '../../../types';
+
+export function getStaticPaths() {
+  return getWindowPaths().map(({ group, slug, window }) => ({ params: { group, slug, window } }));
+}
+
+const { group: groupId, slug: categoryId, window: windowId } = Astro.params;
+const group = GROUPS.find((item) => item.id === groupId);
+const category = getCategory(categoryId as string);
+const window = windowId as WindowId;
+const items = getItems(categoryId as string, window);
+const updatedAt = getUpdatedAt();
+const label = `${category?.name}${windowLabel(window)}`;
+
+const hint = window === 'new'
+  ? '收录近 90 天内创建、且 star ≥ 50 的新仓库，按 star 排序。'
+  : '收录近 7 天内有过推送、且 star ≥ 500 的活跃仓库，按 star 排序。';
+---
+
+<BaseLayout title={label} description={`${group?.name}分类下 ${category?.name} 的${windowLabel(window)}。${hint}`}>
+  <Header />
+
+  <main class="mx-auto max-w-5xl px-4 py-8">
+    <nav class="text-xs text-muted" aria-label="面包屑">
+      <a href={withBase('/')} class="hover:text-brand-ink">首页</a>
+      <span class="mx-1.5">/</span>
+      <a href={withBase(`/${group?.id}/`)} class="hover:text-brand-ink">{group?.name}</a>
+      <span class="mx-1.5">/</span>
+      <a href={withBase(`/${group?.id}/${category?.id}/`)} class="hover:text-brand-ink">{category?.name}</a>
+      <span class="mx-1.5">/</span>
+      <span>{windowLabel(window)}</span>
+    </nav>
+
+    <h1 class="mt-2 text-2xl font-semibold tracking-tight">{label}</h1>
+    <p class="mt-2 text-sm text-muted">更新于 {formatUpdatedAt(updatedAt)}</p>
+    <p class="mt-1 text-xs text-muted">{hint}</p>
+
+    <section class="mt-5" aria-label="榜单口径切换">
+      <RankTabs group={group?.id ?? ''} slug={categoryId as string} active={window} />
+    </section>
+
+    <section class="mt-6" aria-label={label}>
+      <RankList items={items} label={label} showLanguage={group?.id !== 'dev'} />
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>

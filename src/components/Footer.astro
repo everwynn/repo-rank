@@ -1,0 +1,18 @@
+---
+import { getUpdatedAt } from '../lib/rankings';
+import { formatUpdatedAt } from '../../scripts/lib/format.mjs';
+import { withBase } from '../lib/url';
+
+const updatedAt = getUpdatedAt();
+---
+
+<footer class="mt-12 border-t border-line">
+  <div class="mx-auto flex max-w-5xl flex-wrap items-center justify-between gap-2 px-4 py-6 text-xs text-muted">
+    <p>数据来自 GitHub Search API，每日更新一次 · 更新于 {formatUpdatedAt(updatedAt)}</p>
+    <p>
+      <a href={withBase('/sources/')} class="hover:text-brand-ink">数据来源</a>
+      <span class="mx-1.5">·</span>
+      <a href={withBase('/about/')} class="hover:text-brand-ink">关于本站</a>
+    </p>
+  </div>
+</footer>

@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.astro/
+.DS_Store
+*.log
+
+# jetbrains setting folder
+.idea/
+
+# 本地文档：不随仓库提交，仅本机保留
+docs/

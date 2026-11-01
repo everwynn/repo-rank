@@ -1,0 +1,122 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #ffffff;
+  --fg: #111827;
+  --muted: #6b7280;
+  --line: #e5e7eb;
+  --card: #f9fafb;
+  /* 文字链接专用：白底 5.17:1 */
+  --brand-ink: #2563eb;
+}
+
+.dark {
+  --bg: #0b1120;
+  --fg: #e5e7eb;
+  --muted: #94a3b8;
+  --line: #1e293b;
+  --card: #111827;
+  /* 深底上换成浅蓝，对比度 7.45:1 */
+  --brand-ink: #60a5fa;
+}
+
+html {
+  background: var(--bg);
+  color: var(--fg);
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* 内容不足一屏时把页脚压到底部，不留大片空白 */
+body > main {
+  flex: 1 0 auto;
+  /* 交叉轴上的 auto 外边距（mx-auto）会让 main 不拉伸、改按 max-content 算宽，
+     nowrap 的长仓库名会把整页撑出横向滚动条；下面两条各管一个轴 */
+  min-width: 0;
+  width: 100%;
+}
+
+/* 悬停反馈只在真鼠标设备生效，避免触屏上手指抬起后高亮「粘住」 */
+@media (hover: hover) and (pointer: fine) {
+  .rank-row:hover {
+    background: rgba(0, 0, 0, 0.03);
+  }
+
+  .dark .rank-row:hover {
+    background: rgba(255, 255, 255, 0.04);
+  }
+}
+
+/* ============ 语言色点：颜色由 scripts/lib/color.mjs 算好写进 CSS 变量
+   浅色用 Linguist 官方色，深色用提亮后的值（否则 #000080 这类会在卡底上消失）
+   ============ */
+.lang-dot {
+  display: inline-block;
+  flex: none;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 9999px;
+  background: var(--lang);
+  /* 细微内描边，避免极亮（JavaScript 黄）或极暗的色点与底色融在一起 */
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.12);
+}
+
+.dark .lang-dot {
+  background: var(--lang-dark);
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.16);
+}
+
+/* ============ 主题切换：从按钮位置向外扩散的圆形揭示 ============
+   一次快照合成、单一动画，所以不会出现“几百个元素同时渐变”的浑浊中间态。
+   起点 --theme-x / --theme-y 由 ThemeToggle.astro 在点击时写入。
+   ============================================================ */
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation: none;
+  mix-blend-mode: normal;
+}
+
+::view-transition-new(root) {
+  animation: theme-reveal 720ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@keyframes theme-reveal {
+  from {
+    clip-path: circle(0% at var(--theme-x, 50%) var(--theme-y, 50%));
+  }
+  to {
+    clip-path: circle(150% at var(--theme-x, 50%) var(--theme-y, 50%));
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  ::view-transition-new(root) {
+    animation: none;
+  }
+}
+
+/* ============ 主题按钮：三态图标交错 ============ */
+.theme-icon {
+  position: absolute;
+  width: 1.1rem;
+  height: 1.1rem;
+  opacity: 0;
+  transform: scale(0.6) rotate(-45deg);
+  transition:
+    opacity 160ms ease,
+    transform 240ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+html[data-theme-mode='light'] .theme-icon-sun,
+html[data-theme-mode='dark'] .theme-icon-moon,
+html[data-theme-mode='system'] .theme-icon-system,
+html:not([data-theme-mode]) .theme-icon-system {
+  opacity: 1;
+  transform: none;
+}

@@ -1,0 +1,39 @@
+---
+import RankRow from './RankRow.astro';
+import EmptyState from './EmptyState.astro';
+import { formatStars } from '../../scripts/lib/format.mjs';
+import type { Repo } from '../types';
+
+interface Props {
+  items: Repo[];
+  label: string;
+  hint?: string;
+  showLanguage?: boolean;
+}
+
+const { items, label, hint, showLanguage = true } = Astro.props;
+
+const maxStars = items.reduce((max, repo) => Math.max(max, repo.stars), 0);
+const minStars = items.reduce((min, repo) => Math.min(min, repo.stars), maxStars);
+---
+
+{
+  items.length === 0 ? (
+    <EmptyState label={label} hint={hint} />
+  ) : (
+    <>
+      <p class="mb-2 flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-muted">
+        <span>共 {items.length} 条</span>
+        <span>
+          star {formatStars(minStars)} – {formatStars(maxStars)}
+        </span>
+        <span class="text-[11px]">条形按本页最大值等比</span>
+      </p>
+      <ol class="space-y-2">
+        {items.map((repo) => (
+          <RankRow repo={repo} maxStars={maxStars} showLanguage={showLanguage} />
+        ))}
+      </ol>
+    </>
+  )
+}

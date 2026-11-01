@@ -1,0 +1,89 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { formatUpdatedAt } from '../../scripts/lib/format.mjs';
+
+interface HealthQuery {
+  categoryId: string;
+  window: string;
+  query: string;
+  status: string;
+  error?: string;
+}
+
+const healthModules = import.meta.glob<{ updatedAt?: string; queries?: HealthQuery[] }>(
+  '../../data/health.json',
+  { eager: true, import: 'default' },
+);
+const metaModules = import.meta.glob<{ requests?: number; failed?: number; durationMs?: number }>(
+  '../../data/meta.json',
+  { eager: true, import: 'default' },
+);
+
+const health = healthModules['../../data/health.json'];
+const meta = metaModules['../../data/meta.json'];
+const queries = health?.queries ?? [];
+const failed = queries.filter((item) => item.status === 'error');
+---
+
+<BaseLayout title="数据来源" description="每个榜单向 GitHub Search API 发起的查询、命中情况与失败记录。">
+  <Header />
+
+  <main class="mx-auto max-w-5xl px-4 py-10">
+    <h1 class="text-2xl font-semibold tracking-tight">数据来源</h1>
+    <p class="mt-2 text-sm text-muted">
+      抓取时间 {formatUpdatedAt(health?.updatedAt ?? '')} ·
+      共 {meta?.requests ?? 0} 次请求，失败 {meta?.failed ?? 0} 次
+      {meta?.durationMs ? ` · 耗时 ${Math.round(meta.durationMs / 1000)}s` : ''}
+    </p>
+
+    {failed.length > 0 && (
+      <p class="mt-4 rounded border border-line bg-card px-3 py-2 text-xs text-down">
+        本轮有 {failed.length} 条查询失败，对应榜单保留了上一轮数据。
+      </p>
+    )}
+
+    <div class="mt-6 overflow-x-auto">
+      <table class="w-full border-collapse text-left text-xs">
+        <thead>
+          <tr class="border-b border-line text-muted">
+            <th class="py-2 pr-3 font-medium">分类</th>
+            <th class="py-2 pr-3 font-medium">口径</th>
+            <th class="py-2 pr-3 font-medium">查询串</th>
+            <th class="py-2 font-medium">状态</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            queries.map((item) => (
+              <tr class="border-b border-line align-top">
+                <td class="py-2 pr-3">{item.categoryId}</td>
+                <td class="py-2 pr-3 text-muted">{item.window}</td>
+                <td class="py-2 pr-3 font-mono text-[11px] text-muted">{item.query}</td>
+                <td class:list={['py-2', item.status === 'error' ? 'text-down' : 'text-muted']}>
+                  {item.status}
+                  {item.error ? ` · ${item.error}` : ''}
+                </td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+
+    {queries.length === 0 && (
+      <p class="mt-6 text-sm text-muted">还没有抓取记录，运行 npm run fetch 后重新构建即可生成。</p>
+    )}
+
+    <section class="mt-8 text-xs leading-relaxed text-muted">
+      <h2 class="text-sm font-semibold text-fg">接口与口径</h2>
+      <p class="mt-2">
+        所有数据来自 <code>https://api.github.com/search/repositories</code>，按 star 倒序、单页 100 条取回。
+        topic 类子类由多个 topic 查询合并去重后再排名。
+      </p>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>

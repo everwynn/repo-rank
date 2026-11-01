@@ -1,0 +1,741 @@
+{
+  "updatedAt": "2026-11-01T16:41:31.767Z",
+  "queries": [
+    {
+      "categoryId": "go",
+      "window": "total",
+      "query": "language:Go",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "go",
+      "window": "new",
+      "query": "language:Go created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "go",
+      "window": "active",
+      "query": "language:Go pushed:>2026-10-25 stars:>=500",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "rust",
+      "window": "total",
+      "query": "language:Rust",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "rust",
+      "window": "new",
+      "query": "language:Rust created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "rust",
+      "window": "active",
+      "query": "language:Rust pushed:>2026-10-25 stars:>=500",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "typescript",
+      "window": "total",
+      "query": "language:TypeScript",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "typescript",
+      "window": "new",
+      "query": "language:TypeScript created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "typescript",
+      "window": "active",
+      "query": "language:TypeScript pushed:>2026-10-25 stars:>=500",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "python",
+      "window": "total",
+      "query": "language:Python",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "python",
+      "window": "new",
+      "query": "language:Python created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "python",
+      "window": "active",
+      "query": "language:Python pushed:>2026-10-25 stars:>=500",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "javascript",
+      "window": "total",
+      "query": "language:JavaScript",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "javascript",
+      "window": "new",
+      "query": "language:JavaScript created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "javascript",
+      "window": "active",
+      "query": "language:JavaScript pushed:>2026-10-25 stars:>=500",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "java",
+      "window": "total",
+      "query": "language:Java",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "java",
+      "window": "new",
+      "query": "language:Java created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "java",
+      "window": "active",
+      "query": "language:Java pushed:>2026-10-25 stars:>=500",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "cpp",
+      "window": "total",
+      "query": "language:C++",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "cpp",
+      "window": "new",
+      "query": "language:C++ created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "cpp",
+      "window": "active",
+      "query": "language:C++ pushed:>2026-10-25 stars:>=500",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "csharp",
+      "window": "total",
+      "query": "language:C#",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "csharp",
+      "window": "new",
+      "query": "language:C# created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "csharp",
+      "window": "active",
+      "query": "language:C# pushed:>2026-10-25 stars:>=500",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "c",
+      "window": "total",
+      "query": "language:C",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "c",
+      "window": "new",
+      "query": "language:C created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "c",
+      "window": "active",
+      "query": "language:C pushed:>2026-10-25 stars:>=500",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "swift",
+      "window": "total",
+      "query": "language:Swift",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "swift",
+      "window": "new",
+      "query": "language:Swift created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "swift",
+      "window": "active",
+      "query": "language:Swift pushed:>2026-10-25 stars:>=500",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "kotlin",
+      "window": "total",
+      "query": "language:Kotlin",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "kotlin",
+      "window": "new",
+      "query": "language:Kotlin created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "kotlin",
+      "window": "active",
+      "query": "language:Kotlin pushed:>2026-10-25 stars:>=500",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "php",
+      "window": "total",
+      "query": "language:PHP",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "php",
+      "window": "new",
+      "query": "language:PHP created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 50,
+      "kept": 50
+    },
+    {
+      "categoryId": "php",
+      "window": "active",
+      "query": "language:PHP pushed:>2026-10-25 stars:>=500",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "ruby",
+      "window": "total",
+      "query": "language:Ruby",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "ruby",
+      "window": "new",
+      "query": "language:Ruby created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 14,
+      "kept": 14
+    },
+    {
+      "categoryId": "ruby",
+      "window": "active",
+      "query": "language:Ruby pushed:>2026-10-25 stars:>=500",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "dart",
+      "window": "total",
+      "query": "language:Dart",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "dart",
+      "window": "new",
+      "query": "language:Dart created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 80,
+      "kept": 80
+    },
+    {
+      "categoryId": "dart",
+      "window": "active",
+      "query": "language:Dart pushed:>2026-10-25 stars:>=500",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "scala",
+      "window": "total",
+      "query": "language:Scala",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "scala",
+      "window": "new",
+      "query": "language:Scala created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 2,
+      "kept": 2
+    },
+    {
+      "categoryId": "scala",
+      "window": "active",
+      "query": "language:Scala pushed:>2026-10-25 stars:>=500",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "zig",
+      "window": "total",
+      "query": "language:Zig",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "zig",
+      "window": "new",
+      "query": "language:Zig created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 18,
+      "kept": 18
+    },
+    {
+      "categoryId": "zig",
+      "window": "active",
+      "query": "language:Zig pushed:>2026-10-25 stars:>=500",
+      "status": "ok",
+      "fetched": 43,
+      "kept": 43
+    },
+    {
+      "categoryId": "react",
+      "window": "total",
+      "query": "topic:react",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 80
+    },
+    {
+      "categoryId": "vue",
+      "window": "total",
+      "query": "topic:vue",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 82
+    },
+    {
+      "categoryId": "nextjs",
+      "window": "total",
+      "query": "topic:nextjs",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 81
+    },
+    {
+      "categoryId": "angular",
+      "window": "total",
+      "query": "topic:angular",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 56
+    },
+    {
+      "categoryId": "svelte",
+      "window": "total",
+      "query": "topic:svelte",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 83
+    },
+    {
+      "categoryId": "django",
+      "window": "total",
+      "query": "topic:django",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 80
+    },
+    {
+      "categoryId": "spring-boot",
+      "window": "total",
+      "query": "topic:spring-boot",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 87
+    },
+    {
+      "categoryId": "flutter",
+      "window": "total",
+      "query": "topic:flutter",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 71
+    },
+    {
+      "categoryId": "books-lists",
+      "window": "total",
+      "query": "topic:free-programming-books",
+      "status": "ok",
+      "fetched": 3,
+      "kept": 3
+    },
+    {
+      "categoryId": "books-lists",
+      "window": "total",
+      "query": "topic:books",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "books-lists",
+      "window": "total",
+      "query": "topic:book",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "books-lists",
+      "window": "total",
+      "query": "topic:ebook",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "books-lists",
+      "window": "new",
+      "query": "topic:free-programming-books created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "categoryId": "books-lists",
+      "window": "new",
+      "query": "topic:books created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 3,
+      "kept": 3
+    },
+    {
+      "categoryId": "books-lists",
+      "window": "new",
+      "query": "topic:book created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 5,
+      "kept": 5
+    },
+    {
+      "categoryId": "books-lists",
+      "window": "new",
+      "query": "topic:ebook created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 5,
+      "kept": 5
+    },
+    {
+      "categoryId": "ebook-tools",
+      "window": "total",
+      "query": "topic:epub",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "ebook-tools",
+      "window": "total",
+      "query": "topic:ebook-reader",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "ebook-tools",
+      "window": "total",
+      "query": "topic:calibre",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "ebook-tools",
+      "window": "new",
+      "query": "topic:epub created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 14,
+      "kept": 14
+    },
+    {
+      "categoryId": "ebook-tools",
+      "window": "new",
+      "query": "topic:ebook-reader created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 6,
+      "kept": 6
+    },
+    {
+      "categoryId": "ebook-tools",
+      "window": "new",
+      "query": "topic:calibre created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 1,
+      "kept": 1
+    },
+    {
+      "categoryId": "tts",
+      "window": "total",
+      "query": "topic:text-to-speech",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "tts",
+      "window": "total",
+      "query": "topic:tts",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "tts",
+      "window": "total",
+      "query": "topic:speech-synthesis",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "tts",
+      "window": "new",
+      "query": "topic:text-to-speech created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 64,
+      "kept": 64
+    },
+    {
+      "categoryId": "tts",
+      "window": "new",
+      "query": "topic:tts created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 40,
+      "kept": 40
+    },
+    {
+      "categoryId": "tts",
+      "window": "new",
+      "query": "topic:speech-synthesis created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 13,
+      "kept": 13
+    },
+    {
+      "categoryId": "audio-processing",
+      "window": "total",
+      "query": "topic:audio-processing",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "audio-processing",
+      "window": "total",
+      "query": "topic:dsp",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "audio-processing",
+      "window": "total",
+      "query": "topic:audio-library",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "audio-processing",
+      "window": "new",
+      "query": "topic:audio-processing created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 9,
+      "kept": 9
+    },
+    {
+      "categoryId": "audio-processing",
+      "window": "new",
+      "query": "topic:dsp created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 14,
+      "kept": 14
+    },
+    {
+      "categoryId": "audio-processing",
+      "window": "new",
+      "query": "topic:audio-library created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "categoryId": "podcast",
+      "window": "total",
+      "query": "topic:podcast",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "podcast",
+      "window": "total",
+      "query": "topic:podcast-client",
+      "status": "ok",
+      "fetched": 67,
+      "kept": 67
+    },
+    {
+      "categoryId": "podcast",
+      "window": "total",
+      "query": "topic:podcast-player",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "podcast",
+      "window": "new",
+      "query": "topic:podcast created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 6,
+      "kept": 6
+    },
+    {
+      "categoryId": "podcast",
+      "window": "new",
+      "query": "topic:podcast-client created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "categoryId": "podcast",
+      "window": "new",
+      "query": "topic:podcast-player created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "categoryId": "music",
+      "window": "total",
+      "query": "topic:music-player",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "music",
+      "window": "total",
+      "query": "topic:spotify",
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
+    },
+    {
+      "categoryId": "music",
+      "window": "new",
+      "query": "topic:music-player created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 39,
+      "kept": 39
+    },
+    {
+      "categoryId": "music",
+      "window": "new",
+      "query": "topic:spotify created:>2026-08-03 stars:>=50",
+      "status": "ok",
+      "fetched": 40,
+      "kept": 40
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+---
+import { getCategoriesOf } from '../lib/rankings';
+import { withBase } from '../lib/url';
+
+interface Props {
+  group: string;
+  active?: string;
+}
+
+const { group, active } = Astro.props;
+
+// 语言与框架必须分开显示，否则 Go 和 React 并排会让人以为 React 也是一种语言
+const sections = ([
+  { label: '语言', kind: 'language' },
+  { label: '框架', kind: 'framework' },
+  { label: '主题', kind: 'topic' },
+] as const)
+  .map((section) => ({ ...section, items: getCategoriesOf(group, section.kind) }))
+  .filter((section) => section.items.length > 0);
+---
+
+<div class="space-y-2">
+  {
+    sections.map((section) => (
+      <div class="flex flex-wrap items-center gap-x-2 gap-y-1">
+        <span class="w-8 shrink-0 text-[11px] text-muted">{section.label}</span>
+        <ul class="flex flex-wrap gap-2">
+          {section.items.map((category) => (
+            <li>
+              <a
+                href={withBase(`/${group}/${category.id}/`)}
+                aria-current={category.id === active ? 'page' : undefined}
+                class:list={[
+                  'inline-block rounded border px-2.5 py-1 text-xs transition-colors',
+                  category.id === active
+                    ? 'border-brand text-brand-ink'
+                    : 'border-line text-muted hover:text-brand-ink',
+                ]}
+              >
+                {category.name}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    ))
+  }
+</div>

@@ -1,0 +1,134 @@
+{
+  "updatedAt": "2026-11-01T16:41:31.767Z",
+  "timeZone": "Asia/Shanghai",
+  "counts": {
+    "go": {
+      "total": 100,
+      "new": 100,
+      "active": 100
+    },
+    "rust": {
+      "total": 100,
+      "new": 100,
+      "active": 100
+    },
+    "typescript": {
+      "total": 100,
+      "new": 100,
+      "active": 100
+    },
+    "python": {
+      "total": 100,
+      "new": 100,
+      "active": 100
+    },
+    "javascript": {
+      "total": 100,
+      "new": 100,
+      "active": 100
+    },
+    "java": {
+      "total": 100,
+      "new": 100,
+      "active": 100
+    },
+    "cpp": {
+      "total": 100,
+      "new": 100,
+      "active": 100
+    },
+    "csharp": {
+      "total": 100,
+      "new": 100,
+      "active": 100
+    },
+    "c": {
+      "total": 100,
+      "new": 100,
+      "active": 100
+    },
+    "swift": {
+      "total": 100,
+      "new": 100,
+      "active": 100
+    },
+    "kotlin": {
+      "total": 100,
+      "new": 100,
+      "active": 100
+    },
+    "php": {
+      "total": 100,
+      "new": 50,
+      "active": 100
+    },
+    "ruby": {
+      "total": 100,
+      "new": 14,
+      "active": 100
+    },
+    "dart": {
+      "total": 100,
+      "new": 80,
+      "active": 100
+    },
+    "scala": {
+      "total": 100,
+      "new": 2,
+      "active": 100
+    },
+    "zig": {
+      "total": 100,
+      "new": 18,
+      "active": 43
+    },
+    "react": {
+      "total": 80
+    },
+    "vue": {
+      "total": 82
+    },
+    "nextjs": {
+      "total": 81
+    },
+    "angular": {
+      "total": 56
+    },
+    "svelte": {
+      "total": 83
+    },
+    "django": {
+      "total": 80
+    },
+    "spring-boot": {
+      "total": 87
+    },
+    "flutter": {
+      "total": 71
+    },
+    "books-lists": {
+      "total": 100,
+      "new": 11
+    },
+    "ebook-tools": {
+      "total": 100,
+      "new": 16
+    },
+    "tts": {
+      "total": 100,
+      "new": 82
+    },
+    "audio-processing": {
+      "total": 100,
+      "new": 21
+    },
+    "podcast": {
+      "total": 100,
+      "new": 6
+    },
+    "music": {
+      "total": 100,
+      "new": 71
+    }
+  }
+}

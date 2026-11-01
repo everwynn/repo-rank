@@ -1,0 +1,71 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = '按开发语言与框架、书籍、音频分类的 GitHub 仓库排行榜' } = Astro.props;
+const siteName = '开源榜';
+---
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title === siteName ? title : `${title} · ${siteName}`}</title>
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#ffffff" />
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
+    <script is:inline>
+      // 主题初始化：必须在首帧前决定，避免闪烁。
+      // 三态：light | dark | system（默认 system），只改 class 与 color-scheme，不做全局颜色渐变。
+      (function () {
+        var KEY = 'rr-theme';
+        var MODES = ['light', 'dark', 'system'];
+        var root = document.documentElement;
+        var media = window.matchMedia('(prefers-color-scheme: dark)');
+
+        function readMode() {
+          try {
+            var saved = localStorage.getItem(KEY);
+            if (MODES.indexOf(saved) !== -1) return saved;
+          } catch (err) {
+            /* 隐私模式下 localStorage 不可读，按跟随系统处理 */
+          }
+          return 'system';
+        }
+
+        function apply(mode, persist) {
+          var resolved = mode === 'system' ? (media.matches ? 'dark' : 'light') : mode;
+          root.classList.toggle('dark', resolved === 'dark');
+          root.setAttribute('data-theme-mode', mode);
+          root.style.colorScheme = resolved;
+          var meta = document.querySelector('meta[name="theme-color"]');
+          if (meta) meta.setAttribute('content', resolved === 'dark' ? '#0b1120' : '#ffffff');
+          if (persist) {
+            try {
+              localStorage.setItem(KEY, mode);
+            } catch (err) {
+              /* 写不进去就只影响本次会话 */
+            }
+          }
+        }
+
+        // 供 ThemeToggle 组件调用
+        window.__rrTheme = { apply: apply, readMode: readMode };
+        apply(readMode(), false);
+
+        // 选择“跟随系统”时，系统主题变化要跟着变
+        media.addEventListener('change', function () {
+          if (readMode() === 'system') apply('system', false);
+        });
+      })();
+    </script>
+  </head>
+  <body class="antialiased">
+    <slot />
+  </body>
+</html>

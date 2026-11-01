@@ -1,0 +1,59 @@
+{
+  "categoryId": "scala",
+  "window": "new",
+  "updatedAt": "2026-11-01T16:41:31.767Z",
+  "totalFetched": 2,
+  "items": [
+    {
+      "id": 1382575878,
+      "fullName": "NotProtonNot/NotProton",
+      "url": "https://github.com/NotProtonNot/NotProton",
+      "description": "Steam Play for macOS",
+      "homepage": null,
+      "language": "Scala",
+      "topics": [],
+      "license": "GPL-3.0",
+      "stars": 2371,
+      "forks": 138,
+      "createdAt": "2026-09-23T01:55:23Z",
+      "pushedAt": "2026-10-31T05:26:55Z",
+      "archived": false,
+      "rank": 1,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
+      "id": 1426441603,
+      "fullName": "raymondchins/Bridgeplay",
+      "url": "https://github.com/raymondchins/Bridgeplay",
+      "description": "Free fork of NotProton: Windows Steam games in Mac Steam, on CodeWeavers' Wine and Apple's Game Porting Toolkit",
+      "homepage": "https://bridgeplay.dev",
+      "language": "Scala",
+      "topics": [
+        "apple-silicon",
+        "d3dmetal",
+        "dxmt",
+        "dxvk",
+        "game-porting-toolkit",
+        "gptk",
+        "mac-gaming",
+        "macos",
+        "metalfx",
+        "rosetta-2",
+        "steam",
+        "steam-play",
+        "wine",
+        "winecx"
+      ],
+      "license": "GPL-3.0",
+      "stars": 773,
+      "forks": 140,
+      "createdAt": "2026-10-20T03:13:58Z",
+      "pushedAt": "2026-11-01T05:57:15Z",
+      "archived": false,
+      "rank": 2,
+      "rankDelta": null,
+      "starsDelta": null
+    }
+  ]
+}

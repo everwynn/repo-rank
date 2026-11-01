@@ -1,0 +1,46 @@
+{
+  "windows": {
+    "total": { "label": "总星榜", "dateQualifier": null, "days": 0 },
+    "new": { "label": "新星榜", "dateQualifier": "created", "days": 90 },
+    "active": { "label": "活跃榜", "dateQualifier": "pushed", "days": 7 }
+  },
+  "groups": [
+    { "id": "dev", "name": "开发", "hint": "按编程语言与框架" },
+    { "id": "books", "name": "书籍", "hint": "书单资源与电子书工具" },
+    { "id": "audio", "name": "音频", "hint": "语音合成、音频处理与播客" }
+  ],
+  "categories": [
+    { "id": "go", "group": "dev", "kind": "language", "name": "Go", "enabled": true, "queries": [{ "language": "Go" }], "windows": ["total", "new", "active"], "minStars": { "new": 50, "active": 500 } },
+    { "id": "rust", "group": "dev", "kind": "language", "name": "Rust", "enabled": true, "queries": [{ "language": "Rust" }], "windows": ["total", "new", "active"], "minStars": { "new": 50, "active": 500 } },
+    { "id": "typescript", "group": "dev", "kind": "language", "name": "TypeScript", "enabled": true, "queries": [{ "language": "TypeScript" }], "windows": ["total", "new", "active"], "minStars": { "new": 50, "active": 500 } },
+    { "id": "python", "group": "dev", "kind": "language", "name": "Python", "enabled": true, "queries": [{ "language": "Python" }], "windows": ["total", "new", "active"], "minStars": { "new": 50, "active": 500 } },
+    { "id": "javascript", "group": "dev", "kind": "language", "name": "JavaScript", "enabled": true, "queries": [{ "language": "JavaScript" }], "windows": ["total", "new", "active"], "minStars": { "new": 50, "active": 500 } },
+    { "id": "java", "group": "dev", "kind": "language", "name": "Java", "enabled": true, "queries": [{ "language": "Java" }], "windows": ["total", "new", "active"], "minStars": { "new": 50, "active": 500 } },
+    { "id": "cpp", "group": "dev", "kind": "language", "name": "C++", "enabled": true, "queries": [{ "language": "C++" }], "windows": ["total", "new", "active"], "minStars": { "new": 50, "active": 500 } },
+    { "id": "csharp", "group": "dev", "kind": "language", "name": "C#", "enabled": true, "queries": [{ "language": "C#" }], "windows": ["total", "new", "active"], "minStars": { "new": 50, "active": 500 } },
+    { "id": "c", "group": "dev", "kind": "language", "name": "C", "enabled": true, "queries": [{ "language": "C" }], "windows": ["total", "new", "active"], "minStars": { "new": 50, "active": 500 } },
+    { "id": "swift", "group": "dev", "kind": "language", "name": "Swift", "enabled": true, "queries": [{ "language": "Swift" }], "windows": ["total", "new", "active"], "minStars": { "new": 50, "active": 500 } },
+    { "id": "kotlin", "group": "dev", "kind": "language", "name": "Kotlin", "enabled": true, "queries": [{ "language": "Kotlin" }], "windows": ["total", "new", "active"], "minStars": { "new": 50, "active": 500 } },
+    { "id": "php", "group": "dev", "kind": "language", "name": "PHP", "enabled": true, "queries": [{ "language": "PHP" }], "windows": ["total", "new", "active"], "minStars": { "new": 50, "active": 500 } },
+    { "id": "ruby", "group": "dev", "kind": "language", "name": "Ruby", "enabled": true, "queries": [{ "language": "Ruby" }], "windows": ["total", "new", "active"], "minStars": { "new": 50, "active": 500 } },
+    { "id": "dart", "group": "dev", "kind": "language", "name": "Dart", "enabled": true, "queries": [{ "language": "Dart" }], "windows": ["total", "new", "active"], "minStars": { "new": 50, "active": 500 } },
+    { "id": "scala", "group": "dev", "kind": "language", "name": "Scala", "enabled": true, "queries": [{ "language": "Scala" }], "windows": ["total", "new", "active"], "minStars": { "new": 50, "active": 500 } },
+    { "id": "zig", "group": "dev", "kind": "language", "name": "Zig", "enabled": true, "queries": [{ "language": "Zig" }], "windows": ["total", "new", "active"], "minStars": { "new": 50, "active": 500 } },
+
+    { "id": "react", "group": "dev", "kind": "framework", "name": "React", "enabled": true, "queries": [{ "topic": "react" }], "windows": ["total"], "langFilter": ["JavaScript", "TypeScript"] },
+    { "id": "vue", "group": "dev", "kind": "framework", "name": "Vue", "enabled": true, "queries": [{ "topic": "vue" }], "windows": ["total"], "langFilter": ["Vue", "TypeScript", "JavaScript"] },
+    { "id": "nextjs", "group": "dev", "kind": "framework", "name": "Next.js", "enabled": true, "queries": [{ "topic": "nextjs" }], "windows": ["total"], "langFilter": ["TypeScript", "JavaScript"] },
+    { "id": "angular", "group": "dev", "kind": "framework", "name": "Angular", "enabled": true, "queries": [{ "topic": "angular" }], "windows": ["total"], "langFilter": ["TypeScript"] },
+    { "id": "svelte", "group": "dev", "kind": "framework", "name": "Svelte", "enabled": true, "queries": [{ "topic": "svelte" }], "windows": ["total"], "langFilter": ["Svelte", "TypeScript", "JavaScript"] },
+    { "id": "django", "group": "dev", "kind": "framework", "name": "Django", "enabled": true, "queries": [{ "topic": "django" }], "windows": ["total"], "langFilter": ["Python"] },
+    { "id": "spring-boot", "group": "dev", "kind": "framework", "name": "Spring Boot", "enabled": true, "queries": [{ "topic": "spring-boot" }], "windows": ["total"], "langFilter": ["Java", "Kotlin", "Groovy"] },
+    { "id": "flutter", "group": "dev", "kind": "framework", "name": "Flutter", "enabled": true, "queries": [{ "topic": "flutter" }], "windows": ["total"], "langFilter": ["Dart"] },
+
+    { "id": "books-lists", "group": "books", "kind": "topic", "name": "书单资源库", "enabled": true, "queries": [{ "topic": "free-programming-books" }, { "topic": "books" }, { "topic": "book" }, { "topic": "ebook" }], "windows": ["total", "new"], "minStars": { "new": 50 } },
+    { "id": "ebook-tools", "group": "books", "kind": "topic", "name": "电子书工具", "enabled": true, "queries": [{ "topic": "epub" }, { "topic": "ebook-reader" }, { "topic": "calibre" }], "windows": ["total", "new"], "minStars": { "new": 50 } },
+    { "id": "tts", "group": "audio", "kind": "topic", "name": "语音合成", "enabled": true, "queries": [{ "topic": "text-to-speech" }, { "topic": "tts" }, { "topic": "speech-synthesis" }], "windows": ["total", "new"], "minStars": { "new": 50 } },
+    { "id": "audio-processing", "group": "audio", "kind": "topic", "name": "音频处理", "enabled": true, "queries": [{ "topic": "audio-processing" }, { "topic": "dsp" }, { "topic": "audio-library" }], "windows": ["total", "new"], "minStars": { "new": 50 } },
+    { "id": "podcast", "group": "audio", "kind": "topic", "name": "播客", "enabled": true, "queries": [{ "topic": "podcast" }, { "topic": "podcast-client" }, { "topic": "podcast-player" }], "windows": ["total", "new"], "minStars": { "new": 50 } },
+    { "id": "music", "group": "audio", "kind": "topic", "name": "音乐工具", "enabled": true, "queries": [{ "topic": "music-player" }, { "topic": "spotify" }], "windows": ["total", "new"], "minStars": { "new": 50 } }
+  ]
+}

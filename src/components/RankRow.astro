@@ -1,0 +1,90 @@
+---
+import { formatStars, relativeTime } from '../../scripts/lib/format.mjs';
+import { languageDot } from '../../scripts/lib/color.mjs';
+import type { Repo } from '../types';
+
+interface Props {
+  repo: Repo;
+  /** 本页最大 star，用于把条形长度做成本页内的相对值 */
+  maxStars?: number;
+  /** 语言分类页里每条都是同一语言，重复标注是零信息，关掉即可 */
+  showLanguage?: boolean;
+}
+
+const { repo, maxStars = 0, showLanguage = true } = Astro.props;
+const rank = repo.rank ?? 0;
+
+const badgeClass =
+  rank === 1
+    ? 'bg-amber-400/25 text-amber-700 ring-1 ring-amber-500/50 dark:text-amber-200'
+    : rank === 2
+      ? 'bg-slate-400/20 text-slate-600 ring-1 ring-slate-400/50 dark:text-slate-200'
+      : rank === 3
+        ? 'bg-orange-400/20 text-orange-700 ring-1 ring-orange-500/50 dark:text-orange-200'
+        : rank <= 10
+          ? 'text-fg ring-1 ring-line'
+          : 'text-muted';
+
+const barPercent = maxStars > 0 ? Math.max(4, Math.round((repo.stars / maxStars) * 100)) : 0;
+const dot = repo.language ? languageDot(repo.language) : null;
+const topics = repo.topics.slice(0, 2);
+---
+
+<li class="rank-row relative flex min-w-0 gap-3 rounded-lg border border-line bg-card p-4 focus-within:outline focus-within:outline-2 focus-within:outline-offset-2 focus-within:outline-brand">
+  <span
+    class:list={['mt-0.5 grid h-6 w-6 shrink-0 place-items-center rounded-md text-xs font-semibold tabular-nums', badgeClass]}
+    aria-hidden="true"
+  >
+    {repo.rank}
+  </span>
+
+  <div class="min-w-0 flex-1">
+    <a
+      href={repo.url}
+      target="_blank"
+      rel="noopener noreferrer"
+      class="inline-flex max-w-full items-center gap-1.5 font-medium text-brand-ink after:absolute after:inset-0 after:content-[''] focus-visible:outline-none"
+      aria-label={`在 GitHub 打开 ${repo.fullName}（新标签页）`}
+    >
+      <span class="truncate">{repo.fullName}</span>
+      <svg class="h-3.5 w-3.5 shrink-0" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+        <path d="M6 3h7v7M13 3 4 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+      </svg>
+    </a>
+
+    <p class="mt-1 line-clamp-2 text-sm text-muted">{repo.description ?? '暂无简介'}</p>
+
+    <div class="mt-2 flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-muted">
+      <span class="inline-flex items-center gap-1">
+        <svg class="h-3 w-3" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
+          <path d="m8 1.5 1.9 4.1 4.5.5-3.3 3 .9 4.4L8 11.4 4 13.5l.9-4.4-3.3-3 4.5-.5z" />
+        </svg>
+        {formatStars(repo.stars)}
+        <span class="ml-0.5 inline-block h-1 w-12 overflow-hidden rounded-full bg-line align-middle" aria-hidden="true">
+          <span class="block h-full rounded-full bg-brand" style={`width:${barPercent}%`}></span>
+        </span>
+      </span>
+
+      {
+        showLanguage && repo.language && dot && (
+          <span class="inline-flex items-center gap-1.5">
+            <span class="lang-dot" style={`--lang:${dot.light};--lang-dark:${dot.dark}`} aria-hidden="true" />
+            {repo.language}
+          </span>
+        )
+      }
+
+      {repo.license && <span>{repo.license}</span>}
+      {repo.archived && <span class="text-down">已归档</span>}
+      <span>更新于 {relativeTime(repo.pushedAt)}</span>
+    </div>
+
+    {topics.length > 0 && (
+      <ul class="mt-2 flex flex-wrap gap-1.5">
+        {topics.map((topic) => (
+          <li class="rounded border border-line px-1.5 py-0.5 text-[11px] text-muted">{topic}</li>
+        ))}
+      </ul>
+    )}
+  </div>
+</li>
