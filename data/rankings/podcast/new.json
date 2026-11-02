@@ -1,7 +1,7 @@
 {
   "categoryId": "podcast",
   "window": "new",
-  "updatedAt": "2026-11-02T12:36:51.365Z",
+  "updatedAt": "2026-11-02T20:49:11.808Z",
   "totalFetched": 7,
   "items": [
     {
@@ -34,7 +34,7 @@
         "udemy-alternative"
       ],
       "license": "MIT",
-      "stars": 586,
+      "stars": 594,
       "forks": 70,
       "createdAt": "2026-10-14T01:49:12Z",
       "pushedAt": "2026-10-29T04:35:59Z",
@@ -205,7 +205,7 @@
       "stars": 71,
       "forks": 0,
       "createdAt": "2026-09-22T21:39:09Z",
-      "pushedAt": "2026-11-02T08:53:08Z",
+      "pushedAt": "2026-11-02T19:10:50Z",
       "archived": false,
       "rank": 6,
       "rankDelta": null,

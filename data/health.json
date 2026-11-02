@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T12:36:51.365Z",
+  "updatedAt": "2026-11-02T20:49:11.808Z",
   "queries": [
     {
       "categoryId": "go",
@@ -326,8 +326,8 @@
       "window": "new",
       "query": "language:Dart created:>2026-08-04 stars:>=50",
       "status": "ok",
-      "fetched": 78,
-      "kept": 78
+      "fetched": 80,
+      "kept": 80
     },
     {
       "categoryId": "dart",
@@ -374,16 +374,16 @@
       "window": "new",
       "query": "language:Zig created:>2026-08-04 stars:>=50",
       "status": "ok",
-      "fetched": 20,
-      "kept": 20
+      "fetched": 21,
+      "kept": 21
     },
     {
       "categoryId": "zig",
       "window": "active",
       "query": "language:Zig pushed:>2026-10-26 stars:>=500",
       "status": "ok",
-      "fetched": 41,
-      "kept": 41
+      "fetched": 43,
+      "kept": 43
     },
     {
       "categoryId": "react",
@@ -431,7 +431,7 @@
       "query": "topic:django",
       "status": "ok",
       "fetched": 100,
-      "kept": 80
+      "kept": 79
     },
     {
       "categoryId": "spring-boot",
@@ -726,16 +726,16 @@
       "window": "new",
       "query": "topic:music-player created:>2026-08-04 stars:>=50",
       "status": "ok",
-      "fetched": 38,
-      "kept": 38
+      "fetched": 39,
+      "kept": 39
     },
     {
       "categoryId": "music",
       "window": "new",
       "query": "topic:spotify created:>2026-08-04 stars:>=50",
       "status": "ok",
-      "fetched": 39,
-      "kept": 39
+      "fetched": 40,
+      "kept": 40
     }
   ]
 }
