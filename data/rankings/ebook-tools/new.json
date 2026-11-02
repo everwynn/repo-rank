@@ -1,8 +1,8 @@
 {
   "categoryId": "ebook-tools",
   "window": "new",
-  "updatedAt": "2026-11-01T16:41:31.767Z",
-  "totalFetched": 21,
+  "updatedAt": "2026-11-02T02:34:33.112Z",
+  "totalFetched": 20,
   "items": [
     {
       "id": 1337098146,
@@ -48,7 +48,7 @@
         "typescript"
       ],
       "license": null,
-      "stars": 367,
+      "stars": 369,
       "forks": 28,
       "createdAt": "2026-10-03T15:00:08Z",
       "pushedAt": "2026-11-01T09:18:07Z",
@@ -86,10 +86,10 @@
         "webassembly"
       ],
       "license": "MIT",
-      "stars": 296,
+      "stars": 327,
       "forks": 8,
       "createdAt": "2026-09-18T08:50:10Z",
-      "pushedAt": "2026-11-01T14:17:55Z",
+      "pushedAt": "2026-11-02T02:37:19Z",
       "archived": false,
       "rank": 3,
       "rankDelta": null,
@@ -114,7 +114,7 @@
         "userscript"
       ],
       "license": "AGPL-3.0",
-      "stars": 251,
+      "stars": 252,
       "forks": 8,
       "createdAt": "2026-08-06T17:51:13Z",
       "pushedAt": "2026-09-24T14:40:44Z",
@@ -198,8 +198,8 @@
         "rss-reader"
       ],
       "license": "GPL-3.0",
-      "stars": 137,
-      "forks": 12,
+      "stars": 151,
+      "forks": 13,
       "createdAt": "2026-10-24T13:08:01Z",
       "pushedAt": "2026-11-01T10:41:14Z",
       "archived": false,
@@ -286,7 +286,7 @@
         "txt-reader"
       ],
       "license": "GPL-3.0",
-      "stars": 82,
+      "stars": 83,
       "forks": 38,
       "createdAt": "2026-10-13T08:31:04Z",
       "pushedAt": "2026-10-29T16:56:21Z",
@@ -362,7 +362,7 @@
       "stars": 68,
       "forks": 0,
       "createdAt": "2026-09-22T20:04:05Z",
-      "pushedAt": "2026-11-01T12:55:23Z",
+      "pushedAt": "2026-11-02T02:12:41Z",
       "archived": false,
       "rank": 12,
       "rankDelta": null,
@@ -455,27 +455,6 @@
       "pushedAt": "2026-08-29T07:56:28Z",
       "archived": false,
       "rank": 15,
-      "rankDelta": null,
-      "starsDelta": null
-    },
-    {
-      "id": 1323051022,
-      "fullName": "chrisvariety/acsm-converter",
-      "url": "https://github.com/chrisvariety/acsm-converter",
-      "description": "Convert ACSM to EPUB/PDF",
-      "homepage": "https://www.acsm-converter.com",
-      "language": "Python",
-      "topics": [
-        "acsm",
-        "epub"
-      ],
-      "license": "GPL-3.0",
-      "stars": 51,
-      "forks": 9,
-      "createdAt": "2026-08-04T14:36:27Z",
-      "pushedAt": "2026-10-24T13:54:08Z",
-      "archived": false,
-      "rank": 16,
       "rankDelta": null,
       "starsDelta": null
     }
