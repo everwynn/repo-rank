@@ -1,8 +1,8 @@
 {
   "categoryId": "podcast",
   "window": "new",
-  "updatedAt": "2026-11-02T02:34:33.112Z",
-  "totalFetched": 6,
+  "updatedAt": "2026-11-02T12:36:51.365Z",
+  "totalFetched": 7,
   "items": [
     {
       "id": 1418226869,
@@ -34,8 +34,8 @@
         "udemy-alternative"
       ],
       "license": "MIT",
-      "stars": 584,
-      "forks": 69,
+      "stars": 586,
+      "forks": 70,
       "createdAt": "2026-10-14T01:49:12Z",
       "pushedAt": "2026-10-29T04:35:59Z",
       "archived": false,
@@ -205,9 +205,38 @@
       "stars": 71,
       "forks": 0,
       "createdAt": "2026-09-22T21:39:09Z",
-      "pushedAt": "2026-11-02T01:16:01Z",
+      "pushedAt": "2026-11-02T08:53:08Z",
       "archived": false,
       "rank": 6,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
+      "id": 1411529408,
+      "fullName": "LeoLee0812/sunyuchen-alan-interview",
+      "url": "https://github.com/LeoLee0812/sunyuchen-alan-interview",
+      "description": "邵艾伦 Alan 访谈孙宇晨 4 小时 22 分全文逐字稿：约 7.5 万字，带时间戳，按话题切成 16 章，Markdown 可搜索可喂 AI",
+      "homepage": null,
+      "language": null,
+      "topics": [
+        "ai",
+        "chinese",
+        "crypto",
+        "interview",
+        "justin-sun",
+        "markdown",
+        "podcast",
+        "sun-yuchen",
+        "transcript",
+        "tron"
+      ],
+      "license": null,
+      "stars": 50,
+      "forks": 6,
+      "createdAt": "2026-10-09T08:33:03Z",
+      "pushedAt": "2026-10-09T09:19:12Z",
+      "archived": false,
+      "rank": 7,
       "rankDelta": null,
       "starsDelta": null
     }

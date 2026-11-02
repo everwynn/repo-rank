@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T02:34:33.112Z",
+  "updatedAt": "2026-11-02T12:36:51.365Z",
   "queries": [
     {
       "categoryId": "go",
@@ -278,8 +278,8 @@
       "window": "new",
       "query": "language:PHP created:>2026-08-04 stars:>=50",
       "status": "ok",
-      "fetched": 50,
-      "kept": 50
+      "fetched": 52,
+      "kept": 52
     },
     {
       "categoryId": "php",
@@ -374,16 +374,16 @@
       "window": "new",
       "query": "language:Zig created:>2026-08-04 stars:>=50",
       "status": "ok",
-      "fetched": 19,
-      "kept": 19
+      "fetched": 20,
+      "kept": 20
     },
     {
       "categoryId": "zig",
       "window": "active",
       "query": "language:Zig pushed:>2026-10-26 stars:>=500",
       "status": "ok",
-      "fetched": 38,
-      "kept": 38
+      "fetched": 41,
+      "kept": 41
     },
     {
       "categoryId": "react",
@@ -407,7 +407,7 @@
       "query": "topic:nextjs",
       "status": "ok",
       "fetched": 100,
-      "kept": 81
+      "kept": 82
     },
     {
       "categoryId": "angular",
@@ -415,7 +415,7 @@
       "query": "topic:angular",
       "status": "ok",
       "fetched": 100,
-      "kept": 56
+      "kept": 55
     },
     {
       "categoryId": "svelte",
@@ -686,8 +686,8 @@
       "window": "new",
       "query": "topic:podcast created:>2026-08-04 stars:>=50",
       "status": "ok",
-      "fetched": 6,
-      "kept": 6
+      "fetched": 7,
+      "kept": 7
     },
     {
       "categoryId": "podcast",
@@ -734,8 +734,8 @@
       "window": "new",
       "query": "topic:spotify created:>2026-08-04 stars:>=50",
       "status": "ok",
-      "fetched": 40,
-      "kept": 40
+      "fetched": 39,
+      "kept": 39
     }
   ]
 }
