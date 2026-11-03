@@ -1,8 +1,8 @@
 {
   "categoryId": "books-lists",
   "window": "new",
-  "updatedAt": "2026-11-02T20:49:11.808Z",
-  "totalFetched": 13,
+  "updatedAt": "2026-11-03T03:56:54.834Z",
+  "totalFetched": 12,
   "items": [
     {
       "id": 1342935078,
@@ -29,7 +29,7 @@
         "performance-engineering"
       ],
       "license": "Apache-2.0",
-      "stars": 7244,
+      "stars": 7254,
       "forks": 573,
       "createdAt": "2026-08-22T15:30:41Z",
       "pushedAt": "2026-10-01T08:19:29Z",
@@ -58,7 +58,7 @@
         "workbuddy"
       ],
       "license": "MIT",
-      "stars": 1207,
+      "stars": 1210,
       "forks": 110,
       "createdAt": "2026-09-08T07:48:21Z",
       "pushedAt": "2026-10-19T16:34:57Z",
@@ -87,7 +87,7 @@
         "typescript"
       ],
       "license": null,
-      "stars": 432,
+      "stars": 433,
       "forks": 17,
       "createdAt": "2026-08-07T17:14:43Z",
       "pushedAt": "2026-08-24T09:26:27Z",
@@ -189,32 +189,6 @@
       "starsDelta": null
     },
     {
-      "id": 1324095077,
-      "fullName": "kingstacker/Kkindle",
-      "url": "https://github.com/kingstacker/Kkindle",
-      "description": "一款win、linux、mac下使用的墨水屏管理软件，支持书籍阅读管理、设备管理等功能",
-      "homepage": "https://kkindle.stacker.beauty/",
-      "language": "C#",
-      "topics": [
-        "ai",
-        "calibre",
-        "ebook",
-        "ebook-downloader",
-        "ebook-manager",
-        "epub",
-        "kindle"
-      ],
-      "license": "GPL-3.0",
-      "stars": 86,
-      "forks": 5,
-      "createdAt": "2026-08-05T13:40:59Z",
-      "pushedAt": "2026-11-02T15:01:24Z",
-      "archived": false,
-      "rank": 7,
-      "rankDelta": null,
-      "starsDelta": null
-    },
-    {
       "id": 1429824275,
       "fullName": "hollobit/ai-native",
       "url": "https://github.com/hollobit/ai-native",
@@ -231,11 +205,11 @@
       ],
       "license": null,
       "stars": 75,
-      "forks": 14,
+      "forks": 15,
       "createdAt": "2026-10-22T14:00:11Z",
       "pushedAt": "2026-11-01T23:01:34Z",
       "archived": false,
-      "rank": 8,
+      "rank": 7,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -272,7 +246,7 @@
       "createdAt": "2026-10-03T13:36:54Z",
       "pushedAt": "2026-10-06T04:32:33Z",
       "archived": false,
-      "rank": 9,
+      "rank": 8,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -303,7 +277,7 @@
       "createdAt": "2026-09-19T16:21:55Z",
       "pushedAt": "2026-10-30T03:47:51Z",
       "archived": false,
-      "rank": 10,
+      "rank": 9,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -315,24 +289,32 @@
       "homepage": null,
       "language": null,
       "topics": [
+        "ai-generated-book",
         "anthropic",
         "anthropic-certification",
         "ccdv-f",
         "ccdv-f-study-guide",
         "certification",
+        "claude",
         "claude-certification",
         "claude-certified-developer",
+        "claude-code",
+        "developer",
+        "development",
         "ebook",
+        "epub",
+        "exam-prep",
         "guide",
-        "pdf"
+        "pdf",
+        "study-guide"
       ],
       "license": null,
       "stars": 52,
-      "forks": 8,
+      "forks": 9,
       "createdAt": "2026-09-15T01:51:59Z",
-      "pushedAt": "2026-09-15T16:26:31Z",
+      "pushedAt": "2026-11-02T23:42:10Z",
       "archived": false,
-      "rank": 11,
+      "rank": 10,
       "rankDelta": null,
       "starsDelta": null
     }

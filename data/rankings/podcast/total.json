@@ -1,7 +1,7 @@
 {
   "categoryId": "podcast",
   "window": "total",
-  "updatedAt": "2026-11-02T20:49:11.808Z",
+  "updatedAt": "2026-11-03T03:56:54.834Z",
   "totalFetched": 267,
   "items": [
     {
@@ -32,8 +32,8 @@
         "typescript"
       ],
       "license": "MIT",
-      "stars": 84891,
-      "forks": 11932,
+      "stars": 84906,
+      "forks": 11936,
       "createdAt": "2025-05-07T02:50:19Z",
       "pushedAt": "2026-11-02T13:37:00Z",
       "archived": false,
@@ -65,8 +65,8 @@
         "vector"
       ],
       "license": null,
-      "stars": 17726,
-      "forks": 1251,
+      "stars": 17727,
+      "forks": 1252,
       "createdAt": "2016-07-22T08:06:02Z",
       "pushedAt": "2024-07-04T18:17:39Z",
       "archived": false,
@@ -123,8 +123,8 @@
         "youtube-shorts"
       ],
       "license": "MIT",
-      "stars": 9930,
-      "forks": 1766,
+      "stars": 9934,
+      "forks": 1767,
       "createdAt": "2025-07-08T04:51:15Z",
       "pushedAt": "2026-11-02T14:46:20Z",
       "archived": false,
@@ -277,8 +277,8 @@
         "yt-dlp"
       ],
       "license": "MIT",
-      "stars": 4561,
-      "forks": 332,
+      "stars": 4562,
+      "forks": 333,
       "createdAt": "2026-02-24T07:18:59Z",
       "pushedAt": "2026-10-22T20:51:38Z",
       "archived": false,
@@ -488,7 +488,7 @@
       ],
       "license": "Apache-2.0",
       "stars": 1618,
-      "forks": 227,
+      "forks": 228,
       "createdAt": "2025-05-30T16:05:36Z",
       "pushedAt": "2026-10-24T16:06:54Z",
       "archived": false,
@@ -641,7 +641,7 @@
       "stars": 1293,
       "forks": 64,
       "createdAt": "2025-11-30T01:01:04Z",
-      "pushedAt": "2026-11-02T20:51:38Z",
+      "pushedAt": "2026-11-03T02:58:48Z",
       "archived": false,
       "rank": 21,
       "rankDelta": null,
@@ -661,7 +661,7 @@
         "voice-synthesis"
       ],
       "license": null,
-      "stars": 1293,
+      "stars": 1292,
       "forks": 134,
       "createdAt": "2025-06-20T12:33:14Z",
       "pushedAt": "2025-07-01T03:46:15Z",
@@ -700,7 +700,7 @@
         "rss"
       ],
       "license": "GPL-3.0",
-      "stars": 1274,
+      "stars": 1275,
       "forks": 42,
       "createdAt": "2024-02-07T16:20:43Z",
       "pushedAt": "2026-11-02T17:05:27Z",
@@ -870,7 +870,7 @@
       "stars": 854,
       "forks": 49,
       "createdAt": "2022-02-17T03:06:55Z",
-      "pushedAt": "2026-11-02T19:51:50Z",
+      "pushedAt": "2026-11-02T22:07:20Z",
       "archived": false,
       "rank": 29,
       "rankDelta": null,
@@ -898,10 +898,10 @@
         "spotify-downloader"
       ],
       "license": "AGPL-3.0",
-      "stars": 839,
+      "stars": 840,
       "forks": 87,
       "createdAt": "2025-02-05T11:31:59Z",
-      "pushedAt": "2026-10-31T17:35:18Z",
+      "pushedAt": "2026-11-03T03:49:39Z",
       "archived": false,
       "rank": 30,
       "rankDelta": null,
@@ -1147,7 +1147,7 @@
         "podcast-player"
       ],
       "license": "BSD-3-Clause",
-      "stars": 626,
+      "stars": 627,
       "forks": 140,
       "createdAt": "2020-06-10T05:49:22Z",
       "pushedAt": "2026-04-22T16:53:19Z",
@@ -1239,7 +1239,7 @@
         "udemy-alternative"
       ],
       "license": "MIT",
-      "stars": 594,
+      "stars": 596,
       "forks": 70,
       "createdAt": "2026-10-14T01:49:12Z",
       "pushedAt": "2026-10-29T04:35:59Z",
@@ -1264,7 +1264,7 @@
         "podcasts"
       ],
       "license": "MIT",
-      "stars": 591,
+      "stars": 592,
       "forks": 48,
       "createdAt": "2020-04-25T19:18:14Z",
       "pushedAt": "2026-08-17T16:49:38Z",
