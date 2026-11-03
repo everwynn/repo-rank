@@ -1,7 +1,7 @@
 {
   "categoryId": "books-lists",
   "window": "new",
-  "updatedAt": "2026-11-03T03:56:54.834Z",
+  "updatedAt": "2026-11-03T18:28:51.125Z",
   "totalFetched": 12,
   "items": [
     {
@@ -29,8 +29,8 @@
         "performance-engineering"
       ],
       "license": "Apache-2.0",
-      "stars": 7254,
-      "forks": 573,
+      "stars": 7278,
+      "forks": 575,
       "createdAt": "2026-08-22T15:30:41Z",
       "pushedAt": "2026-10-01T08:19:29Z",
       "archived": false,
@@ -58,8 +58,8 @@
         "workbuddy"
       ],
       "license": "MIT",
-      "stars": 1210,
-      "forks": 110,
+      "stars": 1271,
+      "forks": 119,
       "createdAt": "2026-09-08T07:48:21Z",
       "pushedAt": "2026-10-19T16:34:57Z",
       "archived": false,
@@ -149,10 +149,10 @@
         "wechat-pay"
       ],
       "license": null,
-      "stars": 275,
+      "stars": 273,
       "forks": 2,
       "createdAt": "2026-09-27T12:06:01Z",
-      "pushedAt": "2026-10-19T07:15:27Z",
+      "pushedAt": "2026-11-03T12:34:54Z",
       "archived": false,
       "rank": 5,
       "rankDelta": null,
@@ -179,7 +179,7 @@
         "llm"
       ],
       "license": null,
-      "stars": 90,
+      "stars": 92,
       "forks": 15,
       "createdAt": "2026-08-24T09:45:24Z",
       "pushedAt": "2026-09-10T04:50:09Z",
@@ -204,7 +204,7 @@
         "korean"
       ],
       "license": null,
-      "stars": 75,
+      "stars": 77,
       "forks": 15,
       "createdAt": "2026-10-22T14:00:11Z",
       "pushedAt": "2026-11-01T23:01:34Z",
