@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T03:02:17.063Z",
+  "updatedAt": "2026-11-04T18:40:31.307Z",
   "queries": [
     {
       "categoryId": "go",
@@ -278,8 +278,8 @@
       "window": "new",
       "query": "language:PHP created:>2026-08-06 stars:>=50",
       "status": "ok",
-      "fetched": 52,
-      "kept": 52
+      "fetched": 53,
+      "kept": 53
     },
     {
       "categoryId": "php",
@@ -423,7 +423,7 @@
       "query": "topic:svelte",
       "status": "ok",
       "fetched": 100,
-      "kept": 83
+      "kept": 82
     },
     {
       "categoryId": "django",
@@ -439,7 +439,7 @@
       "query": "topic:spring-boot",
       "status": "ok",
       "fetched": 100,
-      "kept": 87
+      "kept": 86
     },
     {
       "categoryId": "flutter",
@@ -590,16 +590,16 @@
       "window": "new",
       "query": "topic:text-to-speech created:>2026-08-06 stars:>=50",
       "status": "ok",
-      "fetched": 61,
-      "kept": 61
+      "fetched": 62,
+      "kept": 62
     },
     {
       "categoryId": "tts",
       "window": "new",
       "query": "topic:tts created:>2026-08-06 stars:>=50",
       "status": "ok",
-      "fetched": 40,
-      "kept": 40
+      "fetched": 43,
+      "kept": 43
     },
     {
       "categoryId": "tts",
@@ -726,8 +726,8 @@
       "window": "new",
       "query": "topic:music-player created:>2026-08-06 stars:>=50",
       "status": "ok",
-      "fetched": 39,
-      "kept": 39
+      "fetched": 40,
+      "kept": 40
     },
     {
       "categoryId": "music",
