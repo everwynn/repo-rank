@@ -1,8 +1,8 @@
 {
   "categoryId": "ruby",
   "window": "new",
-  "updatedAt": "2026-11-03T18:28:51.125Z",
-  "totalFetched": 13,
+  "updatedAt": "2026-11-04T03:02:17.063Z",
+  "totalFetched": 12,
   "items": [
     {
       "id": 1417926206,
@@ -13,8 +13,8 @@
       "language": "Ruby",
       "topics": [],
       "license": null,
-      "stars": 340,
-      "forks": 43,
+      "stars": 342,
+      "forks": 44,
       "createdAt": "2026-10-13T20:23:40Z",
       "pushedAt": "2026-10-25T20:08:56Z",
       "archived": false,
@@ -31,10 +31,10 @@
       "language": "Ruby",
       "topics": [],
       "license": "MIT",
-      "stars": 209,
-      "forks": 26,
+      "stars": 210,
+      "forks": 27,
       "createdAt": "2026-09-26T15:33:53Z",
-      "pushedAt": "2026-11-01T09:08:32Z",
+      "pushedAt": "2026-11-03T19:52:56Z",
       "archived": false,
       "rank": 2,
       "rankDelta": null,
@@ -52,31 +52,9 @@
       "stars": 152,
       "forks": 6,
       "createdAt": "2026-09-16T13:38:28Z",
-      "pushedAt": "2026-10-27T23:25:04Z",
+      "pushedAt": "2026-11-03T23:25:05Z",
       "archived": false,
       "rank": 3,
-      "rankDelta": null,
-      "starsDelta": null
-    },
-    {
-      "id": 1325715792,
-      "fullName": "basecamp/hotcell",
-      "url": "https://github.com/basecamp/hotcell",
-      "description": "☢️HotCell☢️ is an unprivileged sidecar container for handling untrusted inputs, purpose-built for Rails applications.",
-      "homepage": "https://basecamp.github.io/hotcell/",
-      "language": "Ruby",
-      "topics": [
-        "activestorage",
-        "rails",
-        "security"
-      ],
-      "license": "MIT",
-      "stars": 134,
-      "forks": 3,
-      "createdAt": "2026-08-06T19:29:54Z",
-      "pushedAt": "2026-10-28T08:14:11Z",
-      "archived": false,
-      "rank": 4,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -109,12 +87,12 @@
         "time-tracking"
       ],
       "license": "AGPL-3.0",
-      "stars": 121,
+      "stars": 124,
       "forks": 8,
       "createdAt": "2026-10-11T22:40:20Z",
-      "pushedAt": "2026-11-03T08:55:23Z",
+      "pushedAt": "2026-11-03T22:20:09Z",
       "archived": false,
-      "rank": 5,
+      "rank": 4,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -138,9 +116,9 @@
       "stars": 88,
       "forks": 45,
       "createdAt": "2026-09-16T13:59:49Z",
-      "pushedAt": "2026-11-03T15:50:47Z",
+      "pushedAt": "2026-11-04T01:42:01Z",
       "archived": false,
-      "rank": 6,
+      "rank": 5,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -158,7 +136,7 @@
       "createdAt": "2026-09-15T22:11:56Z",
       "pushedAt": "2026-09-24T23:50:05Z",
       "archived": false,
-      "rank": 7,
+      "rank": 6,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -178,9 +156,9 @@
       "stars": 86,
       "forks": 7,
       "createdAt": "2026-08-20T19:17:27Z",
-      "pushedAt": "2026-11-03T12:54:47Z",
+      "pushedAt": "2026-11-03T21:35:52Z",
       "archived": false,
-      "rank": 8,
+      "rank": 7,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -198,7 +176,7 @@
       "createdAt": "2026-09-18T17:46:05Z",
       "pushedAt": "2026-10-09T16:41:17Z",
       "archived": false,
-      "rank": 9,
+      "rank": 8,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -216,7 +194,7 @@
       "createdAt": "2026-09-18T15:30:56Z",
       "pushedAt": "2026-10-12T16:55:06Z",
       "archived": false,
-      "rank": 10,
+      "rank": 9,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -243,7 +221,7 @@
       "createdAt": "2026-09-02T02:23:25Z",
       "pushedAt": "2026-09-02T08:55:30Z",
       "archived": false,
-      "rank": 11,
+      "rank": 10,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -261,7 +239,7 @@
       "createdAt": "2026-09-25T15:50:36Z",
       "pushedAt": "2026-10-02T04:33:33Z",
       "archived": false,
-      "rank": 12,
+      "rank": 11,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -279,7 +257,7 @@
       "createdAt": "2026-10-02T20:45:13Z",
       "pushedAt": "2026-10-07T15:20:23Z",
       "archived": false,
-      "rank": 13,
+      "rank": 12,
       "rankDelta": null,
       "starsDelta": null
     }
