@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T03:31:14.169Z",
+  "updatedAt": "2026-11-05T18:48:15.003Z",
   "timeZone": "Asia/Shanghai",
   "counts": {
     "go": {
@@ -69,7 +69,7 @@
     },
     "dart": {
       "total": 100,
-      "new": 76,
+      "new": 78,
       "active": 100
     },
     "scala": {
@@ -80,7 +80,7 @@
     "zig": {
       "total": 100,
       "new": 22,
-      "active": 45
+      "active": 46
     },
     "react": {
       "total": 80
@@ -98,10 +98,10 @@
       "total": 82
     },
     "django": {
-      "total": 79
+      "total": 78
     },
     "spring-boot": {
-      "total": 86
+      "total": 87
     },
     "flutter": {
       "total": 71
@@ -124,7 +124,7 @@
     },
     "podcast": {
       "total": 100,
-      "new": 6
+      "new": 5
     },
     "music": {
       "total": 100,

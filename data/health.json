@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T03:31:14.169Z",
+  "updatedAt": "2026-11-05T18:48:15.003Z",
   "queries": [
     {
       "categoryId": "go",
@@ -326,8 +326,8 @@
       "window": "new",
       "query": "language:Dart created:>2026-08-07 stars:>=50",
       "status": "ok",
-      "fetched": 76,
-      "kept": 76
+      "fetched": 78,
+      "kept": 78
     },
     {
       "categoryId": "dart",
@@ -382,8 +382,8 @@
       "window": "active",
       "query": "language:Zig pushed:>2026-10-29 stars:>=500",
       "status": "ok",
-      "fetched": 45,
-      "kept": 45
+      "fetched": 46,
+      "kept": 46
     },
     {
       "categoryId": "react",
@@ -431,7 +431,7 @@
       "query": "topic:django",
       "status": "ok",
       "fetched": 100,
-      "kept": 79
+      "kept": 78
     },
     {
       "categoryId": "spring-boot",
@@ -439,7 +439,7 @@
       "query": "topic:spring-boot",
       "status": "ok",
       "fetched": 100,
-      "kept": 86
+      "kept": 87
     },
     {
       "categoryId": "flutter",
@@ -590,8 +590,8 @@
       "window": "new",
       "query": "topic:text-to-speech created:>2026-08-07 stars:>=50",
       "status": "ok",
-      "fetched": 61,
-      "kept": 61
+      "fetched": 62,
+      "kept": 62
     },
     {
       "categoryId": "tts",
@@ -686,8 +686,8 @@
       "window": "new",
       "query": "topic:podcast created:>2026-08-07 stars:>=50",
       "status": "ok",
-      "fetched": 6,
-      "kept": 6
+      "fetched": 5,
+      "kept": 5
     },
     {
       "categoryId": "podcast",
