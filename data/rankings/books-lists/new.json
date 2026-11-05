@@ -1,8 +1,8 @@
 {
   "categoryId": "books-lists",
   "window": "new",
-  "updatedAt": "2026-11-04T18:40:31.307Z",
-  "totalFetched": 12,
+  "updatedAt": "2026-11-05T03:31:14.169Z",
+  "totalFetched": 11,
   "items": [
     {
       "id": 1342935078,
@@ -29,8 +29,8 @@
         "performance-engineering"
       ],
       "license": "Apache-2.0",
-      "stars": 7316,
-      "forks": 580,
+      "stars": 7321,
+      "forks": 581,
       "createdAt": "2026-08-22T15:30:41Z",
       "pushedAt": "2026-10-01T08:19:29Z",
       "archived": false,
@@ -58,41 +58,12 @@
         "workbuddy"
       ],
       "license": "MIT",
-      "stars": 1311,
+      "stars": 1316,
       "forks": 123,
       "createdAt": "2026-09-08T07:48:21Z",
       "pushedAt": "2026-10-19T16:34:57Z",
       "archived": false,
       "rank": 2,
-      "rankDelta": null,
-      "starsDelta": null
-    },
-    {
-      "id": 1326963742,
-      "fullName": "antinomie-lab/pi-book",
-      "url": "https://github.com/antinomie-lab/pi-book",
-      "description": "Source-backed architecture notes on building an agent",
-      "homepage": "https://books.antinomie.org/pi",
-      "language": "Vue",
-      "topics": [
-        "agent-loop",
-        "ai-agent",
-        "book",
-        "chinese",
-        "code-reading",
-        "llm",
-        "pi-agent",
-        "pi-agent-core",
-        "software-architecture",
-        "typescript"
-      ],
-      "license": null,
-      "stars": 433,
-      "forks": 17,
-      "createdAt": "2026-08-07T17:14:43Z",
-      "pushedAt": "2026-08-24T09:26:27Z",
-      "archived": false,
-      "rank": 3,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -115,7 +86,7 @@
       "createdAt": "2026-08-17T11:51:04Z",
       "pushedAt": "2026-10-31T17:32:10Z",
       "archived": false,
-      "rank": 4,
+      "rank": 3,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -154,7 +125,7 @@
       "createdAt": "2026-09-27T12:06:01Z",
       "pushedAt": "2026-11-03T12:34:54Z",
       "archived": false,
-      "rank": 5,
+      "rank": 4,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -184,7 +155,7 @@
       "createdAt": "2026-08-24T09:45:24Z",
       "pushedAt": "2026-09-10T04:50:09Z",
       "archived": false,
-      "rank": 6,
+      "rank": 5,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -209,7 +180,7 @@
       "createdAt": "2026-10-22T14:00:11Z",
       "pushedAt": "2026-11-01T23:01:34Z",
       "archived": false,
-      "rank": 7,
+      "rank": 6,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -246,7 +217,7 @@
       "createdAt": "2026-10-03T13:36:54Z",
       "pushedAt": "2026-10-06T04:32:33Z",
       "archived": false,
-      "rank": 8,
+      "rank": 7,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -277,7 +248,7 @@
       "createdAt": "2026-09-19T16:21:55Z",
       "pushedAt": "2026-11-03T20:57:19Z",
       "archived": false,
-      "rank": 9,
+      "rank": 8,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -314,7 +285,7 @@
       "createdAt": "2026-09-15T01:51:59Z",
       "pushedAt": "2026-11-02T23:42:10Z",
       "archived": false,
-      "rank": 10,
+      "rank": 9,
       "rankDelta": null,
       "starsDelta": null
     }
