@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T03:28:37.335Z",
+  "updatedAt": "2026-11-06T18:02:19.948Z",
   "queries": [
     {
       "categoryId": "go",
@@ -374,16 +374,16 @@
       "window": "new",
       "query": "language:Zig created:>2026-08-08 stars:>=50",
       "status": "ok",
-      "fetched": 22,
-      "kept": 22
+      "fetched": 23,
+      "kept": 23
     },
     {
       "categoryId": "zig",
       "window": "active",
       "query": "language:Zig pushed:>2026-10-30 stars:>=500",
       "status": "ok",
-      "fetched": 44,
-      "kept": 44
+      "fetched": 45,
+      "kept": 45
     },
     {
       "categoryId": "react",
@@ -542,8 +542,8 @@
       "window": "new",
       "query": "topic:epub created:>2026-08-08 stars:>=50",
       "status": "ok",
-      "fetched": 14,
-      "kept": 14
+      "fetched": 13,
+      "kept": 13
     },
     {
       "categoryId": "ebook-tools",
@@ -590,16 +590,16 @@
       "window": "new",
       "query": "topic:text-to-speech created:>2026-08-08 stars:>=50",
       "status": "ok",
-      "fetched": 62,
-      "kept": 62
+      "fetched": 63,
+      "kept": 63
     },
     {
       "categoryId": "tts",
       "window": "new",
       "query": "topic:tts created:>2026-08-08 stars:>=50",
       "status": "ok",
-      "fetched": 43,
-      "kept": 43
+      "fetched": 44,
+      "kept": 44
     },
     {
       "categoryId": "tts",
@@ -726,8 +726,8 @@
       "window": "new",
       "query": "topic:music-player created:>2026-08-08 stars:>=50",
       "status": "ok",
-      "fetched": 41,
-      "kept": 41
+      "fetched": 42,
+      "kept": 42
     },
     {
       "categoryId": "music",
