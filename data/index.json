@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T18:48:15.003Z",
+  "updatedAt": "2026-11-06T03:28:37.335Z",
   "timeZone": "Asia/Shanghai",
   "counts": {
     "go": {
@@ -69,7 +69,7 @@
     },
     "dart": {
       "total": 100,
-      "new": 78,
+      "new": 77,
       "active": 100
     },
     "scala": {
@@ -80,7 +80,7 @@
     "zig": {
       "total": 100,
       "new": 22,
-      "active": 46
+      "active": 44
     },
     "react": {
       "total": 80
@@ -104,7 +104,7 @@
       "total": 87
     },
     "flutter": {
-      "total": 71
+      "total": 70
     },
     "books-lists": {
       "total": 100,
@@ -112,15 +112,15 @@
     },
     "ebook-tools": {
       "total": 100,
-      "new": 15
+      "new": 16
     },
     "tts": {
       "total": 100,
-      "new": 81
+      "new": 82
     },
     "audio-processing": {
       "total": 100,
-      "new": 19
+      "new": 18
     },
     "podcast": {
       "total": 100,

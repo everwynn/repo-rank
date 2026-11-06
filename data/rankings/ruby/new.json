@@ -1,7 +1,7 @@
 {
   "categoryId": "ruby",
   "window": "new",
-  "updatedAt": "2026-11-05T18:48:15.003Z",
+  "updatedAt": "2026-11-06T03:28:37.335Z",
   "totalFetched": 12,
   "items": [
     {
@@ -13,7 +13,7 @@
       "language": "Ruby",
       "topics": [],
       "license": null,
-      "stars": 351,
+      "stars": 355,
       "forks": 45,
       "createdAt": "2026-10-13T20:23:40Z",
       "pushedAt": "2026-10-25T20:08:56Z",
@@ -87,10 +87,10 @@
         "time-tracking"
       ],
       "license": "AGPL-3.0",
-      "stars": 133,
+      "stars": 134,
       "forks": 9,
       "createdAt": "2026-10-11T22:40:20Z",
-      "pushedAt": "2026-11-05T18:03:02Z",
+      "pushedAt": "2026-11-06T03:02:58Z",
       "archived": false,
       "rank": 4,
       "rankDelta": null,
@@ -109,7 +109,7 @@
         "ruby"
       ],
       "license": "MIT",
-      "stars": 90,
+      "stars": 91,
       "forks": 9,
       "createdAt": "2026-08-20T19:17:27Z",
       "pushedAt": "2026-11-03T21:35:52Z",
@@ -135,10 +135,10 @@
         "unsigned-apps"
       ],
       "license": "BSD-2-Clause",
-      "stars": 89,
+      "stars": 90,
       "forks": 45,
       "createdAt": "2026-09-16T13:59:49Z",
-      "pushedAt": "2026-11-05T15:12:30Z",
+      "pushedAt": "2026-11-06T03:04:31Z",
       "archived": false,
       "rank": 6,
       "rankDelta": null,

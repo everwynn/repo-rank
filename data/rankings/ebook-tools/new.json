@@ -1,8 +1,8 @@
 {
   "categoryId": "ebook-tools",
   "window": "new",
-  "updatedAt": "2026-11-05T18:48:15.003Z",
-  "totalFetched": 19,
+  "updatedAt": "2026-11-06T03:28:37.335Z",
+  "totalFetched": 20,
   "items": [
     {
       "id": 1403317270,
@@ -49,7 +49,7 @@
       ],
       "license": "MIT",
       "stars": 374,
-      "forks": 15,
+      "forks": 16,
       "createdAt": "2026-08-17T11:51:04Z",
       "pushedAt": "2026-10-31T17:32:10Z",
       "archived": false,
@@ -144,12 +144,40 @@
         "webassembly"
       ],
       "license": "MIT",
-      "stars": 199,
+      "stars": 198,
       "forks": 8,
       "createdAt": "2026-09-18T08:50:10Z",
       "pushedAt": "2026-11-05T11:54:37Z",
       "archived": false,
       "rank": 5,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
+      "id": 1440879836,
+      "fullName": "WANGXIN-567/weread-book-exporter",
+      "url": "https://github.com/WANGXIN-567/weread-book-exporter",
+      "description": "📚 微信读书无损全书导出工具 — 一键导出双字体精排 PDF / EPUB / 纯 Markdown 笔记（适配 Obsidian & Notion），攻克网页端翻页漏字问题。",
+      "homepage": null,
+      "language": "Python",
+      "topics": [
+        "ebook-exporter",
+        "epub",
+        "markdown",
+        "notion",
+        "obsidian",
+        "pdf-generator",
+        "playwright",
+        "weixin-reader",
+        "weread"
+      ],
+      "license": "MIT",
+      "stars": 194,
+      "forks": 15,
+      "createdAt": "2026-10-31T13:23:10Z",
+      "pushedAt": "2026-11-01T12:34:16Z",
+      "archived": false,
+      "rank": 6,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -171,12 +199,12 @@
         "rss-reader"
       ],
       "license": "GPL-3.0",
-      "stars": 168,
+      "stars": 169,
       "forks": 13,
       "createdAt": "2026-10-24T13:08:01Z",
       "pushedAt": "2026-11-05T05:38:38Z",
       "archived": false,
-      "rank": 6,
+      "rank": 7,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -213,7 +241,7 @@
       "createdAt": "2026-10-11T21:04:19Z",
       "pushedAt": "2026-10-21T15:44:44Z",
       "archived": false,
-      "rank": 7,
+      "rank": 8,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -233,12 +261,12 @@
         "txt-reader"
       ],
       "license": "GPL-3.0",
-      "stars": 107,
-      "forks": 44,
+      "stars": 108,
+      "forks": 45,
       "createdAt": "2026-10-13T08:31:04Z",
       "pushedAt": "2026-10-29T16:56:21Z",
       "archived": false,
-      "rank": 8,
+      "rank": 9,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -274,7 +302,7 @@
       "createdAt": "2026-09-05T19:24:41Z",
       "pushedAt": "2026-11-05T14:03:05Z",
       "archived": false,
-      "rank": 9,
+      "rank": 10,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -305,7 +333,7 @@
       "createdAt": "2026-09-25T11:55:24Z",
       "pushedAt": "2026-11-02T07:40:59Z",
       "archived": false,
-      "rank": 10,
+      "rank": 11,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -340,9 +368,9 @@
       "stars": 68,
       "forks": 0,
       "createdAt": "2026-09-22T20:04:05Z",
-      "pushedAt": "2026-11-05T18:35:58Z",
+      "pushedAt": "2026-11-05T23:58:05Z",
       "archived": false,
-      "rank": 11,
+      "rank": 12,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -373,7 +401,7 @@
       "createdAt": "2026-09-19T16:21:55Z",
       "pushedAt": "2026-11-03T20:57:19Z",
       "archived": false,
-      "rank": 12,
+      "rank": 13,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -405,12 +433,12 @@
         "study-guide"
       ],
       "license": null,
-      "stars": 55,
+      "stars": 56,
       "forks": 9,
       "createdAt": "2026-09-15T01:51:59Z",
       "pushedAt": "2026-11-02T23:42:10Z",
       "archived": false,
-      "rank": 13,
+      "rank": 14,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -438,7 +466,7 @@
       "createdAt": "2026-08-21T05:58:01Z",
       "pushedAt": "2026-08-29T07:56:28Z",
       "archived": false,
-      "rank": 14,
+      "rank": 15,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -473,7 +501,7 @@
       "createdAt": "2026-10-12T18:59:22Z",
       "pushedAt": "2026-10-29T00:58:20Z",
       "archived": false,
-      "rank": 15,
+      "rank": 16,
       "rankDelta": null,
       "starsDelta": null
     }

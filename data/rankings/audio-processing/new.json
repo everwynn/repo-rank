@@ -1,8 +1,8 @@
 {
   "categoryId": "audio-processing",
   "window": "new",
-  "updatedAt": "2026-11-05T18:48:15.003Z",
-  "totalFetched": 21,
+  "updatedAt": "2026-11-06T03:28:37.335Z",
+  "totalFetched": 20,
   "items": [
     {
       "id": 1356077516,
@@ -34,10 +34,10 @@
         "whisper"
       ],
       "license": "MIT",
-      "stars": 4593,
-      "forks": 369,
+      "stars": 4620,
+      "forks": 371,
       "createdAt": "2026-09-03T14:33:38Z",
-      "pushedAt": "2026-11-05T18:53:33Z",
+      "pushedAt": "2026-11-06T03:31:44Z",
       "archived": false,
       "rank": 1,
       "rankDelta": null,
@@ -103,32 +103,6 @@
       "starsDelta": null
     },
     {
-      "id": 1328243209,
-      "fullName": "Newspicel/sdrmm",
-      "url": "https://github.com/Newspicel/sdrmm",
-      "description": "modular, client–server software-defined radio",
-      "homepage": "https://sdrmm.com",
-      "language": "Rust",
-      "topics": [
-        "dsp",
-        "hackrf",
-        "ham-radio",
-        "rtl-sdr",
-        "rust",
-        "sdr",
-        "software-defined-radio"
-      ],
-      "license": "AGPL-3.0",
-      "stars": 364,
-      "forks": 26,
-      "createdAt": "2026-08-08T23:09:41Z",
-      "pushedAt": "2026-11-05T03:03:49Z",
-      "archived": false,
-      "rank": 4,
-      "rankDelta": null,
-      "starsDelta": null
-    },
-    {
       "id": 1328952004,
       "fullName": "CheshireMew/VoxWeave",
       "url": "https://github.com/CheshireMew/VoxWeave",
@@ -154,7 +128,7 @@
       "createdAt": "2026-08-09T15:43:51Z",
       "pushedAt": "2026-11-02T11:21:21Z",
       "archived": false,
-      "rank": 5,
+      "rank": 4,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -188,12 +162,12 @@
         "vst3"
       ],
       "license": "AGPL-3.0",
-      "stars": 225,
+      "stars": 226,
       "forks": 20,
       "createdAt": "2026-08-25T14:43:31Z",
-      "pushedAt": "2026-11-05T16:35:39Z",
+      "pushedAt": "2026-11-06T01:18:06Z",
       "archived": false,
-      "rank": 6,
+      "rank": 5,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -220,7 +194,7 @@
       "createdAt": "2026-10-09T16:10:56Z",
       "pushedAt": "2026-10-28T11:32:11Z",
       "archived": false,
-      "rank": 7,
+      "rank": 6,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -249,7 +223,7 @@
       "createdAt": "2026-08-14T09:23:14Z",
       "pushedAt": "2026-09-06T10:20:13Z",
       "archived": true,
-      "rank": 8,
+      "rank": 7,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -274,7 +248,7 @@
       "createdAt": "2026-08-12T19:38:20Z",
       "pushedAt": "2026-10-22T06:14:54Z",
       "archived": false,
-      "rank": 9,
+      "rank": 8,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -295,11 +269,11 @@
       ],
       "license": "MIT",
       "stars": 99,
-      "forks": 13,
+      "forks": 14,
       "createdAt": "2026-09-25T23:27:52Z",
       "pushedAt": "2026-09-28T10:01:30Z",
       "archived": false,
-      "rank": 10,
+      "rank": 9,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -338,7 +312,7 @@
       "createdAt": "2026-08-31T21:01:10Z",
       "pushedAt": "2026-09-20T15:05:54Z",
       "archived": false,
-      "rank": 11,
+      "rank": 10,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -367,7 +341,7 @@
       "createdAt": "2026-09-01T10:30:19Z",
       "pushedAt": "2026-09-09T04:06:54Z",
       "archived": false,
-      "rank": 12,
+      "rank": 11,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -395,7 +369,7 @@
       "createdAt": "2026-09-06T18:25:53Z",
       "pushedAt": "2026-10-27T20:18:34Z",
       "archived": false,
-      "rank": 13,
+      "rank": 12,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -418,7 +392,7 @@
       "createdAt": "2026-08-17T06:54:19Z",
       "pushedAt": "2026-10-07T05:19:27Z",
       "archived": false,
-      "rank": 14,
+      "rank": 13,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -449,9 +423,9 @@
       "stars": 59,
       "forks": 2,
       "createdAt": "2026-09-05T20:08:29Z",
-      "pushedAt": "2026-11-05T14:40:30Z",
+      "pushedAt": "2026-11-06T00:41:25Z",
       "archived": false,
-      "rank": 15,
+      "rank": 14,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -474,9 +448,9 @@
       "stars": 57,
       "forks": 0,
       "createdAt": "2026-09-21T21:02:17Z",
-      "pushedAt": "2026-11-05T17:02:03Z",
+      "pushedAt": "2026-11-06T01:11:04Z",
       "archived": false,
-      "rank": 16,
+      "rank": 15,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -507,9 +481,9 @@
       "stars": 57,
       "forks": 0,
       "createdAt": "2026-09-21T21:41:52Z",
-      "pushedAt": "2026-11-05T17:05:32Z",
+      "pushedAt": "2026-11-06T00:50:00Z",
       "archived": false,
-      "rank": 17,
+      "rank": 16,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -532,9 +506,9 @@
       "stars": 56,
       "forks": 0,
       "createdAt": "2026-08-25T09:23:55Z",
-      "pushedAt": "2026-11-05T16:54:25Z",
+      "pushedAt": "2026-11-06T02:25:10Z",
       "archived": false,
-      "rank": 18,
+      "rank": 17,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -561,7 +535,7 @@
       "createdAt": "2026-10-10T15:56:10Z",
       "pushedAt": "2026-11-01T05:56:16Z",
       "archived": false,
-      "rank": 19,
+      "rank": 18,
       "rankDelta": null,
       "starsDelta": null
     }
