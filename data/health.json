@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T18:02:19.948Z",
+  "updatedAt": "2026-11-07T02:52:03.486Z",
   "queries": [
     {
       "categoryId": "go",
@@ -12,7 +12,7 @@
     {
       "categoryId": "go",
       "window": "new",
-      "query": "language:Go created:>2026-08-08 stars:>=50",
+      "query": "language:Go created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -20,7 +20,7 @@
     {
       "categoryId": "go",
       "window": "active",
-      "query": "language:Go pushed:>2026-10-30 stars:>=500",
+      "query": "language:Go pushed:>2026-10-31 stars:>=500",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -36,7 +36,7 @@
     {
       "categoryId": "rust",
       "window": "new",
-      "query": "language:Rust created:>2026-08-08 stars:>=50",
+      "query": "language:Rust created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -44,7 +44,7 @@
     {
       "categoryId": "rust",
       "window": "active",
-      "query": "language:Rust pushed:>2026-10-30 stars:>=500",
+      "query": "language:Rust pushed:>2026-10-31 stars:>=500",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -60,7 +60,7 @@
     {
       "categoryId": "typescript",
       "window": "new",
-      "query": "language:TypeScript created:>2026-08-08 stars:>=50",
+      "query": "language:TypeScript created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -68,7 +68,7 @@
     {
       "categoryId": "typescript",
       "window": "active",
-      "query": "language:TypeScript pushed:>2026-10-30 stars:>=500",
+      "query": "language:TypeScript pushed:>2026-10-31 stars:>=500",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -84,7 +84,7 @@
     {
       "categoryId": "python",
       "window": "new",
-      "query": "language:Python created:>2026-08-08 stars:>=50",
+      "query": "language:Python created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -92,7 +92,7 @@
     {
       "categoryId": "python",
       "window": "active",
-      "query": "language:Python pushed:>2026-10-30 stars:>=500",
+      "query": "language:Python pushed:>2026-10-31 stars:>=500",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -108,7 +108,7 @@
     {
       "categoryId": "javascript",
       "window": "new",
-      "query": "language:JavaScript created:>2026-08-08 stars:>=50",
+      "query": "language:JavaScript created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -116,7 +116,7 @@
     {
       "categoryId": "javascript",
       "window": "active",
-      "query": "language:JavaScript pushed:>2026-10-30 stars:>=500",
+      "query": "language:JavaScript pushed:>2026-10-31 stars:>=500",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -132,7 +132,7 @@
     {
       "categoryId": "java",
       "window": "new",
-      "query": "language:Java created:>2026-08-08 stars:>=50",
+      "query": "language:Java created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -140,7 +140,7 @@
     {
       "categoryId": "java",
       "window": "active",
-      "query": "language:Java pushed:>2026-10-30 stars:>=500",
+      "query": "language:Java pushed:>2026-10-31 stars:>=500",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -156,7 +156,7 @@
     {
       "categoryId": "cpp",
       "window": "new",
-      "query": "language:C++ created:>2026-08-08 stars:>=50",
+      "query": "language:C++ created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -164,7 +164,7 @@
     {
       "categoryId": "cpp",
       "window": "active",
-      "query": "language:C++ pushed:>2026-10-30 stars:>=500",
+      "query": "language:C++ pushed:>2026-10-31 stars:>=500",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -180,7 +180,7 @@
     {
       "categoryId": "csharp",
       "window": "new",
-      "query": "language:C# created:>2026-08-08 stars:>=50",
+      "query": "language:C# created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -188,7 +188,7 @@
     {
       "categoryId": "csharp",
       "window": "active",
-      "query": "language:C# pushed:>2026-10-30 stars:>=500",
+      "query": "language:C# pushed:>2026-10-31 stars:>=500",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -204,7 +204,7 @@
     {
       "categoryId": "c",
       "window": "new",
-      "query": "language:C created:>2026-08-08 stars:>=50",
+      "query": "language:C created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -212,7 +212,7 @@
     {
       "categoryId": "c",
       "window": "active",
-      "query": "language:C pushed:>2026-10-30 stars:>=500",
+      "query": "language:C pushed:>2026-10-31 stars:>=500",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -228,7 +228,7 @@
     {
       "categoryId": "swift",
       "window": "new",
-      "query": "language:Swift created:>2026-08-08 stars:>=50",
+      "query": "language:Swift created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -236,7 +236,7 @@
     {
       "categoryId": "swift",
       "window": "active",
-      "query": "language:Swift pushed:>2026-10-30 stars:>=500",
+      "query": "language:Swift pushed:>2026-10-31 stars:>=500",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -252,7 +252,7 @@
     {
       "categoryId": "kotlin",
       "window": "new",
-      "query": "language:Kotlin created:>2026-08-08 stars:>=50",
+      "query": "language:Kotlin created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -260,7 +260,7 @@
     {
       "categoryId": "kotlin",
       "window": "active",
-      "query": "language:Kotlin pushed:>2026-10-30 stars:>=500",
+      "query": "language:Kotlin pushed:>2026-10-31 stars:>=500",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -276,15 +276,15 @@
     {
       "categoryId": "php",
       "window": "new",
-      "query": "language:PHP created:>2026-08-08 stars:>=50",
+      "query": "language:PHP created:>2026-08-09 stars:>=50",
       "status": "ok",
-      "fetched": 53,
-      "kept": 53
+      "fetched": 51,
+      "kept": 51
     },
     {
       "categoryId": "php",
       "window": "active",
-      "query": "language:PHP pushed:>2026-10-30 stars:>=500",
+      "query": "language:PHP pushed:>2026-10-31 stars:>=500",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -300,7 +300,7 @@
     {
       "categoryId": "ruby",
       "window": "new",
-      "query": "language:Ruby created:>2026-08-08 stars:>=50",
+      "query": "language:Ruby created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 12,
       "kept": 12
@@ -308,7 +308,7 @@
     {
       "categoryId": "ruby",
       "window": "active",
-      "query": "language:Ruby pushed:>2026-10-30 stars:>=500",
+      "query": "language:Ruby pushed:>2026-10-31 stars:>=500",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -324,15 +324,15 @@
     {
       "categoryId": "dart",
       "window": "new",
-      "query": "language:Dart created:>2026-08-08 stars:>=50",
+      "query": "language:Dart created:>2026-08-09 stars:>=50",
       "status": "ok",
-      "fetched": 77,
-      "kept": 77
+      "fetched": 73,
+      "kept": 73
     },
     {
       "categoryId": "dart",
       "window": "active",
-      "query": "language:Dart pushed:>2026-10-30 stars:>=500",
+      "query": "language:Dart pushed:>2026-10-31 stars:>=500",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -348,7 +348,7 @@
     {
       "categoryId": "scala",
       "window": "new",
-      "query": "language:Scala created:>2026-08-08 stars:>=50",
+      "query": "language:Scala created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 2,
       "kept": 2
@@ -356,7 +356,7 @@
     {
       "categoryId": "scala",
       "window": "active",
-      "query": "language:Scala pushed:>2026-10-30 stars:>=500",
+      "query": "language:Scala pushed:>2026-10-31 stars:>=500",
       "status": "ok",
       "fetched": 100,
       "kept": 100
@@ -372,7 +372,7 @@
     {
       "categoryId": "zig",
       "window": "new",
-      "query": "language:Zig created:>2026-08-08 stars:>=50",
+      "query": "language:Zig created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 23,
       "kept": 23
@@ -380,10 +380,10 @@
     {
       "categoryId": "zig",
       "window": "active",
-      "query": "language:Zig pushed:>2026-10-30 stars:>=500",
+      "query": "language:Zig pushed:>2026-10-31 stars:>=500",
       "status": "ok",
-      "fetched": 45,
-      "kept": 45
+      "fetched": 43,
+      "kept": 43
     },
     {
       "categoryId": "react",
@@ -484,7 +484,7 @@
     {
       "categoryId": "books-lists",
       "window": "new",
-      "query": "topic:free-programming-books created:>2026-08-08 stars:>=50",
+      "query": "topic:free-programming-books created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 0,
       "kept": 0
@@ -492,7 +492,7 @@
     {
       "categoryId": "books-lists",
       "window": "new",
-      "query": "topic:books created:>2026-08-08 stars:>=50",
+      "query": "topic:books created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 2,
       "kept": 2
@@ -500,7 +500,7 @@
     {
       "categoryId": "books-lists",
       "window": "new",
-      "query": "topic:book created:>2026-08-08 stars:>=50",
+      "query": "topic:book created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 4,
       "kept": 4
@@ -508,7 +508,7 @@
     {
       "categoryId": "books-lists",
       "window": "new",
-      "query": "topic:ebook created:>2026-08-08 stars:>=50",
+      "query": "topic:ebook created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 5,
       "kept": 5
@@ -540,7 +540,7 @@
     {
       "categoryId": "ebook-tools",
       "window": "new",
-      "query": "topic:epub created:>2026-08-08 stars:>=50",
+      "query": "topic:epub created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 13,
       "kept": 13
@@ -548,7 +548,7 @@
     {
       "categoryId": "ebook-tools",
       "window": "new",
-      "query": "topic:ebook-reader created:>2026-08-08 stars:>=50",
+      "query": "topic:ebook-reader created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 6,
       "kept": 6
@@ -556,7 +556,7 @@
     {
       "categoryId": "ebook-tools",
       "window": "new",
-      "query": "topic:calibre created:>2026-08-08 stars:>=50",
+      "query": "topic:calibre created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 0,
       "kept": 0
@@ -588,7 +588,7 @@
     {
       "categoryId": "tts",
       "window": "new",
-      "query": "topic:text-to-speech created:>2026-08-08 stars:>=50",
+      "query": "topic:text-to-speech created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 63,
       "kept": 63
@@ -596,7 +596,7 @@
     {
       "categoryId": "tts",
       "window": "new",
-      "query": "topic:tts created:>2026-08-08 stars:>=50",
+      "query": "topic:tts created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 44,
       "kept": 44
@@ -604,7 +604,7 @@
     {
       "categoryId": "tts",
       "window": "new",
-      "query": "topic:speech-synthesis created:>2026-08-08 stars:>=50",
+      "query": "topic:speech-synthesis created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 13,
       "kept": 13
@@ -636,15 +636,15 @@
     {
       "categoryId": "audio-processing",
       "window": "new",
-      "query": "topic:audio-processing created:>2026-08-08 stars:>=50",
+      "query": "topic:audio-processing created:>2026-08-09 stars:>=50",
       "status": "ok",
-      "fetched": 9,
-      "kept": 9
+      "fetched": 8,
+      "kept": 8
     },
     {
       "categoryId": "audio-processing",
       "window": "new",
-      "query": "topic:dsp created:>2026-08-08 stars:>=50",
+      "query": "topic:dsp created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 11,
       "kept": 11
@@ -652,7 +652,7 @@
     {
       "categoryId": "audio-processing",
       "window": "new",
-      "query": "topic:audio-library created:>2026-08-08 stars:>=50",
+      "query": "topic:audio-library created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 0,
       "kept": 0
@@ -684,7 +684,7 @@
     {
       "categoryId": "podcast",
       "window": "new",
-      "query": "topic:podcast created:>2026-08-08 stars:>=50",
+      "query": "topic:podcast created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 5,
       "kept": 5
@@ -692,7 +692,7 @@
     {
       "categoryId": "podcast",
       "window": "new",
-      "query": "topic:podcast-client created:>2026-08-08 stars:>=50",
+      "query": "topic:podcast-client created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 0,
       "kept": 0
@@ -700,7 +700,7 @@
     {
       "categoryId": "podcast",
       "window": "new",
-      "query": "topic:podcast-player created:>2026-08-08 stars:>=50",
+      "query": "topic:podcast-player created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 0,
       "kept": 0
@@ -724,15 +724,15 @@
     {
       "categoryId": "music",
       "window": "new",
-      "query": "topic:music-player created:>2026-08-08 stars:>=50",
+      "query": "topic:music-player created:>2026-08-09 stars:>=50",
       "status": "ok",
-      "fetched": 42,
-      "kept": 42
+      "fetched": 44,
+      "kept": 44
     },
     {
       "categoryId": "music",
       "window": "new",
-      "query": "topic:spotify created:>2026-08-08 stars:>=50",
+      "query": "topic:spotify created:>2026-08-09 stars:>=50",
       "status": "ok",
       "fetched": 38,
       "kept": 38

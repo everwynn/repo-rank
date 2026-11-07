@@ -1,8 +1,8 @@
 {
   "categoryId": "audio-processing",
   "window": "new",
-  "updatedAt": "2026-11-06T18:02:19.948Z",
-  "totalFetched": 20,
+  "updatedAt": "2026-11-07T02:52:03.486Z",
+  "totalFetched": 19,
   "items": [
     {
       "id": 1356077516,
@@ -34,8 +34,8 @@
         "whisper"
       ],
       "license": "MIT",
-      "stars": 4655,
-      "forks": 378,
+      "stars": 4674,
+      "forks": 379,
       "createdAt": "2026-09-03T14:33:38Z",
       "pushedAt": "2026-11-06T08:27:20Z",
       "archived": false,
@@ -63,7 +63,7 @@
         "video-receiver"
       ],
       "license": "GPL-3.0",
-      "stars": 495,
+      "stars": 501,
       "forks": 75,
       "createdAt": "2026-08-30T11:52:11Z",
       "pushedAt": "2026-10-31T20:46:27Z",
@@ -103,36 +103,6 @@
       "starsDelta": null
     },
     {
-      "id": 1328952004,
-      "fullName": "CheshireMew/VoxWeave",
-      "url": "https://github.com/CheshireMew/VoxWeave",
-      "description": "Local-first high-quality offline RVC voice conversion workstation",
-      "homepage": null,
-      "language": "Python",
-      "topics": [
-        "audio-processing",
-        "cuda",
-        "ffmpeg",
-        "local-first",
-        "pyside6",
-        "qml",
-        "realtime-audio",
-        "rvc",
-        "voice-changer",
-        "voice-conversion",
-        "windows"
-      ],
-      "license": "AGPL-3.0",
-      "stars": 247,
-      "forks": 45,
-      "createdAt": "2026-08-09T15:43:51Z",
-      "pushedAt": "2026-11-02T11:21:21Z",
-      "archived": false,
-      "rank": 4,
-      "rankDelta": null,
-      "starsDelta": null
-    },
-    {
       "id": 1346253295,
       "fullName": "nota-daw/nota",
       "url": "https://github.com/nota-daw/nota",
@@ -162,12 +132,12 @@
         "vst3"
       ],
       "license": "AGPL-3.0",
-      "stars": 233,
+      "stars": 236,
       "forks": 20,
       "createdAt": "2026-08-25T14:43:31Z",
-      "pushedAt": "2026-11-06T11:38:06Z",
+      "pushedAt": "2026-11-06T19:45:25Z",
       "archived": false,
-      "rank": 5,
+      "rank": 4,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -194,7 +164,7 @@
       "createdAt": "2026-10-09T16:10:56Z",
       "pushedAt": "2026-10-28T11:32:11Z",
       "archived": false,
-      "rank": 6,
+      "rank": 5,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -223,7 +193,7 @@
       "createdAt": "2026-08-14T09:23:14Z",
       "pushedAt": "2026-09-06T10:20:13Z",
       "archived": true,
-      "rank": 7,
+      "rank": 6,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -248,7 +218,7 @@
       "createdAt": "2026-08-12T19:38:20Z",
       "pushedAt": "2026-10-22T06:14:54Z",
       "archived": false,
-      "rank": 8,
+      "rank": 7,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -273,7 +243,7 @@
       "createdAt": "2026-09-25T23:27:52Z",
       "pushedAt": "2026-09-28T10:01:30Z",
       "archived": false,
-      "rank": 9,
+      "rank": 8,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -312,7 +282,7 @@
       "createdAt": "2026-08-31T21:01:10Z",
       "pushedAt": "2026-09-20T15:05:54Z",
       "archived": false,
-      "rank": 10,
+      "rank": 9,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -341,7 +311,7 @@
       "createdAt": "2026-09-01T10:30:19Z",
       "pushedAt": "2026-09-09T04:06:54Z",
       "archived": false,
-      "rank": 11,
+      "rank": 10,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -369,7 +339,7 @@
       "createdAt": "2026-09-06T18:25:53Z",
       "pushedAt": "2026-10-27T20:18:34Z",
       "archived": false,
-      "rank": 12,
+      "rank": 11,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -392,7 +362,7 @@
       "createdAt": "2026-08-17T06:54:19Z",
       "pushedAt": "2026-10-07T05:19:27Z",
       "archived": false,
-      "rank": 13,
+      "rank": 12,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -423,9 +393,9 @@
       "stars": 59,
       "forks": 2,
       "createdAt": "2026-09-05T20:08:29Z",
-      "pushedAt": "2026-11-06T16:17:37Z",
+      "pushedAt": "2026-11-07T02:49:28Z",
       "archived": false,
-      "rank": 14,
+      "rank": 13,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -448,9 +418,9 @@
       "stars": 57,
       "forks": 0,
       "createdAt": "2026-09-21T21:02:17Z",
-      "pushedAt": "2026-11-06T16:21:27Z",
+      "pushedAt": "2026-11-07T01:19:49Z",
       "archived": false,
-      "rank": 15,
+      "rank": 14,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -481,9 +451,9 @@
       "stars": 57,
       "forks": 0,
       "createdAt": "2026-09-21T21:41:52Z",
-      "pushedAt": "2026-11-06T15:42:55Z",
+      "pushedAt": "2026-11-07T01:40:36Z",
       "archived": false,
-      "rank": 16,
+      "rank": 15,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -506,9 +476,9 @@
       "stars": 56,
       "forks": 0,
       "createdAt": "2026-08-25T09:23:55Z",
-      "pushedAt": "2026-11-06T17:54:39Z",
+      "pushedAt": "2026-11-06T23:08:06Z",
       "archived": false,
-      "rank": 17,
+      "rank": 16,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -535,7 +505,7 @@
       "createdAt": "2026-10-10T15:56:10Z",
       "pushedAt": "2026-11-01T05:56:16Z",
       "archived": false,
-      "rank": 18,
+      "rank": 17,
       "rankDelta": null,
       "starsDelta": null
     }
