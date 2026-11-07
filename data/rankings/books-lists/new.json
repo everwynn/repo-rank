@@ -1,8 +1,8 @@
 {
   "categoryId": "books-lists",
   "window": "new",
-  "updatedAt": "2026-11-07T02:52:03.486Z",
-  "totalFetched": 11,
+  "updatedAt": "2026-11-07T16:52:44.602Z",
+  "totalFetched": 12,
   "items": [
     {
       "id": 1342935078,
@@ -29,7 +29,7 @@
         "performance-engineering"
       ],
       "license": "Apache-2.0",
-      "stars": 7355,
+      "stars": 7370,
       "forks": 585,
       "createdAt": "2026-08-22T15:30:41Z",
       "pushedAt": "2026-10-01T08:19:29Z",
@@ -58,7 +58,7 @@
         "workbuddy"
       ],
       "license": "MIT",
-      "stars": 1331,
+      "stars": 1334,
       "forks": 125,
       "createdAt": "2026-09-08T07:48:21Z",
       "pushedAt": "2026-10-19T16:34:57Z",
@@ -222,6 +222,38 @@
       "starsDelta": null
     },
     {
+      "id": 1446939295,
+      "fullName": "Galehashoid/flow-map-resp",
+      "url": "https://github.com/Galehashoid/flow-map-resp",
+      "description": "A Claude Code skill that turns your pipeline into an animated metro map, replayed from what a real run recorded. Retries as loop arcs, parallel work as rails, checks as hubs with spokes. React + SVG, your colours, light and dark.",
+      "homepage": null,
+      "language": "HTML",
+      "topics": [
+        "adonisjs-api",
+        "agent-skills-spec",
+        "ai-agents-automation",
+        "books",
+        "claude-code-skill",
+        "claude-code-skills",
+        "coding-agents",
+        "ddex-ern",
+        "ddex-ern-382",
+        "learning",
+        "music-distribution",
+        "nestjs-backend",
+        "svg-animations"
+      ],
+      "license": null,
+      "stars": 60,
+      "forks": 0,
+      "createdAt": "2026-11-05T11:55:48Z",
+      "pushedAt": "2026-11-05T11:55:57Z",
+      "archived": false,
+      "rank": 8,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
       "id": 1370748100,
       "fullName": "vkorost/claude-certified-developer-guide",
       "url": "https://github.com/vkorost/claude-certified-developer-guide",
@@ -254,7 +286,7 @@
       "createdAt": "2026-09-15T01:51:59Z",
       "pushedAt": "2026-11-02T23:42:10Z",
       "archived": false,
-      "rank": 8,
+      "rank": 9,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -285,7 +317,7 @@
       "createdAt": "2026-09-19T16:21:55Z",
       "pushedAt": "2026-11-03T20:57:19Z",
       "archived": false,
-      "rank": 9,
+      "rank": 10,
       "rankDelta": null,
       "starsDelta": null
     }
