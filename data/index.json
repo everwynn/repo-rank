@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T02:32:25.749Z",
+  "updatedAt": "2026-11-08T12:41:12.689Z",
   "timeZone": "Asia/Shanghai",
   "counts": {
     "go": {
@@ -69,7 +69,7 @@
     },
     "dart": {
       "total": 100,
-      "new": 74,
+      "new": 75,
       "active": 100
     },
     "scala": {

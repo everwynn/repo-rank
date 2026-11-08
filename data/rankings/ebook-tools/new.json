@@ -1,7 +1,7 @@
 {
   "categoryId": "ebook-tools",
   "window": "new",
-  "updatedAt": "2026-11-08T02:32:25.749Z",
+  "updatedAt": "2026-11-08T12:41:12.689Z",
   "totalFetched": 20,
   "items": [
     {
@@ -53,8 +53,8 @@
         "weread"
       ],
       "license": "MIT",
-      "stars": 502,
-      "forks": 56,
+      "stars": 533,
+      "forks": 61,
       "createdAt": "2026-10-31T13:23:10Z",
       "pushedAt": "2026-11-01T12:34:16Z",
       "archived": false,
@@ -83,7 +83,7 @@
         "typescript"
       ],
       "license": null,
-      "stars": 405,
+      "stars": 407,
       "forks": 35,
       "createdAt": "2026-10-03T15:00:08Z",
       "pushedAt": "2026-11-02T10:02:03Z",
@@ -134,10 +134,10 @@
         "webdav"
       ],
       "license": null,
-      "stars": 259,
+      "stars": 260,
       "forks": 18,
       "createdAt": "2026-09-05T04:46:01Z",
-      "pushedAt": "2026-11-07T09:59:38Z",
+      "pushedAt": "2026-11-08T06:33:01Z",
       "archived": false,
       "rank": 5,
       "rankDelta": null,
@@ -190,7 +190,7 @@
         "rss-reader"
       ],
       "license": "GPL-3.0",
-      "stars": 169,
+      "stars": 170,
       "forks": 14,
       "createdAt": "2026-10-24T13:08:01Z",
       "pushedAt": "2026-11-05T05:38:38Z",
@@ -215,7 +215,7 @@
         "txt-reader"
       ],
       "license": "GPL-3.0",
-      "stars": 139,
+      "stars": 151,
       "forks": 49,
       "createdAt": "2026-10-13T08:31:04Z",
       "pushedAt": "2026-10-29T16:56:21Z",
@@ -288,7 +288,7 @@
         "xlsx"
       ],
       "license": "MIT",
-      "stars": 83,
+      "stars": 84,
       "forks": 15,
       "createdAt": "2026-09-05T19:24:41Z",
       "pushedAt": "2026-11-07T18:55:26Z",
@@ -359,7 +359,7 @@
       "stars": 68,
       "forks": 0,
       "createdAt": "2026-09-22T20:04:05Z",
-      "pushedAt": "2026-11-08T02:09:51Z",
+      "pushedAt": "2026-11-08T09:59:14Z",
       "archived": false,
       "rank": 12,
       "rankDelta": null,
@@ -393,7 +393,7 @@
         "study-guide"
       ],
       "license": null,
-      "stars": 59,
+      "stars": 60,
       "forks": 10,
       "createdAt": "2026-09-15T01:51:59Z",
       "pushedAt": "2026-11-02T23:42:10Z",
