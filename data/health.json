@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T02:32:25.749Z",
+  "updatedAt": "2026-11-08T12:41:12.689Z",
   "queries": [
     {
       "categoryId": "go",
@@ -326,8 +326,8 @@
       "window": "new",
       "query": "language:Dart created:>2026-08-10 stars:>=50",
       "status": "ok",
-      "fetched": 74,
-      "kept": 74
+      "fetched": 75,
+      "kept": 75
     },
     {
       "categoryId": "dart",
@@ -670,8 +670,8 @@
       "window": "total",
       "query": "topic:podcast-client",
       "status": "ok",
-      "fetched": 69,
-      "kept": 69
+      "fetched": 70,
+      "kept": 70
     },
     {
       "categoryId": "podcast",
