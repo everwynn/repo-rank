@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T16:41:31.767Z",
+  "updatedAt": "2026-11-08T02:32:25.749Z",
   "timeZone": "Asia/Shanghai",
   "counts": {
     "go": {
@@ -59,17 +59,17 @@
     },
     "php": {
       "total": 100,
-      "new": 50,
+      "new": 51,
       "active": 100
     },
     "ruby": {
       "total": 100,
-      "new": 14,
+      "new": 12,
       "active": 100
     },
     "dart": {
       "total": 100,
-      "new": 80,
+      "new": 74,
       "active": 100
     },
     "scala": {
@@ -79,8 +79,8 @@
     },
     "zig": {
       "total": 100,
-      "new": 18,
-      "active": 43
+      "new": 23,
+      "active": 44
     },
     "react": {
       "total": 80
@@ -89,26 +89,26 @@
       "total": 82
     },
     "nextjs": {
-      "total": 81
+      "total": 82
     },
     "angular": {
-      "total": 56
+      "total": 55
     },
     "svelte": {
-      "total": 83
+      "total": 82
     },
     "django": {
-      "total": 80
+      "total": 78
     },
     "spring-boot": {
       "total": 87
     },
     "flutter": {
-      "total": 71
+      "total": 70
     },
     "books-lists": {
       "total": 100,
-      "new": 11
+      "new": 12
     },
     "ebook-tools": {
       "total": 100,
@@ -116,19 +116,19 @@
     },
     "tts": {
       "total": 100,
-      "new": 82
+      "new": 85
     },
     "audio-processing": {
       "total": 100,
-      "new": 21
+      "new": 18
     },
     "podcast": {
       "total": 100,
-      "new": 6
+      "new": 5
     },
     "music": {
       "total": 100,
-      "new": 71
+      "new": 77
     }
   }
 }
