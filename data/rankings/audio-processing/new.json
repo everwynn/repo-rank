@@ -1,8 +1,8 @@
 {
   "categoryId": "audio-processing",
   "window": "new",
-  "updatedAt": "2026-11-08T12:41:12.689Z",
-  "totalFetched": 20,
+  "updatedAt": "2026-11-08T13:56:48.902Z",
+  "totalFetched": 19,
   "items": [
     {
       "id": 1356077516,
@@ -34,8 +34,8 @@
         "whisper"
       ],
       "license": "MIT",
-      "stars": 4784,
-      "forks": 390,
+      "stars": 4789,
+      "forks": 392,
       "createdAt": "2026-09-03T14:33:38Z",
       "pushedAt": "2026-11-07T13:24:34Z",
       "archived": false,
@@ -66,7 +66,7 @@
       "stars": 520,
       "forks": 78,
       "createdAt": "2026-08-30T11:52:11Z",
-      "pushedAt": "2026-10-31T20:46:27Z",
+      "pushedAt": "2026-11-08T13:09:00Z",
       "archived": false,
       "rank": 2,
       "rankDelta": null,
@@ -393,41 +393,9 @@
       "stars": 60,
       "forks": 2,
       "createdAt": "2026-09-05T20:08:29Z",
-      "pushedAt": "2026-11-08T06:04:48Z",
+      "pushedAt": "2026-11-08T13:26:39Z",
       "archived": false,
       "rank": 13,
-      "rankDelta": null,
-      "starsDelta": null
-    },
-    {
-      "id": 1441695718,
-      "fullName": "Quillnymph44055/rpocket-ghast",
-      "url": "https://github.com/Quillnymph44055/rpocket-ghast",
-      "description": "Build a native macOS terminal multiplexer with SwiftUI and Ghostty for workspaces, split panes, tabs, and shell-friendly file drops",
-      "homepage": null,
-      "language": null,
-      "topics": [
-        "discord-app",
-        "donut-smp",
-        "donutsmp-rig",
-        "donutsmpchecker",
-        "donutsmputils",
-        "dsp",
-        "golang-library",
-        "golang-package",
-        "jinja2",
-        "nether",
-        "sexism-detection",
-        "spectrogram",
-        "web-framework"
-      ],
-      "license": null,
-      "stars": 60,
-      "forks": 0,
-      "createdAt": "2026-11-01T10:16:07Z",
-      "pushedAt": "2026-11-01T10:16:15Z",
-      "archived": false,
-      "rank": 14,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -452,7 +420,7 @@
       "createdAt": "2026-09-21T21:02:17Z",
       "pushedAt": "2026-11-08T09:36:44Z",
       "archived": false,
-      "rank": 15,
+      "rank": 14,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -485,7 +453,7 @@
       "createdAt": "2026-09-21T21:41:52Z",
       "pushedAt": "2026-11-08T11:44:55Z",
       "archived": false,
-      "rank": 16,
+      "rank": 15,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -510,7 +478,7 @@
       "createdAt": "2026-08-25T09:23:55Z",
       "pushedAt": "2026-11-08T07:29:49Z",
       "archived": false,
-      "rank": 17,
+      "rank": 16,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -537,7 +505,7 @@
       "createdAt": "2026-10-10T15:56:10Z",
       "pushedAt": "2026-11-01T05:56:16Z",
       "archived": false,
-      "rank": 18,
+      "rank": 17,
       "rankDelta": null,
       "starsDelta": null
     }

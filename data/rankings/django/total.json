@@ -1,7 +1,7 @@
 {
   "categoryId": "django",
   "window": "total",
-  "updatedAt": "2026-11-08T12:41:12.689Z",
+  "updatedAt": "2026-11-08T13:56:48.902Z",
   "totalFetched": 78,
   "items": [
     {
@@ -23,8 +23,8 @@
         "web"
       ],
       "license": "BSD-3-Clause",
-      "stars": 91688,
-      "forks": 35963,
+      "stars": 91689,
+      "forks": 35965,
       "createdAt": "2012-04-28T02:47:18Z",
       "pushedAt": "2026-11-06T22:17:53Z",
       "archived": false,
@@ -54,8 +54,8 @@
         "pdf"
       ],
       "license": "GPL-3.0",
-      "stars": 47866,
-      "forks": 3366,
+      "stars": 47873,
+      "forks": 3368,
       "createdAt": "2022-02-12T21:56:52Z",
       "pushedAt": "2026-11-08T12:15:33Z",
       "archived": false,
@@ -91,7 +91,7 @@
       "stars": 45729,
       "forks": 4969,
       "createdAt": "2010-08-30T22:06:41Z",
-      "pushedAt": "2026-11-08T12:05:30Z",
+      "pushedAt": "2026-11-08T13:55:16Z",
       "archived": false,
       "rank": 3,
       "rankDelta": null,
@@ -169,7 +169,7 @@
         "python"
       ],
       "license": "Apache-2.0",
-      "stars": 21859,
+      "stars": 21857,
       "forks": 3191,
       "createdAt": "2016-02-29T14:15:46Z",
       "pushedAt": "2026-11-07T05:01:52Z",
@@ -220,7 +220,7 @@
         "reactjs"
       ],
       "license": null,
-      "stars": 15621,
+      "stars": 15622,
       "forks": 3696,
       "createdAt": "2017-05-17T15:50:14Z",
       "pushedAt": "2026-11-06T20:15:32Z",
@@ -303,7 +303,7 @@
       ],
       "license": "CC0-1.0",
       "stars": 11299,
-      "forks": 1481,
+      "forks": 1480,
       "createdAt": "2018-04-11T13:00:48Z",
       "pushedAt": "2026-10-26T01:53:37Z",
       "archived": false,
@@ -352,7 +352,7 @@
         "ops"
       ],
       "license": "BSD-3-Clause",
-      "stars": 10506,
+      "stars": 10505,
       "forks": 1042,
       "createdAt": "2015-06-25T18:38:33Z",
       "pushedAt": "2026-11-08T06:57:47Z",
@@ -440,7 +440,7 @@
       "stars": 8137,
       "forks": 414,
       "createdAt": "2020-11-11T23:08:19Z",
-      "pushedAt": "2026-11-08T06:02:27Z",
+      "pushedAt": "2026-11-08T13:54:53Z",
       "archived": false,
       "rank": 16,
       "rankDelta": null,
@@ -533,7 +533,7 @@
         "workout"
       ],
       "license": "AGPL-3.0",
-      "stars": 7242,
+      "stars": 7243,
       "forks": 1064,
       "createdAt": "2013-01-19T16:34:38Z",
       "pushedAt": "2026-11-08T11:46:31Z",
@@ -610,7 +610,7 @@
         "translation"
       ],
       "license": "GPL-3.0",
-      "stars": 6162,
+      "stars": 6163,
       "forks": 1380,
       "createdAt": "2012-02-27T09:33:29Z",
       "pushedAt": "2026-11-08T11:07:44Z",
@@ -753,7 +753,7 @@
       "stars": 5200,
       "forks": 2014,
       "createdAt": "2015-02-19T17:53:47Z",
-      "pushedAt": "2026-11-08T07:11:28Z",
+      "pushedAt": "2026-11-08T13:04:40Z",
       "archived": false,
       "rank": 28,
       "rankDelta": null,

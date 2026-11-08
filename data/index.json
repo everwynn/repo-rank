@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T12:41:12.689Z",
+  "updatedAt": "2026-11-08T13:56:48.902Z",
   "timeZone": "Asia/Shanghai",
   "counts": {
     "go": {
@@ -108,7 +108,7 @@
     },
     "books-lists": {
       "total": 100,
-      "new": 12
+      "new": 11
     },
     "ebook-tools": {
       "total": 100,
@@ -116,11 +116,11 @@
     },
     "tts": {
       "total": 100,
-      "new": 85
+      "new": 84
     },
     "audio-processing": {
       "total": 100,
-      "new": 18
+      "new": 17
     },
     "podcast": {
       "total": 100,
@@ -128,7 +128,7 @@
     },
     "music": {
       "total": 100,
-      "new": 77
+      "new": 75
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "categoryId": "music",
   "window": "total",
-  "updatedAt": "2026-11-08T12:41:12.689Z",
+  "updatedAt": "2026-11-08T13:56:48.902Z",
   "totalFetched": 200,
   "items": [
     {
@@ -18,7 +18,7 @@
         "vue"
       ],
       "license": "Apache-2.0",
-      "stars": 55178,
+      "stars": 55179,
       "forks": 7113,
       "createdAt": "2019-08-14T14:31:08Z",
       "pushedAt": "2026-11-07T02:18:08Z",
@@ -50,7 +50,7 @@
         "youtube"
       ],
       "license": "AGPL-3.0",
-      "stars": 50668,
+      "stars": 50674,
       "forks": 2386,
       "createdAt": "2021-02-14T03:17:58Z",
       "pushedAt": "2026-11-07T10:27:12Z",
@@ -146,7 +146,7 @@
         "windows"
       ],
       "license": "MIT",
-      "stars": 33998,
+      "stars": 33997,
       "forks": 2039,
       "createdAt": "2019-04-19T18:14:40Z",
       "pushedAt": "2026-11-08T01:55:43Z",
@@ -183,7 +183,7 @@
         "windows"
       ],
       "license": "MIT",
-      "stars": 33599,
+      "stars": 33598,
       "forks": 4675,
       "createdAt": "2020-10-09T10:04:21Z",
       "pushedAt": "2026-10-10T11:05:47Z",
@@ -209,7 +209,7 @@
         "typescript"
       ],
       "license": "AGPL-3.0",
-      "stars": 28344,
+      "stars": 28346,
       "forks": 2023,
       "createdAt": "2022-08-22T14:29:32Z",
       "pushedAt": "2026-10-15T15:16:41Z",
@@ -350,7 +350,7 @@
         "react-native-app"
       ],
       "license": "Apache-2.0",
-      "stars": 19210,
+      "stars": 19212,
       "forks": 2226,
       "createdAt": "2021-05-15T09:53:57Z",
       "pushedAt": "2026-10-30T15:11:57Z",
@@ -386,7 +386,7 @@
       "stars": 18895,
       "forks": 1357,
       "createdAt": "2016-09-22T22:58:21Z",
-      "pushedAt": "2026-11-07T22:44:49Z",
+      "pushedAt": "2026-11-08T12:52:02Z",
       "archived": false,
       "rank": 13,
       "rankDelta": null,
@@ -405,8 +405,8 @@
         "music-player"
       ],
       "license": "MIT",
-      "stars": 17362,
-      "forks": 1417,
+      "stars": 17364,
+      "forks": 1419,
       "createdAt": "2023-10-27T15:52:55Z",
       "pushedAt": "2026-10-28T01:08:51Z",
       "archived": false,
@@ -434,7 +434,7 @@
       "stars": 17336,
       "forks": 2119,
       "createdAt": "2015-12-06T12:13:19Z",
-      "pushedAt": "2026-11-08T12:26:56Z",
+      "pushedAt": "2026-11-08T13:05:29Z",
       "archived": false,
       "rank": 15,
       "rankDelta": null,
@@ -470,8 +470,8 @@
         "ytmusic"
       ],
       "license": "GPL-3.0",
-      "stars": 14076,
-      "forks": 1274,
+      "stars": 14077,
+      "forks": 1276,
       "createdAt": "2023-08-11T12:19:23Z",
       "pushedAt": "2026-11-02T23:23:39Z",
       "archived": false,
@@ -507,7 +507,7 @@
         "youtube-music"
       ],
       "license": "GPL-3.0",
-      "stars": 13011,
+      "stars": 13014,
       "forks": 730,
       "createdAt": "2023-04-15T04:53:33Z",
       "pushedAt": "2026-11-08T08:32:19Z",
@@ -556,8 +556,8 @@
         "vercel-deployment"
       ],
       "license": "AGPL-3.0",
-      "stars": 12042,
-      "forks": 1344,
+      "stars": 12049,
+      "forks": 1345,
       "createdAt": "2025-11-28T11:58:07Z",
       "pushedAt": "2026-11-08T12:15:54Z",
       "archived": false,
@@ -615,7 +615,7 @@
         "youtube-music"
       ],
       "license": "GPL-3.0",
-      "stars": 11318,
+      "stars": 11319,
       "forks": 820,
       "createdAt": "2020-07-15T20:05:01Z",
       "pushedAt": "2024-10-06T22:16:49Z",
@@ -639,7 +639,7 @@
         "spotifyd"
       ],
       "license": "GPL-3.0",
-      "stars": 10830,
+      "stars": 10831,
       "forks": 522,
       "createdAt": "2014-12-10T21:05:13Z",
       "pushedAt": "2026-05-28T17:31:55Z",
@@ -664,8 +664,8 @@
         "subsonic-client"
       ],
       "license": "GPL-3.0",
-      "stars": 10360,
-      "forks": 602,
+      "stars": 10361,
+      "forks": 603,
       "createdAt": "2022-07-25T08:02:56Z",
       "pushedAt": "2026-11-03T03:32:30Z",
       "archived": false,
@@ -699,8 +699,8 @@
         "windows"
       ],
       "license": "MIT",
-      "stars": 9933,
-      "forks": 580,
+      "stars": 9945,
+      "forks": 581,
       "createdAt": "2026-08-27T12:46:32Z",
       "pushedAt": "2026-11-08T07:31:06Z",
       "archived": false,
@@ -1004,7 +1004,7 @@
         "web"
       ],
       "license": "AGPL-3.0",
-      "stars": 7163,
+      "stars": 7164,
       "forks": 447,
       "createdAt": "2021-10-17T10:03:14Z",
       "pushedAt": "2026-11-07T19:18:12Z",
@@ -1055,7 +1055,7 @@
         "youtube-player"
       ],
       "license": null,
-      "stars": 6802,
+      "stars": 6803,
       "forks": 374,
       "createdAt": "2023-02-12T16:36:03Z",
       "pushedAt": "2026-11-07T02:15:40Z",
@@ -1126,7 +1126,7 @@
         "spotx"
       ],
       "license": "MIT",
-      "stars": 6462,
+      "stars": 6463,
       "forks": 235,
       "createdAt": "2023-01-30T15:51:05Z",
       "pushedAt": "2026-11-06T17:19:54Z",
@@ -1182,7 +1182,7 @@
         "youtube-music"
       ],
       "license": "GPL-3.0",
-      "stars": 6143,
+      "stars": 6142,
       "forks": 455,
       "createdAt": "2020-02-11T03:02:58Z",
       "pushedAt": "2025-11-13T03:16:57Z",
@@ -1220,7 +1220,7 @@
         "yt-dlp"
       ],
       "license": "GPL-2.0",
-      "stars": 5548,
+      "stars": 5549,
       "forks": 224,
       "createdAt": "2017-08-27T07:36:32Z",
       "pushedAt": "2026-02-09T13:12:05Z",
@@ -1243,7 +1243,7 @@
         "music-player"
       ],
       "license": "GPL-3.0",
-      "stars": 5448,
+      "stars": 5447,
       "forks": 377,
       "createdAt": "2024-05-13T13:55:37Z",
       "pushedAt": "2026-10-12T18:01:37Z",
@@ -1406,7 +1406,7 @@
         "nas"
       ],
       "license": null,
-      "stars": 4822,
+      "stars": 4825,
       "forks": 235,
       "createdAt": "2025-01-26T07:49:28Z",
       "pushedAt": "2026-11-06T15:47:13Z",
@@ -1444,7 +1444,7 @@
         "windows"
       ],
       "license": null,
-      "stars": 4808,
+      "stars": 4809,
       "forks": 264,
       "createdAt": "2020-08-04T10:28:45Z",
       "pushedAt": "2026-11-07T11:37:46Z",
@@ -1672,7 +1672,7 @@
       "stars": 4063,
       "forks": 373,
       "createdAt": "2014-12-29T22:49:19Z",
-      "pushedAt": "2026-11-08T12:39:42Z",
+      "pushedAt": "2026-11-08T13:58:31Z",
       "archived": false,
       "rank": 56,
       "rankDelta": null,
@@ -1724,7 +1724,7 @@
         "music-player"
       ],
       "license": "GPL-3.0",
-      "stars": 3852,
+      "stars": 3854,
       "forks": 271,
       "createdAt": "2026-02-04T04:58:36Z",
       "pushedAt": "2026-11-08T11:53:27Z",
@@ -1972,7 +1972,7 @@
       ],
       "license": "GPL-3.0",
       "stars": 3370,
-      "forks": 183,
+      "forks": 184,
       "createdAt": "2025-10-19T15:37:26Z",
       "pushedAt": "2026-11-08T11:12:34Z",
       "archived": false,
@@ -2032,7 +2032,7 @@
         "windows"
       ],
       "license": "GPL-2.0",
-      "stars": 3197,
+      "stars": 3198,
       "forks": 110,
       "createdAt": "2023-05-17T05:29:52Z",
       "pushedAt": "2026-11-08T11:47:34Z",
@@ -2057,7 +2057,7 @@
         "swift"
       ],
       "license": "MIT",
-      "stars": 3142,
+      "stars": 3143,
       "forks": 189,
       "createdAt": "2016-09-02T18:23:57Z",
       "pushedAt": "2026-05-15T00:10:30Z",
@@ -2278,8 +2278,8 @@
         "typescript"
       ],
       "license": null,
-      "stars": 2794,
-      "forks": 175,
+      "stars": 2795,
+      "forks": 176,
       "createdAt": "2023-07-11T13:34:23Z",
       "pushedAt": "2026-11-07T00:58:07Z",
       "archived": false,
@@ -2329,10 +2329,10 @@
         "youtube"
       ],
       "license": "GPL-3.0",
-      "stars": 2705,
+      "stars": 2708,
       "forks": 233,
       "createdAt": "2026-08-03T22:27:37Z",
-      "pushedAt": "2026-11-08T11:58:14Z",
+      "pushedAt": "2026-11-08T13:27:01Z",
       "archived": false,
       "rank": 79,
       "rankDelta": null,
@@ -2401,7 +2401,7 @@
       "stars": 2665,
       "forks": 124,
       "createdAt": "2022-06-20T10:52:24Z",
-      "pushedAt": "2026-11-08T12:19:12Z",
+      "pushedAt": "2026-11-08T13:35:19Z",
       "archived": false,
       "rank": 81,
       "rankDelta": null,
@@ -2573,7 +2573,7 @@
         "windows"
       ],
       "license": "MIT",
-      "stars": 2403,
+      "stars": 2402,
       "forks": 161,
       "createdAt": "2016-11-11T22:21:41Z",
       "pushedAt": "2026-11-07T20:01:21Z",
@@ -2627,7 +2627,7 @@
       ],
       "license": "GPL-3.0",
       "stars": 2388,
-      "forks": 151,
+      "forks": 152,
       "createdAt": "2023-08-02T07:57:11Z",
       "pushedAt": "2026-11-07T18:14:16Z",
       "archived": false,
@@ -2752,7 +2752,7 @@
         "windows"
       ],
       "license": "GPL-2.0",
-      "stars": 2308,
+      "stars": 2309,
       "forks": 224,
       "createdAt": "2023-12-07T08:26:08Z",
       "pushedAt": "2026-10-21T01:58:35Z",
@@ -2781,7 +2781,7 @@
         "video-player"
       ],
       "license": "CC0-1.0",
-      "stars": 2307,
+      "stars": 2308,
       "forks": 64,
       "createdAt": "2022-07-13T15:25:04Z",
       "pushedAt": "2026-02-04T06:50:20Z",

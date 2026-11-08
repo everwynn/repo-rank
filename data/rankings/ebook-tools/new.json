@@ -1,7 +1,7 @@
 {
   "categoryId": "ebook-tools",
   "window": "new",
-  "updatedAt": "2026-11-08T12:41:12.689Z",
+  "updatedAt": "2026-11-08T13:56:48.902Z",
   "totalFetched": 20,
   "items": [
     {
@@ -25,7 +25,7 @@
         "tutorial"
       ],
       "license": null,
-      "stars": 1416,
+      "stars": 1417,
       "forks": 123,
       "createdAt": "2026-08-14T03:14:33Z",
       "pushedAt": "2026-10-20T03:26:13Z",
@@ -53,8 +53,8 @@
         "weread"
       ],
       "license": "MIT",
-      "stars": 533,
-      "forks": 61,
+      "stars": 536,
+      "forks": 62,
       "createdAt": "2026-10-31T13:23:10Z",
       "pushedAt": "2026-11-01T12:34:16Z",
       "archived": false,
@@ -67,7 +67,7 @@
       "fullName": "cynicalight/NeoRead",
       "url": "https://github.com/cynicalight/NeoRead",
       "description": "NeoRead: a local-first EPUB/PDF reader with annotations, side-by-side translation, and AI assistance through Claude Code, Codex CLI, and Kimi CLI.",
-      "homepage": "https://cynicalight.github.io/NeoRead/",
+      "homepage": "https://neoread.app",
       "language": "TypeScript",
       "topics": [
         "academic",
@@ -83,8 +83,8 @@
         "typescript"
       ],
       "license": null,
-      "stars": 407,
-      "forks": 35,
+      "stars": 408,
+      "forks": 36,
       "createdAt": "2026-10-03T15:00:08Z",
       "pushedAt": "2026-11-02T10:02:03Z",
       "archived": false,
@@ -215,7 +215,7 @@
         "txt-reader"
       ],
       "license": "GPL-3.0",
-      "stars": 151,
+      "stars": 153,
       "forks": 49,
       "createdAt": "2026-10-13T08:31:04Z",
       "pushedAt": "2026-10-29T16:56:21Z",
@@ -252,7 +252,7 @@
         "whisper"
       ],
       "license": "Apache-2.0",
-      "stars": 111,
+      "stars": 112,
       "forks": 13,
       "createdAt": "2026-10-11T21:04:19Z",
       "pushedAt": "2026-11-07T16:48:37Z",
