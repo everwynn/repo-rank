@@ -2,6 +2,7 @@
 import { getUpdatedAt } from '../lib/rankings';
 import { formatUpdatedAt } from '../../scripts/lib/format.mjs';
 import { withBase } from '../lib/url';
+import VisitCounter from './VisitCounter.astro';
 
 const updatedAt = getUpdatedAt();
 ---
@@ -14,5 +15,8 @@ const updatedAt = getUpdatedAt();
       <span class="mx-1.5">·</span>
       <a href={withBase('/about/')} class="hover:text-brand-ink">关于本站</a>
     </p>
+  </div>
+  <div class="mx-auto max-w-5xl px-4 pb-6 text-xs text-muted">
+    <VisitCounter site="repo-rank" />
   </div>
 </footer>
