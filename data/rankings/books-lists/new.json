@@ -1,8 +1,8 @@
 {
   "categoryId": "books-lists",
   "window": "new",
-  "updatedAt": "2026-11-07T16:52:44.602Z",
-  "totalFetched": 12,
+  "updatedAt": "2026-11-08T02:32:25.749Z",
+  "totalFetched": 14,
   "items": [
     {
       "id": 1342935078,
@@ -29,12 +29,42 @@
         "performance-engineering"
       ],
       "license": "Apache-2.0",
-      "stars": 7370,
+      "stars": 7372,
       "forks": 585,
       "createdAt": "2026-08-22T15:30:41Z",
       "pushedAt": "2026-10-01T08:19:29Z",
       "archived": false,
       "rank": 1,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
+      "id": 1333742677,
+      "fullName": "alchaincyf/deepseek-harness-orange-book",
+      "url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+      "description": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
+      "homepage": null,
+      "language": "HTML",
+      "topics": [
+        "agent-framework",
+        "ai-agents",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "ebook",
+        "epub",
+        "guide",
+        "orange-book",
+        "pdf",
+        "tutorial"
+      ],
+      "license": null,
+      "stars": 1416,
+      "forks": 123,
+      "createdAt": "2026-08-14T03:14:33Z",
+      "pushedAt": "2026-10-20T03:26:13Z",
+      "archived": false,
+      "rank": 2,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -58,12 +88,12 @@
         "workbuddy"
       ],
       "license": "MIT",
-      "stars": 1334,
+      "stars": 1337,
       "forks": 125,
       "createdAt": "2026-09-08T07:48:21Z",
       "pushedAt": "2026-10-19T16:34:57Z",
       "archived": false,
-      "rank": 2,
+      "rank": 3,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -86,7 +116,38 @@
       "createdAt": "2026-08-17T11:51:04Z",
       "pushedAt": "2026-10-31T17:32:10Z",
       "archived": false,
-      "rank": 3,
+      "rank": 4,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
+      "id": 1367986547,
+      "fullName": "alchaincyf/3d-vibe-coding-handbook",
+      "url": "https://github.com/alchaincyf/3d-vibe-coding-handbook",
+      "description": "《3D Vibe Coding 手册》配套仓库：书的 HTML 版、demo 源码、工具脚本与资源包索引",
+      "homepage": "https://alchaincyf.github.io/3d-vibe-coding-handbook/",
+      "language": "HTML",
+      "topics": [
+        "3d",
+        "ai-3d",
+        "ai-coding",
+        "ebook",
+        "gltf",
+        "handbook",
+        "image-to-3d",
+        "orange-book",
+        "three-js",
+        "tripo",
+        "tutorial",
+        "vibe-coding"
+      ],
+      "license": null,
+      "stars": 308,
+      "forks": 53,
+      "createdAt": "2026-09-13T04:01:06Z",
+      "pushedAt": "2026-09-15T06:52:48Z",
+      "archived": false,
+      "rank": 5,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -125,7 +186,7 @@
       "createdAt": "2026-09-27T12:06:01Z",
       "pushedAt": "2026-11-03T12:34:54Z",
       "archived": false,
-      "rank": 4,
+      "rank": 6,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -155,7 +216,7 @@
       "createdAt": "2026-08-24T09:45:24Z",
       "pushedAt": "2026-09-10T04:50:09Z",
       "archived": false,
-      "rank": 5,
+      "rank": 7,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -180,7 +241,7 @@
       "createdAt": "2026-10-22T14:00:11Z",
       "pushedAt": "2026-11-01T23:01:34Z",
       "archived": false,
-      "rank": 6,
+      "rank": 8,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -217,7 +278,7 @@
       "createdAt": "2026-10-03T13:36:54Z",
       "pushedAt": "2026-10-06T04:32:33Z",
       "archived": false,
-      "rank": 7,
+      "rank": 9,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -244,12 +305,12 @@
         "svg-animations"
       ],
       "license": null,
-      "stars": 60,
+      "stars": 69,
       "forks": 0,
       "createdAt": "2026-11-05T11:55:48Z",
       "pushedAt": "2026-11-05T11:55:57Z",
       "archived": false,
-      "rank": 8,
+      "rank": 10,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -286,7 +347,7 @@
       "createdAt": "2026-09-15T01:51:59Z",
       "pushedAt": "2026-11-02T23:42:10Z",
       "archived": false,
-      "rank": 9,
+      "rank": 11,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -317,7 +378,7 @@
       "createdAt": "2026-09-19T16:21:55Z",
       "pushedAt": "2026-11-03T20:57:19Z",
       "archived": false,
-      "rank": 10,
+      "rank": 12,
       "rankDelta": null,
       "starsDelta": null
     }
