@@ -1,7 +1,7 @@
 {
   "categoryId": "ebook-tools",
   "window": "total",
-  "updatedAt": "2026-11-08T13:56:48.902Z",
+  "updatedAt": "2026-11-08T17:05:52.078Z",
   "totalFetched": 300,
   "items": [
     {
@@ -34,10 +34,10 @@
         "ubuntu-touch"
       ],
       "license": "AGPL-3.0",
-      "stars": 30955,
+      "stars": 30960,
       "forks": 2026,
       "createdAt": "2013-03-24T13:09:42Z",
-      "pushedAt": "2026-11-08T10:47:48Z",
+      "pushedAt": "2026-11-08T16:20:05Z",
       "archived": false,
       "rank": 1,
       "rankDelta": null,
@@ -71,7 +71,7 @@
         "xml"
       ],
       "license": "AGPL-3.0",
-      "stars": 28762,
+      "stars": 28766,
       "forks": 2156,
       "createdAt": "2020-03-05T02:18:30Z",
       "pushedAt": "2026-11-08T12:11:32Z",
@@ -100,8 +100,8 @@
         "python"
       ],
       "license": "GPL-3.0",
-      "stars": 26386,
-      "forks": 2749,
+      "stars": 26387,
+      "forks": 2750,
       "createdAt": "2013-05-28T10:03:23Z",
       "pushedAt": "2026-11-08T00:44:16Z",
       "archived": false,
@@ -139,10 +139,10 @@
         "webdav"
       ],
       "license": "AGPL-3.0",
-      "stars": 26063,
+      "stars": 26078,
       "forks": 1848,
       "createdAt": "2024-10-12T23:16:55Z",
-      "pushedAt": "2026-11-08T13:31:20Z",
+      "pushedAt": "2026-11-08T15:59:20Z",
       "archived": false,
       "rank": 4,
       "rankDelta": null,
@@ -174,7 +174,7 @@
         "xtts"
       ],
       "license": "Apache-2.0",
-      "stars": 20512,
+      "stars": 20513,
       "forks": 1749,
       "createdAt": "2024-01-22T23:49:55Z",
       "pushedAt": "2026-11-08T13:22:01Z",
@@ -240,7 +240,7 @@
       "stars": 12076,
       "forks": 698,
       "createdAt": "2020-12-12T22:23:54Z",
-      "pushedAt": "2026-11-08T12:12:53Z",
+      "pushedAt": "2026-11-08T15:45:06Z",
       "archived": false,
       "rank": 7,
       "rankDelta": null,
@@ -271,7 +271,7 @@
         "xps"
       ],
       "license": "AGPL-3.0",
-      "stars": 11085,
+      "stars": 11086,
       "forks": 834,
       "createdAt": "2012-10-06T18:54:25Z",
       "pushedAt": "2026-11-08T07:54:11Z",
@@ -293,7 +293,7 @@
         "flutter"
       ],
       "license": "MIT",
-      "stars": 9213,
+      "stars": 9216,
       "forks": 674,
       "createdAt": "2024-03-28T11:28:52Z",
       "pushedAt": "2026-10-17T12:57:09Z",
@@ -372,10 +372,10 @@
         "firmware"
       ],
       "license": null,
-      "stars": 8698,
-      "forks": 2262,
+      "stars": 8699,
+      "forks": 2264,
       "createdAt": "2025-12-03T11:01:12Z",
-      "pushedAt": "2026-11-08T13:51:17Z",
+      "pushedAt": "2026-11-08T14:41:39Z",
       "archived": false,
       "rank": 12,
       "rankDelta": null,
@@ -496,7 +496,7 @@
         "translation"
       ],
       "license": "MIT",
-      "stars": 6495,
+      "stars": 6494,
       "forks": 475,
       "createdAt": "2025-02-12T06:10:59Z",
       "pushedAt": "2026-11-07T06:49:05Z",
@@ -526,7 +526,7 @@
         "vue"
       ],
       "license": "AGPL-3.0",
-      "stars": 6218,
+      "stars": 6224,
       "forks": 424,
       "createdAt": "2026-05-09T00:04:37Z",
       "pushedAt": "2026-11-08T13:49:36Z",
@@ -597,7 +597,7 @@
         "webtoons"
       ],
       "license": "ISC",
-      "stars": 5997,
+      "stars": 5999,
       "forks": 370,
       "createdAt": "2012-11-30T11:50:29Z",
       "pushedAt": "2026-11-08T03:29:39Z",
@@ -716,7 +716,7 @@
         "spring-boot"
       ],
       "license": "AGPL-3.0",
-      "stars": 4675,
+      "stars": 4676,
       "forks": 359,
       "createdAt": "2026-03-12T21:32:38Z",
       "pushedAt": "2026-11-08T11:08:59Z",
@@ -749,7 +749,7 @@
         "webcomics"
       ],
       "license": null,
-      "stars": 4355,
+      "stars": 4356,
       "forks": 361,
       "createdAt": "2016-11-02T09:53:25Z",
       "pushedAt": "2026-10-12T22:29:41Z",
@@ -841,8 +841,8 @@
         "vector-search"
       ],
       "license": null,
-      "stars": 2951,
-      "forks": 241,
+      "stars": 2953,
+      "forks": 242,
       "createdAt": "2026-02-25T16:59:27Z",
       "pushedAt": "2026-11-02T02:55:43Z",
       "archived": false,
@@ -878,7 +878,7 @@
         "windows"
       ],
       "license": null,
-      "stars": 2948,
+      "stars": 2952,
       "forks": 438,
       "createdAt": "2025-03-22T01:18:48Z",
       "pushedAt": "2026-11-08T07:38:54Z",
@@ -963,7 +963,7 @@
         "translator"
       ],
       "license": "GPL-3.0",
-      "stars": 2676,
+      "stars": 2677,
       "forks": 216,
       "createdAt": "2023-03-26T06:16:16Z",
       "pushedAt": "2026-10-24T13:41:37Z",
@@ -1031,7 +1031,7 @@
         "zlibrary"
       ],
       "license": "GPL-3.0",
-      "stars": 2513,
+      "stars": 2514,
       "forks": 138,
       "createdAt": "2023-08-10T11:41:25Z",
       "pushedAt": "2026-01-18T12:54:54Z",
@@ -1104,7 +1104,7 @@
         "webui"
       ],
       "license": "MIT",
-      "stars": 2083,
+      "stars": 2084,
       "forks": 222,
       "createdAt": "2023-03-21T10:47:28Z",
       "pushedAt": "2026-10-28T14:23:14Z",
@@ -1154,7 +1154,7 @@
         "tts"
       ],
       "license": "MIT",
-      "stars": 1998,
+      "stars": 1999,
       "forks": 182,
       "createdAt": "2025-01-14T18:12:50Z",
       "pushedAt": "2026-08-22T22:24:48Z",
@@ -1445,7 +1445,7 @@
         "zlibrary"
       ],
       "license": "MIT",
-      "stars": 1530,
+      "stars": 1532,
       "forks": 121,
       "createdAt": "2026-04-10T02:20:43Z",
       "pushedAt": "2026-11-07T13:03:12Z",
@@ -1523,7 +1523,7 @@
       ],
       "license": "GPL-3.0",
       "stars": 1425,
-      "forks": 100,
+      "forks": 101,
       "createdAt": "2023-12-29T22:20:50Z",
       "pushedAt": "2026-11-05T22:33:39Z",
       "archived": false,
@@ -1834,7 +1834,7 @@
         "tui-rs"
       ],
       "license": "AGPL-3.0",
-      "stars": 1281,
+      "stars": 1282,
       "forks": 77,
       "createdAt": "2025-10-28T20:09:03Z",
       "pushedAt": "2026-10-21T12:39:17Z",
@@ -1896,7 +1896,7 @@
       ],
       "license": "MIT",
       "stars": 1148,
-      "forks": 300,
+      "forks": 299,
       "createdAt": "2022-10-18T18:45:22Z",
       "pushedAt": "2026-05-01T19:24:25Z",
       "archived": false,
@@ -1979,7 +1979,7 @@
       ],
       "license": "MIT",
       "stars": 1080,
-      "forks": 197,
+      "forks": 198,
       "createdAt": "2020-03-04T12:19:50Z",
       "pushedAt": "2025-04-09T13:14:54Z",
       "archived": false,
@@ -2320,7 +2320,7 @@
         "kobo"
       ],
       "license": "MIT",
-      "stars": 900,
+      "stars": 901,
       "forks": 59,
       "createdAt": "2017-07-27T22:48:57Z",
       "pushedAt": "2026-11-08T12:21:23Z",
@@ -2548,7 +2548,7 @@
         "webdav"
       ],
       "license": "LGPL-3.0",
-      "stars": 804,
+      "stars": 803,
       "forks": 47,
       "createdAt": "2022-09-11T04:19:06Z",
       "pushedAt": "2025-11-07T06:57:44Z",
@@ -2653,8 +2653,8 @@
         "wxread"
       ],
       "license": "AGPL-3.0",
-      "stars": 726,
-      "forks": 49,
+      "stars": 727,
+      "forks": 50,
       "createdAt": "2026-07-18T15:24:14Z",
       "pushedAt": "2026-11-07T06:17:05Z",
       "archived": false,
@@ -2940,7 +2940,7 @@
         "ruby-gem"
       ],
       "license": null,
-      "stars": 614,
+      "stars": 615,
       "forks": 75,
       "createdAt": "2013-02-07T17:11:06Z",
       "pushedAt": "2024-10-07T00:22:56Z",

@@ -1,7 +1,7 @@
 {
   "categoryId": "ebook-tools",
   "window": "new",
-  "updatedAt": "2026-11-08T13:56:48.902Z",
+  "updatedAt": "2026-11-08T17:05:52.078Z",
   "totalFetched": 20,
   "items": [
     {
@@ -53,7 +53,7 @@
         "weread"
       ],
       "license": "MIT",
-      "stars": 536,
+      "stars": 542,
       "forks": 62,
       "createdAt": "2026-10-31T13:23:10Z",
       "pushedAt": "2026-11-01T12:34:16Z",
@@ -137,7 +137,7 @@
       "stars": 260,
       "forks": 18,
       "createdAt": "2026-09-05T04:46:01Z",
-      "pushedAt": "2026-11-08T06:33:01Z",
+      "pushedAt": "2026-11-08T14:39:56Z",
       "archived": false,
       "rank": 5,
       "rankDelta": null,
@@ -215,8 +215,8 @@
         "txt-reader"
       ],
       "license": "GPL-3.0",
-      "stars": 153,
-      "forks": 49,
+      "stars": 155,
+      "forks": 50,
       "createdAt": "2026-10-13T08:31:04Z",
       "pushedAt": "2026-10-29T16:56:21Z",
       "archived": false,
@@ -359,7 +359,7 @@
       "stars": 68,
       "forks": 0,
       "createdAt": "2026-09-22T20:04:05Z",
-      "pushedAt": "2026-11-08T09:59:14Z",
+      "pushedAt": "2026-11-08T16:42:12Z",
       "archived": false,
       "rank": 12,
       "rankDelta": null,
@@ -393,7 +393,7 @@
         "study-guide"
       ],
       "license": null,
-      "stars": 60,
+      "stars": 61,
       "forks": 10,
       "createdAt": "2026-09-15T01:51:59Z",
       "pushedAt": "2026-11-02T23:42:10Z",

@@ -1,7 +1,7 @@
 {
   "categoryId": "books-lists",
   "window": "total",
-  "updatedAt": "2026-11-08T13:56:48.902Z",
+  "updatedAt": "2026-11-08T17:05:52.078Z",
   "totalFetched": 303,
   "items": [
     {
@@ -19,8 +19,8 @@
         "resource"
       ],
       "license": "CC-BY-4.0",
-      "stars": 401273,
-      "forks": 67382,
+      "stars": 401285,
+      "forks": 67387,
       "createdAt": "2013-10-11T06:50:37Z",
       "pushedAt": "2026-11-07T19:10:09Z",
       "archived": false,
@@ -51,7 +51,7 @@
         "training-providers"
       ],
       "license": null,
-      "stars": 184841,
+      "stars": 184840,
       "forks": 33338,
       "createdAt": "2013-11-16T02:37:24Z",
       "pushedAt": "2026-10-31T16:14:40Z",
@@ -81,10 +81,10 @@
         "programming"
       ],
       "license": null,
-      "stars": 132015,
+      "stars": 132021,
       "forks": 15599,
       "createdAt": "2022-11-04T11:08:34Z",
-      "pushedAt": "2026-11-07T07:43:37Z",
+      "pushedAt": "2026-11-08T15:52:38Z",
       "archived": false,
       "rank": 3,
       "rankDelta": null,
@@ -114,7 +114,7 @@
         "vue"
       ],
       "license": "GPL-3.0",
-      "stars": 119522,
+      "stars": 119525,
       "forks": 28257,
       "createdAt": "2013-11-04T01:59:19Z",
       "pushedAt": "2026-07-29T00:39:06Z",
@@ -141,8 +141,8 @@
         "python"
       ],
       "license": "Apache-2.0",
-      "stars": 82340,
-      "forks": 12481,
+      "stars": 82349,
+      "forks": 12483,
       "createdAt": "2017-08-23T04:40:24Z",
       "pushedAt": "2024-07-30T09:32:19Z",
       "archived": false,
@@ -198,8 +198,8 @@
         "reinforcement-learning"
       ],
       "license": "Apache-2.0",
-      "stars": 57450,
-      "forks": 6642,
+      "stars": 57461,
+      "forks": 6644,
       "createdAt": "2025-09-09T02:41:44Z",
       "pushedAt": "2026-10-08T15:06:27Z",
       "archived": false,
@@ -229,7 +229,7 @@
         "shell-scripts"
       ],
       "license": "MIT",
-      "stars": 41716,
+      "stars": 41715,
       "forks": 3656,
       "createdAt": "2018-06-13T01:39:33Z",
       "pushedAt": "2023-11-28T03:26:23Z",
@@ -256,7 +256,7 @@
         "wtf"
       ],
       "license": "WTFPL",
-      "stars": 37688,
+      "stars": 37687,
       "forks": 2673,
       "createdAt": "2017-07-14T15:42:12Z",
       "pushedAt": "2026-10-05T18:17:43Z",
@@ -316,7 +316,7 @@
         "math"
       ],
       "license": "MIT",
-      "stars": 33811,
+      "stars": 33812,
       "forks": 5690,
       "createdAt": "2017-07-18T00:06:14Z",
       "pushedAt": "2026-10-12T15:45:11Z",
@@ -391,10 +391,10 @@
         "ubuntu-touch"
       ],
       "license": "AGPL-3.0",
-      "stars": 30955,
+      "stars": 30960,
       "forks": 2026,
       "createdAt": "2013-03-24T13:09:42Z",
-      "pushedAt": "2026-11-08T10:47:48Z",
+      "pushedAt": "2026-11-08T16:20:05Z",
       "archived": false,
       "rank": 13,
       "rankDelta": null,
@@ -417,8 +417,8 @@
         "oreilly-books"
       ],
       "license": "Apache-2.0",
-      "stars": 30092,
-      "forks": 6834,
+      "stars": 30095,
+      "forks": 6835,
       "createdAt": "2024-06-28T11:49:46Z",
       "pushedAt": "2026-04-24T10:20:08Z",
       "archived": false,
@@ -476,7 +476,7 @@
         "python"
       ],
       "license": null,
-      "stars": 29890,
+      "stars": 29889,
       "forks": 5875,
       "createdAt": "2011-03-15T03:24:20Z",
       "pushedAt": "2026-07-27T05:52:34Z",
@@ -513,7 +513,7 @@
         "xml"
       ],
       "license": "AGPL-3.0",
-      "stars": 28762,
+      "stars": 28766,
       "forks": 2156,
       "createdAt": "2020-03-05T02:18:30Z",
       "pushedAt": "2026-11-08T12:11:32Z",
@@ -542,8 +542,8 @@
         "python"
       ],
       "license": "GPL-3.0",
-      "stars": 26386,
-      "forks": 2749,
+      "stars": 26387,
+      "forks": 2750,
       "createdAt": "2013-05-28T10:03:23Z",
       "pushedAt": "2026-11-08T00:44:16Z",
       "archived": false,
@@ -572,7 +572,7 @@
         "virtualization"
       ],
       "license": null,
-      "stars": 26355,
+      "stars": 26354,
       "forks": 5773,
       "createdAt": "2014-09-05T04:06:39Z",
       "pushedAt": "2026-11-06T22:55:12Z",
@@ -594,7 +594,7 @@
         "pumpkin-book"
       ],
       "license": null,
-      "stars": 26152,
+      "stars": 26153,
       "forks": 4780,
       "createdAt": "2018-12-22T05:05:24Z",
       "pushedAt": "2026-04-22T20:35:48Z",
@@ -633,10 +633,10 @@
         "webdav"
       ],
       "license": "AGPL-3.0",
-      "stars": 26063,
+      "stars": 26078,
       "forks": 1848,
       "createdAt": "2024-10-12T23:16:55Z",
-      "pushedAt": "2026-11-08T13:31:20Z",
+      "pushedAt": "2026-11-08T15:59:20Z",
       "archived": false,
       "rank": 21,
       "rankDelta": null,
@@ -660,7 +660,7 @@
       ],
       "license": null,
       "stars": 25468,
-      "forks": 9486,
+      "forks": 9487,
       "createdAt": "2020-02-28T19:26:47Z",
       "pushedAt": "2026-10-12T20:57:26Z",
       "archived": false,
@@ -694,7 +694,7 @@
         "rag"
       ],
       "license": null,
-      "stars": 24249,
+      "stars": 24251,
       "forks": 2671,
       "createdAt": "2022-03-31T13:19:32Z",
       "pushedAt": "2026-09-20T00:41:31Z",
@@ -717,7 +717,7 @@
         "distributed-systems"
       ],
       "license": "CC-BY-4.0",
-      "stars": 23924,
+      "stars": 23925,
       "forks": 4573,
       "createdAt": "2018-02-08T04:26:52Z",
       "pushedAt": "2026-11-08T00:30:46Z",
@@ -800,7 +800,7 @@
         "web"
       ],
       "license": "BSD-2-Clause",
-      "stars": 20090,
+      "stars": 20091,
       "forks": 3191,
       "createdAt": "2017-12-31T10:59:21Z",
       "pushedAt": "2025-10-07T01:08:59Z",
@@ -836,7 +836,7 @@
         "roadmap"
       ],
       "license": null,
-      "stars": 19778,
+      "stars": 19779,
       "forks": 2248,
       "createdAt": "2015-05-05T10:45:36Z",
       "pushedAt": "2026-10-14T08:04:43Z",
@@ -883,7 +883,7 @@
         "rust-programming-language"
       ],
       "license": null,
-      "stars": 18528,
+      "stars": 18530,
       "forks": 4173,
       "createdAt": "2015-12-11T22:49:49Z",
       "pushedAt": "2026-10-28T18:58:38Z",
@@ -907,7 +907,7 @@
         "tutorials"
       ],
       "license": null,
-      "stars": 18450,
+      "stars": 18451,
       "forks": 1724,
       "createdAt": "2022-08-07T06:22:20Z",
       "pushedAt": "2026-10-27T05:47:21Z",
@@ -969,7 +969,7 @@
         "schedule"
       ],
       "license": null,
-      "stars": 16139,
+      "stars": 16138,
       "forks": 2517,
       "createdAt": "2015-10-15T12:14:48Z",
       "pushedAt": "2026-10-31T06:53:23Z",
@@ -1043,8 +1043,8 @@
         "trading-strategies"
       ],
       "license": null,
-      "stars": 15249,
-      "forks": 1848,
+      "stars": 15256,
+      "forks": 1849,
       "createdAt": "2022-02-05T20:48:52Z",
       "pushedAt": "2026-09-28T10:33:48Z",
       "archived": false,
@@ -1103,7 +1103,7 @@
         "theater"
       ],
       "license": null,
-      "stars": 14518,
+      "stars": 14520,
       "forks": 1176,
       "createdAt": "2015-05-30T10:48:21Z",
       "pushedAt": "2024-11-09T17:06:27Z",
@@ -1141,7 +1141,7 @@
         "thinking"
       ],
       "license": null,
-      "stars": 14303,
+      "stars": 14304,
       "forks": 2909,
       "createdAt": "2017-04-07T10:46:50Z",
       "pushedAt": "2026-02-03T19:27:04Z",
@@ -1214,7 +1214,7 @@
         "software-design"
       ],
       "license": null,
-      "stars": 12832,
+      "stars": 12833,
       "forks": 3635,
       "createdAt": "2019-08-16T07:52:45Z",
       "pushedAt": "2025-06-20T06:12:25Z",
@@ -1323,7 +1323,7 @@
         "software-engineering"
       ],
       "license": null,
-      "stars": 11429,
+      "stars": 11430,
       "forks": 892,
       "createdAt": "2021-06-25T17:47:04Z",
       "pushedAt": "2023-03-15T13:16:48Z",
@@ -1374,7 +1374,7 @@
         "papers"
       ],
       "license": null,
-      "stars": 11245,
+      "stars": 11246,
       "forks": 1208,
       "createdAt": "2020-02-06T13:34:23Z",
       "pushedAt": "2024-08-29T02:14:04Z",
@@ -1548,7 +1548,7 @@
         "resume"
       ],
       "license": null,
-      "stars": 10111,
+      "stars": 10112,
       "forks": 1892,
       "createdAt": "2016-08-27T10:28:10Z",
       "pushedAt": "2024-03-16T19:34:06Z",
@@ -1614,7 +1614,7 @@
         "virtual-machine"
       ],
       "license": null,
-      "stars": 9954,
+      "stars": 9955,
       "forks": 713,
       "createdAt": "2016-07-13T20:54:48Z",
       "pushedAt": "2024-05-26T14:07:19Z",
@@ -1678,7 +1678,7 @@
       ],
       "license": "Apache-2.0",
       "stars": 9070,
-      "forks": 1050,
+      "forks": 1051,
       "createdAt": "2024-04-19T03:31:13Z",
       "pushedAt": "2026-11-01T12:01:21Z",
       "archived": false,
@@ -1703,7 +1703,7 @@
         "tui"
       ],
       "license": "AGPL-3.0",
-      "stars": 8957,
+      "stars": 8958,
       "forks": 759,
       "createdAt": "2022-05-23T15:49:36Z",
       "pushedAt": "2026-10-26T15:30:20Z",
@@ -1725,7 +1725,7 @@
         "translation"
       ],
       "license": null,
-      "stars": 8783,
+      "stars": 8784,
       "forks": 2672,
       "createdAt": "2016-04-30T22:11:50Z",
       "pushedAt": "2026-06-06T10:04:17Z",
@@ -1968,7 +1968,7 @@
         "resources"
       ],
       "license": null,
-      "stars": 7764,
+      "stars": 7767,
       "forks": 830,
       "createdAt": "2017-06-05T19:58:10Z",
       "pushedAt": "2026-03-04T15:38:20Z",
@@ -2058,7 +2058,7 @@
         "performance-engineering"
       ],
       "license": "Apache-2.0",
-      "stars": 7384,
+      "stars": 7387,
       "forks": 587,
       "createdAt": "2026-08-22T15:30:41Z",
       "pushedAt": "2026-10-01T08:19:29Z",
@@ -2195,10 +2195,10 @@
         "open-source"
       ],
       "license": "AGPL-3.0",
-      "stars": 6815,
+      "stars": 6814,
       "forks": 2096,
       "createdAt": "2008-10-30T05:20:14Z",
-      "pushedAt": "2026-11-08T06:28:03Z",
+      "pushedAt": "2026-11-08T14:46:09Z",
       "archived": false,
       "rank": 76,
       "rankDelta": null,
@@ -2221,7 +2221,7 @@
         "learning-resources"
       ],
       "license": null,
-      "stars": 6725,
+      "stars": 6726,
       "forks": 2060,
       "createdAt": "2017-08-03T01:24:34Z",
       "pushedAt": "2026-04-07T10:35:02Z",
@@ -2370,7 +2370,7 @@
         "security"
       ],
       "license": null,
-      "stars": 6531,
+      "stars": 6530,
       "forks": 1213,
       "createdAt": "2018-11-25T12:48:33Z",
       "pushedAt": "2024-07-26T09:05:17Z",
@@ -2409,7 +2409,7 @@
         "translation"
       ],
       "license": "MIT",
-      "stars": 6495,
+      "stars": 6494,
       "forks": 475,
       "createdAt": "2025-02-12T06:10:59Z",
       "pushedAt": "2026-11-07T06:49:05Z",
@@ -2432,7 +2432,7 @@
         "skills"
       ],
       "license": "Apache-2.0",
-      "stars": 6474,
+      "stars": 6473,
       "forks": 1302,
       "createdAt": "2015-09-21T05:29:20Z",
       "pushedAt": "2022-07-11T07:57:49Z",
@@ -2573,7 +2573,7 @@
         "vue"
       ],
       "license": "GPL-3.0",
-      "stars": 6150,
+      "stars": 6151,
       "forks": 580,
       "createdAt": "2019-08-07T03:42:55Z",
       "pushedAt": "2024-02-27T11:28:19Z",
@@ -2671,7 +2671,7 @@
         "deprecated"
       ],
       "license": null,
-      "stars": 5972,
+      "stars": 5971,
       "forks": 2352,
       "createdAt": "2009-07-27T04:52:25Z",
       "pushedAt": "2019-04-04T07:17:36Z",
@@ -2702,7 +2702,7 @@
         "ydkjs"
       ],
       "license": null,
-      "stars": 5857,
+      "stars": 5858,
       "forks": 848,
       "createdAt": "2015-12-16T18:36:24Z",
       "pushedAt": "2026-06-15T16:19:17Z",

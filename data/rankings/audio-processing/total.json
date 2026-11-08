@@ -1,7 +1,7 @@
 {
   "categoryId": "audio-processing",
   "window": "total",
-  "updatedAt": "2026-11-08T13:56:48.902Z",
+  "updatedAt": "2026-11-08T17:05:52.078Z",
   "totalFetched": 300,
   "items": [
     {
@@ -31,7 +31,7 @@
         "video-processing"
       ],
       "license": "Apache-2.0",
-      "stars": 37604,
+      "stars": 37607,
       "forks": 6222,
       "createdAt": "2019-06-13T19:16:41Z",
       "pushedAt": "2026-11-07T04:30:54Z",
@@ -87,7 +87,7 @@
         "web-audio"
       ],
       "license": "MIT",
-      "stars": 25431,
+      "stars": 25434,
       "forks": 2282,
       "createdAt": "2013-01-28T16:47:12Z",
       "pushedAt": "2025-11-23T23:49:01Z",
@@ -127,7 +127,7 @@
       ],
       "license": "Apache-2.0",
       "stars": 11928,
-      "forks": 1757,
+      "forks": 1758,
       "createdAt": "2020-04-28T17:48:45Z",
       "pushedAt": "2026-10-14T23:12:55Z",
       "archived": false,
@@ -151,7 +151,7 @@
         "scipy"
       ],
       "license": "ISC",
-      "stars": 8807,
+      "stars": 8809,
       "forks": 1101,
       "createdAt": "2012-10-20T14:21:01Z",
       "pushedAt": "2026-11-08T13:45:21Z",
@@ -178,7 +178,7 @@
         "video-processing"
       ],
       "license": "MIT",
-      "stars": 8495,
+      "stars": 8496,
       "forks": 506,
       "createdAt": "2025-05-17T14:28:35Z",
       "pushedAt": "2026-11-07T12:26:10Z",
@@ -209,7 +209,7 @@
       "stars": 8214,
       "forks": 787,
       "createdAt": "2024-11-27T21:14:34Z",
-      "pushedAt": "2026-11-07T20:18:41Z",
+      "pushedAt": "2026-11-08T16:09:21Z",
       "archived": false,
       "rank": 7,
       "rankDelta": null,
@@ -245,8 +245,8 @@
         "windows"
       ],
       "license": null,
-      "stars": 7578,
-      "forks": 633,
+      "stars": 7581,
+      "forks": 634,
       "createdAt": "2016-10-21T03:17:26Z",
       "pushedAt": "2026-11-08T08:40:34Z",
       "archived": false,
@@ -340,7 +340,7 @@
         "vst3-host"
       ],
       "license": "GPL-3.0",
-      "stars": 6467,
+      "stars": 6468,
       "forks": 373,
       "createdAt": "2021-07-06T13:04:18Z",
       "pushedAt": "2026-11-03T20:21:12Z",
@@ -430,7 +430,7 @@
         "video-processing"
       ],
       "license": "Unlicense",
-      "stars": 5808,
+      "stars": 5813,
       "forks": 721,
       "createdAt": "2020-04-30T04:57:21Z",
       "pushedAt": "2026-11-08T06:21:04Z",
@@ -587,8 +587,8 @@
         "whisper"
       ],
       "license": "MIT",
-      "stars": 4789,
-      "forks": 392,
+      "stars": 4804,
+      "forks": 394,
       "createdAt": "2026-09-03T14:33:38Z",
       "pushedAt": "2026-11-07T13:24:34Z",
       "archived": false,
@@ -746,7 +746,7 @@
       "stars": 3203,
       "forks": 435,
       "createdAt": "2016-11-05T13:09:11Z",
-      "pushedAt": "2026-11-08T12:50:02Z",
+      "pushedAt": "2026-11-08T16:24:22Z",
       "archived": false,
       "rank": 24,
       "rankDelta": null,
@@ -965,7 +965,7 @@
         "video-processing"
       ],
       "license": "AGPL-3.0",
-      "stars": 2956,
+      "stars": 2957,
       "forks": 181,
       "createdAt": "2026-03-29T15:33:21Z",
       "pushedAt": "2026-11-08T12:10:50Z",
@@ -1055,7 +1055,7 @@
         "video-processing"
       ],
       "license": null,
-      "stars": 2606,
+      "stars": 2607,
       "forks": 156,
       "createdAt": "2020-10-24T04:18:30Z",
       "pushedAt": "2026-11-05T10:53:35Z",
@@ -1294,7 +1294,7 @@
       "stars": 2116,
       "forks": 122,
       "createdAt": "2012-11-08T20:59:22Z",
-      "pushedAt": "2026-11-08T11:16:00Z",
+      "pushedAt": "2026-11-08T15:51:37Z",
       "archived": false,
       "rank": 42,
       "rankDelta": null,

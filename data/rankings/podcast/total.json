@@ -1,7 +1,7 @@
 {
   "categoryId": "podcast",
   "window": "total",
-  "updatedAt": "2026-11-08T13:56:48.902Z",
+  "updatedAt": "2026-11-08T17:05:52.078Z",
   "totalFetched": 270,
   "items": [
     {
@@ -32,10 +32,10 @@
         "typescript"
       ],
       "license": "MIT",
-      "stars": 85129,
-      "forks": 11971,
+      "stars": 85136,
+      "forks": 11973,
       "createdAt": "2025-05-07T02:50:19Z",
-      "pushedAt": "2026-11-08T14:00:24Z",
+      "pushedAt": "2026-11-08T14:10:10Z",
       "archived": false,
       "rank": 1,
       "rankDelta": null,
@@ -65,7 +65,7 @@
         "vector"
       ],
       "license": null,
-      "stars": 17751,
+      "stars": 17752,
       "forks": 1254,
       "createdAt": "2016-07-22T08:06:02Z",
       "pushedAt": "2024-07-04T18:17:39Z",
@@ -89,7 +89,7 @@
         "software"
       ],
       "license": null,
-      "stars": 13153,
+      "stars": 13154,
       "forks": 647,
       "createdAt": "2018-03-23T07:33:39Z",
       "pushedAt": "2024-03-02T17:15:28Z",
@@ -123,8 +123,8 @@
         "youtube-shorts"
       ],
       "license": "MIT",
-      "stars": 10122,
-      "forks": 1801,
+      "stars": 10124,
+      "forks": 1802,
       "createdAt": "2025-07-08T04:51:15Z",
       "pushedAt": "2026-11-07T08:23:46Z",
       "archived": false,
@@ -186,7 +186,7 @@
         "podcast"
       ],
       "license": "Apache-2.0",
-      "stars": 6786,
+      "stars": 6789,
       "forks": 790,
       "createdAt": "2024-09-30T22:35:09Z",
       "pushedAt": "2026-05-04T14:49:10Z",
@@ -277,7 +277,7 @@
         "yt-dlp"
       ],
       "license": "MIT",
-      "stars": 4590,
+      "stars": 4591,
       "forks": 339,
       "createdAt": "2026-02-24T07:18:59Z",
       "pushedAt": "2026-11-05T17:28:58Z",
@@ -339,8 +339,8 @@
         "vite"
       ],
       "license": null,
-      "stars": 2062,
-      "forks": 283,
+      "stars": 2064,
+      "forks": 284,
       "createdAt": "2025-08-31T16:17:31Z",
       "pushedAt": "2026-11-04T22:13:12Z",
       "archived": false,
@@ -366,7 +366,7 @@
         "video-understanding"
       ],
       "license": "MIT",
-      "stars": 2014,
+      "stars": 2016,
       "forks": 253,
       "createdAt": "2025-07-16T11:35:25Z",
       "pushedAt": "2026-07-22T01:44:05Z",
@@ -393,7 +393,7 @@
         "tts"
       ],
       "license": "MIT",
-      "stars": 1998,
+      "stars": 1999,
       "forks": 182,
       "createdAt": "2025-01-14T18:12:50Z",
       "pushedAt": "2026-08-22T22:24:48Z",
@@ -487,8 +487,8 @@
         "video"
       ],
       "license": "Apache-2.0",
-      "stars": 1639,
-      "forks": 230,
+      "stars": 1641,
+      "forks": 231,
       "createdAt": "2025-05-30T16:05:36Z",
       "pushedAt": "2026-11-06T15:58:54Z",
       "archived": false,
@@ -580,7 +580,7 @@
         "youtube"
       ],
       "license": "MIT",
-      "stars": 1316,
+      "stars": 1317,
       "forks": 156,
       "createdAt": "2026-06-08T09:22:13Z",
       "pushedAt": "2026-10-14T09:48:00Z",
@@ -835,7 +835,7 @@
       "stars": 1050,
       "forks": 81,
       "createdAt": "2022-09-03T02:39:09Z",
-      "pushedAt": "2026-11-08T13:47:02Z",
+      "pushedAt": "2026-11-08T14:25:25Z",
       "archived": false,
       "rank": 28,
       "rankDelta": null,
@@ -1428,7 +1428,7 @@
         "rust"
       ],
       "license": "Apache-2.0",
-      "stars": 522,
+      "stars": 523,
       "forks": 38,
       "createdAt": "2023-02-18T19:58:40Z",
       "pushedAt": "2026-11-07T20:46:08Z",
@@ -1723,7 +1723,7 @@
         "text-editor"
       ],
       "license": "GPL-3.0",
-      "stars": 422,
+      "stars": 423,
       "forks": 72,
       "createdAt": "2019-07-23T15:13:03Z",
       "pushedAt": "2026-11-05T17:13:29Z",
