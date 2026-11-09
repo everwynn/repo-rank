@@ -1,7 +1,7 @@
 {
   "categoryId": "ebook-tools",
   "window": "new",
-  "updatedAt": "2026-11-09T15:07:17.650Z",
+  "updatedAt": "2026-11-09T21:28:22.914Z",
   "totalFetched": 24,
   "items": [
     {
@@ -53,7 +53,7 @@
         "weread"
       ],
       "license": "MIT",
-      "stars": 633,
+      "stars": 641,
       "forks": 70,
       "createdAt": "2026-10-31T13:23:10Z",
       "pushedAt": "2026-11-01T12:34:16Z",
@@ -83,7 +83,7 @@
         "typescript"
       ],
       "license": null,
-      "stars": 411,
+      "stars": 410,
       "forks": 37,
       "createdAt": "2026-10-03T15:00:08Z",
       "pushedAt": "2026-11-09T14:46:52Z",
@@ -106,7 +106,7 @@
         "self-hosted"
       ],
       "license": "MIT",
-      "stars": 374,
+      "stars": 375,
       "forks": 16,
       "createdAt": "2026-08-17T11:51:04Z",
       "pushedAt": "2026-10-31T17:32:10Z",
@@ -134,7 +134,7 @@
         "webdav"
       ],
       "license": null,
-      "stars": 262,
+      "stars": 263,
       "forks": 19,
       "createdAt": "2026-09-05T04:46:01Z",
       "pushedAt": "2026-11-09T09:01:30Z",
@@ -173,6 +173,27 @@
       "starsDelta": null
     },
     {
+      "id": 1450160937,
+      "fullName": "djyde/dalibre",
+      "url": "https://github.com/djyde/dalibre",
+      "description": "A lightweight Calibre alternative",
+      "homepage": "https://dalibre.randynamic.org",
+      "language": "Go",
+      "topics": [
+        "calibre",
+        "ebook"
+      ],
+      "license": null,
+      "stars": 200,
+      "forks": 9,
+      "createdAt": "2026-11-08T09:56:44Z",
+      "pushedAt": "2026-11-09T15:32:08Z",
+      "archived": false,
+      "rank": 7,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
       "id": 1432192934,
       "fullName": "joeseesun/qiaomu-simpleui",
       "url": "https://github.com/joeseesun/qiaomu-simpleui",
@@ -195,7 +216,7 @@
       "createdAt": "2026-10-24T13:08:01Z",
       "pushedAt": "2026-11-05T05:38:38Z",
       "archived": false,
-      "rank": 7,
+      "rank": 8,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -215,31 +236,10 @@
         "txt-reader"
       ],
       "license": "GPL-3.0",
-      "stars": 164,
+      "stars": 165,
       "forks": 52,
       "createdAt": "2026-10-13T08:31:04Z",
       "pushedAt": "2026-10-29T16:56:21Z",
-      "archived": false,
-      "rank": 8,
-      "rankDelta": null,
-      "starsDelta": null
-    },
-    {
-      "id": 1450160937,
-      "fullName": "djyde/dalibre",
-      "url": "https://github.com/djyde/dalibre",
-      "description": "A lightweight Calibre alternative",
-      "homepage": "https://dalibre.randynamic.org",
-      "language": "Go",
-      "topics": [
-        "calibre",
-        "ebook"
-      ],
-      "license": null,
-      "stars": 149,
-      "forks": 7,
-      "createdAt": "2026-11-08T09:56:44Z",
-      "pushedAt": "2026-11-09T14:28:01Z",
       "archived": false,
       "rank": 9,
       "rankDelta": null,
@@ -309,7 +309,7 @@
         "xlsx"
       ],
       "license": "MIT",
-      "stars": 85,
+      "stars": 86,
       "forks": 15,
       "createdAt": "2026-09-05T19:24:41Z",
       "pushedAt": "2026-11-07T18:55:26Z",
@@ -374,7 +374,7 @@
       "stars": 72,
       "forks": 1,
       "createdAt": "2026-08-28T08:17:22Z",
-      "pushedAt": "2026-11-09T09:24:40Z",
+      "pushedAt": "2026-11-09T17:25:03Z",
       "archived": false,
       "rank": 13,
       "rankDelta": null,
@@ -411,7 +411,7 @@
       "stars": 68,
       "forks": 0,
       "createdAt": "2026-09-22T20:04:05Z",
-      "pushedAt": "2026-11-09T07:46:27Z",
+      "pushedAt": "2026-11-09T21:02:25Z",
       "archived": false,
       "rank": 14,
       "rankDelta": null,
@@ -445,7 +445,7 @@
         "study-guide"
       ],
       "license": null,
-      "stars": 63,
+      "stars": 64,
       "forks": 10,
       "createdAt": "2026-09-15T01:51:59Z",
       "pushedAt": "2026-11-02T23:42:10Z",

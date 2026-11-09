@@ -1,7 +1,7 @@
 {
   "categoryId": "books-lists",
   "window": "total",
-  "updatedAt": "2026-11-09T15:07:17.650Z",
+  "updatedAt": "2026-11-09T21:28:22.914Z",
   "totalFetched": 303,
   "items": [
     {
@@ -19,8 +19,8 @@
         "resource"
       ],
       "license": "CC-BY-4.0",
-      "stars": 401358,
-      "forks": 67488,
+      "stars": 401385,
+      "forks": 67498,
       "createdAt": "2013-10-11T06:50:37Z",
       "pushedAt": "2026-11-07T19:10:09Z",
       "archived": false,
@@ -51,8 +51,8 @@
         "training-providers"
       ],
       "license": null,
-      "stars": 184841,
-      "forks": 33340,
+      "stars": 184845,
+      "forks": 33339,
       "createdAt": "2013-11-16T02:37:24Z",
       "pushedAt": "2026-10-31T16:14:40Z",
       "archived": false,
@@ -81,7 +81,7 @@
         "programming"
       ],
       "license": null,
-      "stars": 132070,
+      "stars": 132081,
       "forks": 15602,
       "createdAt": "2022-11-04T11:08:34Z",
       "pushedAt": "2026-11-08T15:52:38Z",
@@ -114,7 +114,7 @@
         "vue"
       ],
       "license": "GPL-3.0",
-      "stars": 119550,
+      "stars": 119551,
       "forks": 28256,
       "createdAt": "2013-11-04T01:59:19Z",
       "pushedAt": "2026-07-29T00:39:06Z",
@@ -141,8 +141,8 @@
         "python"
       ],
       "license": "Apache-2.0",
-      "stars": 82387,
-      "forks": 12486,
+      "stars": 82394,
+      "forks": 12485,
       "createdAt": "2017-08-23T04:40:24Z",
       "pushedAt": "2024-07-30T09:32:19Z",
       "archived": false,
@@ -166,8 +166,8 @@
         "sites"
       ],
       "license": "MIT",
-      "stars": 76170,
-      "forks": 8627,
+      "stars": 76171,
+      "forks": 8629,
       "createdAt": "2017-03-05T20:25:17Z",
       "pushedAt": "2025-09-16T18:34:24Z",
       "archived": true,
@@ -198,7 +198,7 @@
         "reinforcement-learning"
       ],
       "license": "Apache-2.0",
-      "stars": 57565,
+      "stars": 57574,
       "forks": 6664,
       "createdAt": "2025-09-09T02:41:44Z",
       "pushedAt": "2026-10-08T15:06:27Z",
@@ -391,10 +391,10 @@
         "ubuntu-touch"
       ],
       "license": "AGPL-3.0",
-      "stars": 30997,
+      "stars": 31001,
       "forks": 2027,
       "createdAt": "2013-03-24T13:09:42Z",
-      "pushedAt": "2026-11-09T06:49:56Z",
+      "pushedAt": "2026-11-09T16:52:12Z",
       "archived": false,
       "rank": 13,
       "rankDelta": null,
@@ -417,8 +417,8 @@
         "oreilly-books"
       ],
       "license": "Apache-2.0",
-      "stars": 30099,
-      "forks": 6838,
+      "stars": 30100,
+      "forks": 6839,
       "createdAt": "2024-06-28T11:49:46Z",
       "pushedAt": "2026-04-24T10:20:08Z",
       "archived": false,
@@ -454,7 +454,7 @@
         "tensorflow"
       ],
       "license": null,
-      "stars": 30018,
+      "stars": 30022,
       "forks": 5156,
       "createdAt": "2018-10-09T01:04:37Z",
       "pushedAt": "2024-08-18T08:02:36Z",
@@ -476,7 +476,7 @@
         "python"
       ],
       "license": null,
-      "stars": 29892,
+      "stars": 29893,
       "forks": 5876,
       "createdAt": "2011-03-15T03:24:20Z",
       "pushedAt": "2026-07-27T05:52:34Z",
@@ -513,7 +513,7 @@
         "xml"
       ],
       "license": "AGPL-3.0",
-      "stars": 28781,
+      "stars": 28783,
       "forks": 2158,
       "createdAt": "2020-03-05T02:18:30Z",
       "pushedAt": "2026-11-08T12:11:32Z",
@@ -542,7 +542,7 @@
         "python"
       ],
       "license": "GPL-3.0",
-      "stars": 26394,
+      "stars": 26396,
       "forks": 2750,
       "createdAt": "2013-05-28T10:03:23Z",
       "pushedAt": "2026-11-09T14:24:07Z",
@@ -633,10 +633,10 @@
         "webdav"
       ],
       "license": "AGPL-3.0",
-      "stars": 26121,
-      "forks": 1856,
+      "stars": 26128,
+      "forks": 1855,
       "createdAt": "2024-10-12T23:16:55Z",
-      "pushedAt": "2026-11-09T14:46:52Z",
+      "pushedAt": "2026-11-09T20:17:15Z",
       "archived": false,
       "rank": 21,
       "rankDelta": null,
@@ -659,7 +659,7 @@
         "python"
       ],
       "license": null,
-      "stars": 25472,
+      "stars": 25471,
       "forks": 9486,
       "createdAt": "2020-02-28T19:26:47Z",
       "pushedAt": "2026-10-12T20:57:26Z",
@@ -694,7 +694,7 @@
         "rag"
       ],
       "license": null,
-      "stars": 24259,
+      "stars": 24261,
       "forks": 2671,
       "createdAt": "2022-03-31T13:19:32Z",
       "pushedAt": "2026-09-20T00:41:31Z",
@@ -717,7 +717,7 @@
         "distributed-systems"
       ],
       "license": "CC-BY-4.0",
-      "stars": 23928,
+      "stars": 23929,
       "forks": 4573,
       "createdAt": "2018-02-08T04:26:52Z",
       "pushedAt": "2026-11-09T00:30:52Z",
@@ -748,7 +748,7 @@
         "web3js"
       ],
       "license": null,
-      "stars": 21544,
+      "stars": 21546,
       "forks": 5154,
       "createdAt": "2016-08-10T15:07:54Z",
       "pushedAt": "2026-10-12T18:12:35Z",
@@ -800,7 +800,7 @@
         "web"
       ],
       "license": "BSD-2-Clause",
-      "stars": 20090,
+      "stars": 20089,
       "forks": 3191,
       "createdAt": "2017-12-31T10:59:21Z",
       "pushedAt": "2025-10-07T01:08:59Z",
@@ -836,8 +836,8 @@
         "roadmap"
       ],
       "license": null,
-      "stars": 19780,
-      "forks": 2248,
+      "stars": 19781,
+      "forks": 2247,
       "createdAt": "2015-05-05T10:45:36Z",
       "pushedAt": "2026-10-14T08:04:43Z",
       "archived": false,
@@ -883,8 +883,8 @@
         "rust-programming-language"
       ],
       "license": null,
-      "stars": 18537,
-      "forks": 4177,
+      "stars": 18538,
+      "forks": 4179,
       "createdAt": "2015-12-11T22:49:49Z",
       "pushedAt": "2026-10-28T18:58:38Z",
       "archived": false,
@@ -907,7 +907,7 @@
         "tutorials"
       ],
       "license": null,
-      "stars": 18463,
+      "stars": 18464,
       "forks": 1724,
       "createdAt": "2022-08-07T06:22:20Z",
       "pushedAt": "2026-10-27T05:47:21Z",
@@ -1005,7 +1005,7 @@
         "vim"
       ],
       "license": null,
-      "stars": 15362,
+      "stars": 15361,
       "forks": 1144,
       "createdAt": "2020-07-13T13:27:44Z",
       "pushedAt": "2026-09-07T20:12:20Z",
@@ -1043,8 +1043,8 @@
         "trading-strategies"
       ],
       "license": null,
-      "stars": 15280,
-      "forks": 1857,
+      "stars": 15284,
+      "forks": 1858,
       "createdAt": "2022-02-05T20:48:52Z",
       "pushedAt": "2026-09-28T10:33:48Z",
       "archived": false,
@@ -1189,7 +1189,7 @@
         "tensorflow2"
       ],
       "license": null,
-      "stars": 13198,
+      "stars": 13200,
       "forks": 4001,
       "createdAt": "2019-06-16T05:53:27Z",
       "pushedAt": "2021-08-30T10:54:30Z",
@@ -1296,7 +1296,7 @@
         "python"
       ],
       "license": null,
-      "stars": 11624,
+      "stars": 11623,
       "forks": 2631,
       "createdAt": "2019-12-22T03:05:17Z",
       "pushedAt": "2023-07-28T10:46:41Z",
@@ -1374,7 +1374,7 @@
         "papers"
       ],
       "license": null,
-      "stars": 11247,
+      "stars": 11248,
       "forks": 1208,
       "createdAt": "2020-02-06T13:34:23Z",
       "pushedAt": "2024-08-29T02:14:04Z",
@@ -1615,7 +1615,7 @@
       ],
       "license": null,
       "stars": 9954,
-      "forks": 713,
+      "forks": 712,
       "createdAt": "2016-07-13T20:54:48Z",
       "pushedAt": "2024-05-26T14:07:19Z",
       "archived": false,
@@ -1677,7 +1677,7 @@
         "webui"
       ],
       "license": "Apache-2.0",
-      "stars": 9071,
+      "stars": 9072,
       "forks": 1053,
       "createdAt": "2024-04-19T03:31:13Z",
       "pushedAt": "2026-11-01T12:01:21Z",
@@ -1703,7 +1703,7 @@
         "tui"
       ],
       "license": "AGPL-3.0",
-      "stars": 8969,
+      "stars": 8970,
       "forks": 759,
       "createdAt": "2022-05-23T15:49:36Z",
       "pushedAt": "2026-10-26T15:30:20Z",
@@ -1725,7 +1725,7 @@
         "translation"
       ],
       "license": null,
-      "stars": 8784,
+      "stars": 8785,
       "forks": 2672,
       "createdAt": "2016-04-30T22:11:50Z",
       "pushedAt": "2026-06-06T10:04:17Z",
@@ -1908,7 +1908,7 @@
         "repractise"
       ],
       "license": null,
-      "stars": 7816,
+      "stars": 7817,
       "forks": 1204,
       "createdAt": "2016-02-21T14:37:32Z",
       "pushedAt": "2022-08-25T23:39:31Z",
@@ -1968,7 +1968,7 @@
         "resources"
       ],
       "license": null,
-      "stars": 7766,
+      "stars": 7767,
       "forks": 830,
       "createdAt": "2017-06-05T19:58:10Z",
       "pushedAt": "2026-03-04T15:38:20Z",
@@ -2025,7 +2025,7 @@
       ],
       "license": null,
       "stars": 7691,
-      "forks": 1060,
+      "forks": 1059,
       "createdAt": "2021-03-16T07:52:23Z",
       "pushedAt": "2024-03-14T10:57:31Z",
       "archived": false,
@@ -2058,7 +2058,7 @@
         "performance-engineering"
       ],
       "license": "Apache-2.0",
-      "stars": 7424,
+      "stars": 7425,
       "forks": 588,
       "createdAt": "2026-08-22T15:30:41Z",
       "pushedAt": "2026-10-01T08:19:29Z",
@@ -2198,7 +2198,7 @@
       "stars": 6817,
       "forks": 2098,
       "createdAt": "2008-10-30T05:20:14Z",
-      "pushedAt": "2026-11-09T09:16:10Z",
+      "pushedAt": "2026-11-09T20:32:54Z",
       "archived": false,
       "rank": 76,
       "rankDelta": null,
@@ -2292,7 +2292,7 @@
       ],
       "license": null,
       "stars": 6622,
-      "forks": 2126,
+      "forks": 2127,
       "createdAt": "2013-12-23T17:03:08Z",
       "pushedAt": "2026-05-25T08:09:13Z",
       "archived": false,
@@ -2354,32 +2354,6 @@
       "starsDelta": null
     },
     {
-      "id": 159030980,
-      "fullName": "yeahhub/Hacking-Security-Ebooks",
-      "url": "https://github.com/yeahhub/Hacking-Security-Ebooks",
-      "description": "Top 100 Hacking & Security E-Books (Free Download) ",
-      "homepage": null,
-      "language": null,
-      "topics": [
-        "books",
-        "ebooks",
-        "hacking",
-        "hacking-security-ebooks",
-        "kali-linux",
-        "penetration-testing",
-        "security"
-      ],
-      "license": null,
-      "stars": 6532,
-      "forks": 1213,
-      "createdAt": "2018-11-25T12:48:33Z",
-      "pushedAt": "2024-07-26T09:05:17Z",
-      "archived": false,
-      "rank": 83,
-      "rankDelta": null,
-      "starsDelta": null
-    },
-    {
       "id": 931354511,
       "fullName": "oomol-lab/pdf-craft",
       "url": "https://github.com/oomol-lab/pdf-craft",
@@ -2409,10 +2383,36 @@
         "translation"
       ],
       "license": "MIT",
-      "stars": 6530,
-      "forks": 477,
+      "stars": 6544,
+      "forks": 478,
       "createdAt": "2025-02-12T06:10:59Z",
       "pushedAt": "2026-11-09T08:18:58Z",
+      "archived": false,
+      "rank": 83,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
+      "id": 159030980,
+      "fullName": "yeahhub/Hacking-Security-Ebooks",
+      "url": "https://github.com/yeahhub/Hacking-Security-Ebooks",
+      "description": "Top 100 Hacking & Security E-Books (Free Download) ",
+      "homepage": null,
+      "language": null,
+      "topics": [
+        "books",
+        "ebooks",
+        "hacking",
+        "hacking-security-ebooks",
+        "kali-linux",
+        "penetration-testing",
+        "security"
+      ],
+      "license": null,
+      "stars": 6532,
+      "forks": 1212,
+      "createdAt": "2018-11-25T12:48:33Z",
+      "pushedAt": "2024-07-26T09:05:17Z",
       "archived": false,
       "rank": 84,
       "rankDelta": null,
@@ -2482,7 +2482,7 @@
         "introduction-to-bash-scripting"
       ],
       "license": "MIT",
-      "stars": 6381,
+      "stars": 6384,
       "forks": 676,
       "createdAt": "2020-11-18T19:25:20Z",
       "pushedAt": "2026-09-28T11:37:40Z",
