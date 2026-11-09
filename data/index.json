@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T17:05:52.078Z",
+  "updatedAt": "2026-11-09T02:42:40.371Z",
   "timeZone": "Asia/Shanghai",
   "counts": {
     "go": {
@@ -59,7 +59,7 @@
     },
     "php": {
       "total": 100,
-      "new": 51,
+      "new": 52,
       "active": 100
     },
     "ruby": {
@@ -69,7 +69,7 @@
     },
     "dart": {
       "total": 100,
-      "new": 75,
+      "new": 74,
       "active": 100
     },
     "scala": {
@@ -79,8 +79,8 @@
     },
     "zig": {
       "total": 100,
-      "new": 23,
-      "active": 44
+      "new": 22,
+      "active": 42
     },
     "react": {
       "total": 80

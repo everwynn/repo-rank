@@ -1,7 +1,7 @@
 {
   "categoryId": "scala",
   "window": "new",
-  "updatedAt": "2026-11-08T17:05:52.078Z",
+  "updatedAt": "2026-11-09T02:42:40.371Z",
   "totalFetched": 2,
   "items": [
     {
@@ -13,10 +13,10 @@
       "language": "Scala",
       "topics": [],
       "license": "GPL-3.0",
-      "stars": 2463,
+      "stars": 2465,
       "forks": 146,
       "createdAt": "2026-09-23T01:55:23Z",
-      "pushedAt": "2026-11-06T23:31:56Z",
+      "pushedAt": "2026-11-08T22:43:37Z",
       "archived": false,
       "rank": 1,
       "rankDelta": null,
@@ -46,8 +46,8 @@
         "winecx"
       ],
       "license": "GPL-3.0",
-      "stars": 908,
-      "forks": 149,
+      "stars": 913,
+      "forks": 150,
       "createdAt": "2026-10-20T03:13:58Z",
       "pushedAt": "2026-11-08T11:15:05Z",
       "archived": false,
