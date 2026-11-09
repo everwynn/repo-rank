@@ -1,8 +1,8 @@
 {
   "categoryId": "books-lists",
   "window": "new",
-  "updatedAt": "2026-11-09T02:42:40.371Z",
-  "totalFetched": 13,
+  "updatedAt": "2026-11-09T15:07:17.650Z",
+  "totalFetched": 15,
   "items": [
     {
       "id": 1342935078,
@@ -29,8 +29,8 @@
         "performance-engineering"
       ],
       "license": "Apache-2.0",
-      "stars": 7393,
-      "forks": 587,
+      "stars": 7424,
+      "forks": 588,
       "createdAt": "2026-08-22T15:30:41Z",
       "pushedAt": "2026-10-01T08:19:29Z",
       "archived": false,
@@ -59,7 +59,7 @@
         "tutorial"
       ],
       "license": null,
-      "stars": 1417,
+      "stars": 1420,
       "forks": 123,
       "createdAt": "2026-08-14T03:14:33Z",
       "pushedAt": "2026-10-20T03:26:13Z",
@@ -88,7 +88,7 @@
         "workbuddy"
       ],
       "license": "MIT",
-      "stars": 1355,
+      "stars": 1359,
       "forks": 127,
       "createdAt": "2026-09-08T07:48:21Z",
       "pushedAt": "2026-10-19T16:34:57Z",
@@ -191,6 +191,27 @@
       "starsDelta": null
     },
     {
+      "id": 1450160937,
+      "fullName": "djyde/dalibre",
+      "url": "https://github.com/djyde/dalibre",
+      "description": "A lightweight Calibre alternative",
+      "homepage": "https://dalibre.randynamic.org",
+      "language": "Go",
+      "topics": [
+        "calibre",
+        "ebook"
+      ],
+      "license": null,
+      "stars": 149,
+      "forks": 7,
+      "createdAt": "2026-11-08T09:56:44Z",
+      "pushedAt": "2026-11-09T14:28:01Z",
+      "archived": false,
+      "rank": 7,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
       "id": 1344789761,
       "fullName": "RichardXu001/the-fde-handbook",
       "url": "https://github.com/RichardXu001/the-fde-handbook",
@@ -211,12 +232,12 @@
         "llm"
       ],
       "license": null,
-      "stars": 99,
+      "stars": 100,
       "forks": 16,
       "createdAt": "2026-08-24T09:45:24Z",
       "pushedAt": "2026-09-10T04:50:09Z",
       "archived": false,
-      "rank": 7,
+      "rank": 8,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -241,7 +262,7 @@
       "createdAt": "2026-10-22T14:00:11Z",
       "pushedAt": "2026-11-01T23:01:34Z",
       "archived": false,
-      "rank": 8,
+      "rank": 9,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -278,7 +299,7 @@
       "createdAt": "2026-10-03T13:36:54Z",
       "pushedAt": "2026-10-06T04:32:33Z",
       "archived": false,
-      "rank": 9,
+      "rank": 10,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -310,12 +331,44 @@
         "study-guide"
       ],
       "license": null,
-      "stars": 62,
+      "stars": 63,
       "forks": 10,
       "createdAt": "2026-09-15T01:51:59Z",
       "pushedAt": "2026-11-02T23:42:10Z",
       "archived": false,
-      "rank": 10,
+      "rank": 11,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
+      "id": 1446939295,
+      "fullName": "Galehashoid/flow-map-resp",
+      "url": "https://github.com/Galehashoid/flow-map-resp",
+      "description": "A Claude Code skill that turns your pipeline into an animated metro map, replayed from what a real run recorded. Retries as loop arcs, parallel work as rails, checks as hubs with spokes. React + SVG, your colours, light and dark.",
+      "homepage": null,
+      "language": "HTML",
+      "topics": [
+        "adonisjs-api",
+        "agent-skills-spec",
+        "ai-agents-automation",
+        "books",
+        "claude-code-skill",
+        "claude-code-skills",
+        "coding-agents",
+        "ddex-ern",
+        "ddex-ern-382",
+        "learning",
+        "music-distribution",
+        "nestjs-backend",
+        "svg-animations"
+      ],
+      "license": null,
+      "stars": 61,
+      "forks": 0,
+      "createdAt": "2026-11-05T11:55:48Z",
+      "pushedAt": "2026-11-05T11:55:57Z",
+      "archived": false,
+      "rank": 12,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -346,7 +399,7 @@
       "createdAt": "2026-09-19T16:21:55Z",
       "pushedAt": "2026-11-03T20:57:19Z",
       "archived": false,
-      "rank": 11,
+      "rank": 13,
       "rankDelta": null,
       "starsDelta": null
     }

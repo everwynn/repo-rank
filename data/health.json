@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T02:42:40.371Z",
+  "updatedAt": "2026-11-09T15:07:17.650Z",
   "queries": [
     {
       "categoryId": "go",
@@ -382,8 +382,8 @@
       "window": "active",
       "query": "language:Zig pushed:>2026-11-02 stars:>=500",
       "status": "ok",
-      "fetched": 42,
-      "kept": 42
+      "fetched": 44,
+      "kept": 44
     },
     {
       "categoryId": "react",
@@ -494,8 +494,8 @@
       "window": "new",
       "query": "topic:books created:>2026-08-11 stars:>=50",
       "status": "ok",
-      "fetched": 2,
-      "kept": 2
+      "fetched": 3,
+      "kept": 3
     },
     {
       "categoryId": "books-lists",
@@ -510,8 +510,8 @@
       "window": "new",
       "query": "topic:ebook created:>2026-08-11 stars:>=50",
       "status": "ok",
-      "fetched": 7,
-      "kept": 7
+      "fetched": 8,
+      "kept": 8
     },
     {
       "categoryId": "ebook-tools",
@@ -542,24 +542,24 @@
       "window": "new",
       "query": "topic:epub created:>2026-08-11 stars:>=50",
       "status": "ok",
-      "fetched": 14,
-      "kept": 14
+      "fetched": 16,
+      "kept": 16
     },
     {
       "categoryId": "ebook-tools",
       "window": "new",
       "query": "topic:ebook-reader created:>2026-08-11 stars:>=50",
       "status": "ok",
-      "fetched": 6,
-      "kept": 6
+      "fetched": 7,
+      "kept": 7
     },
     {
       "categoryId": "ebook-tools",
       "window": "new",
       "query": "topic:calibre created:>2026-08-11 stars:>=50",
       "status": "ok",
-      "fetched": 0,
-      "kept": 0
+      "fetched": 1,
+      "kept": 1
     },
     {
       "categoryId": "tts",
@@ -590,16 +590,16 @@
       "window": "new",
       "query": "topic:text-to-speech created:>2026-08-11 stars:>=50",
       "status": "ok",
-      "fetched": 64,
-      "kept": 64
+      "fetched": 66,
+      "kept": 66
     },
     {
       "categoryId": "tts",
       "window": "new",
       "query": "topic:tts created:>2026-08-11 stars:>=50",
       "status": "ok",
-      "fetched": 43,
-      "kept": 43
+      "fetched": 47,
+      "kept": 47
     },
     {
       "categoryId": "tts",
@@ -646,8 +646,8 @@
       "window": "new",
       "query": "topic:dsp created:>2026-08-11 stars:>=50",
       "status": "ok",
-      "fetched": 11,
-      "kept": 11
+      "fetched": 12,
+      "kept": 12
     },
     {
       "categoryId": "audio-processing",
@@ -686,8 +686,8 @@
       "window": "new",
       "query": "topic:podcast created:>2026-08-11 stars:>=50",
       "status": "ok",
-      "fetched": 5,
-      "kept": 5
+      "fetched": 6,
+      "kept": 6
     },
     {
       "categoryId": "podcast",
@@ -726,16 +726,16 @@
       "window": "new",
       "query": "topic:music-player created:>2026-08-11 stars:>=50",
       "status": "ok",
-      "fetched": 45,
-      "kept": 45
+      "fetched": 48,
+      "kept": 48
     },
     {
       "categoryId": "music",
       "window": "new",
       "query": "topic:spotify created:>2026-08-11 stars:>=50",
       "status": "ok",
-      "fetched": 39,
-      "kept": 39
+      "fetched": 41,
+      "kept": 41
     }
   ]
 }

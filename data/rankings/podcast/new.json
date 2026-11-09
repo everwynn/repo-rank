@@ -1,8 +1,8 @@
 {
   "categoryId": "podcast",
   "window": "new",
-  "updatedAt": "2026-11-09T02:42:40.371Z",
-  "totalFetched": 5,
+  "updatedAt": "2026-11-09T15:07:17.650Z",
+  "totalFetched": 6,
   "items": [
     {
       "id": 1418226869,
@@ -34,8 +34,8 @@
         "udemy-alternative"
       ],
       "license": "MIT",
-      "stars": 633,
-      "forks": 74,
+      "stars": 640,
+      "forks": 75,
       "createdAt": "2026-10-14T01:49:12Z",
       "pushedAt": "2026-10-29T04:35:59Z",
       "archived": false,
@@ -137,7 +137,7 @@
       "stars": 71,
       "forks": 0,
       "createdAt": "2026-09-22T21:39:09Z",
-      "pushedAt": "2026-11-09T00:31:46Z",
+      "pushedAt": "2026-11-09T07:39:00Z",
       "archived": false,
       "rank": 4,
       "rankDelta": null,
@@ -163,12 +163,42 @@
         "tron"
       ],
       "license": null,
-      "stars": 52,
+      "stars": 53,
       "forks": 6,
       "createdAt": "2026-10-09T08:33:03Z",
       "pushedAt": "2026-10-09T09:19:12Z",
       "archived": false,
       "rank": 5,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
+      "id": 1352102688,
+      "fullName": "synrise25/rss-pod",
+      "url": "https://github.com/synrise25/rss-pod",
+      "description": "A self-hosted app that turns RSS feeds into conversational podcasts for commutes. 将 RSS 转成对话式播客，让通勤成为轻松获取信息的时刻。",
+      "homepage": "https://rss-pod.ssyserver.com",
+      "language": "Go",
+      "topics": [
+        "azure-speech",
+        "docker",
+        "golang",
+        "llm",
+        "openai-compatible",
+        "podcast",
+        "podcast-generator",
+        "rss",
+        "rss-to-podcast",
+        "text-to-speech",
+        "tts"
+      ],
+      "license": "MIT",
+      "stars": 50,
+      "forks": 2,
+      "createdAt": "2026-08-31T07:01:52Z",
+      "pushedAt": "2026-11-06T00:51:53Z",
+      "archived": false,
+      "rank": 6,
       "rankDelta": null,
       "starsDelta": null
     }
