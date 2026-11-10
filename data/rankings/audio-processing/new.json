@@ -1,8 +1,8 @@
 {
   "categoryId": "audio-processing",
   "window": "new",
-  "updatedAt": "2026-11-09T21:28:22.914Z",
-  "totalFetched": 20,
+  "updatedAt": "2026-11-10T04:39:38.270Z",
+  "totalFetched": 19,
   "items": [
     {
       "id": 1356077516,
@@ -34,8 +34,8 @@
         "whisper"
       ],
       "license": "MIT",
-      "stars": 4880,
-      "forks": 397,
+      "stars": 4889,
+      "forks": 400,
       "createdAt": "2026-09-03T14:33:38Z",
       "pushedAt": "2026-11-07T13:24:34Z",
       "archived": false,
@@ -63,7 +63,7 @@
         "video-receiver"
       ],
       "license": "GPL-3.0",
-      "stars": 528,
+      "stars": 529,
       "forks": 79,
       "createdAt": "2026-08-30T11:52:11Z",
       "pushedAt": "2026-11-09T18:54:26Z",
@@ -132,10 +132,10 @@
         "vst3"
       ],
       "license": "AGPL-3.0",
-      "stars": 254,
-      "forks": 23,
+      "stars": 257,
+      "forks": 24,
       "createdAt": "2026-08-25T14:43:31Z",
-      "pushedAt": "2026-11-09T21:30:21Z",
+      "pushedAt": "2026-11-09T21:58:17Z",
       "archived": false,
       "rank": 4,
       "rankDelta": null,
@@ -198,31 +198,6 @@
       "starsDelta": null
     },
     {
-      "id": 1332385696,
-      "fullName": "blakebratcher/bitwig-nitro-tools",
-      "url": "https://github.com/blakebratcher/bitwig-nitro-tools",
-      "description": "Offline reverse-engineering toolchain for Bitwig Studio's Nitro DSP format — decrypt, decompile, and read the DSP behind every native device and Grid module. Tools + format specs only; no Bitwig source or keys.",
-      "homepage": null,
-      "language": "Python",
-      "topics": [
-        "audio",
-        "bitwig",
-        "decompiler",
-        "dsp",
-        "nitro",
-        "reverse-engineering"
-      ],
-      "license": "MIT",
-      "stars": 106,
-      "forks": 10,
-      "createdAt": "2026-08-12T19:38:20Z",
-      "pushedAt": "2026-10-22T06:14:54Z",
-      "archived": false,
-      "rank": 7,
-      "rankDelta": null,
-      "starsDelta": null
-    },
-    {
       "id": 1388284751,
       "fullName": "GuitarML/GuitarPedalSTM32",
       "url": "https://github.com/GuitarML/GuitarPedalSTM32",
@@ -243,7 +218,7 @@
       "createdAt": "2026-09-25T23:27:52Z",
       "pushedAt": "2026-09-28T10:01:30Z",
       "archived": false,
-      "rank": 8,
+      "rank": 7,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -282,7 +257,7 @@
       "createdAt": "2026-08-31T21:01:10Z",
       "pushedAt": "2026-09-20T15:05:54Z",
       "archived": false,
-      "rank": 9,
+      "rank": 8,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -310,7 +285,7 @@
       "createdAt": "2026-09-06T18:25:53Z",
       "pushedAt": "2026-10-27T20:18:34Z",
       "archived": false,
-      "rank": 10,
+      "rank": 9,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -339,7 +314,7 @@
       "createdAt": "2026-09-01T10:30:19Z",
       "pushedAt": "2026-09-09T04:06:54Z",
       "archived": false,
-      "rank": 11,
+      "rank": 10,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -362,7 +337,7 @@
       "createdAt": "2026-08-17T06:54:19Z",
       "pushedAt": "2026-10-07T05:19:27Z",
       "archived": false,
-      "rank": 12,
+      "rank": 11,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -393,9 +368,9 @@
       "stars": 60,
       "forks": 3,
       "createdAt": "2026-09-05T20:08:29Z",
-      "pushedAt": "2026-11-09T16:21:27Z",
+      "pushedAt": "2026-11-10T04:40:37Z",
       "archived": false,
-      "rank": 13,
+      "rank": 12,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -418,9 +393,9 @@
       "stars": 57,
       "forks": 0,
       "createdAt": "2026-09-21T21:02:17Z",
-      "pushedAt": "2026-11-09T20:57:45Z",
+      "pushedAt": "2026-11-10T00:53:10Z",
       "archived": false,
-      "rank": 14,
+      "rank": 13,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -451,9 +426,9 @@
       "stars": 57,
       "forks": 0,
       "createdAt": "2026-09-21T21:41:52Z",
-      "pushedAt": "2026-11-09T20:58:51Z",
+      "pushedAt": "2026-11-10T03:14:35Z",
       "archived": false,
-      "rank": 15,
+      "rank": 14,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -480,7 +455,7 @@
       "createdAt": "2026-10-10T15:56:10Z",
       "pushedAt": "2026-11-01T05:56:16Z",
       "archived": false,
-      "rank": 16,
+      "rank": 15,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -503,9 +478,9 @@
       "stars": 56,
       "forks": 0,
       "createdAt": "2026-08-25T09:23:55Z",
-      "pushedAt": "2026-11-09T20:55:03Z",
+      "pushedAt": "2026-11-10T00:07:07Z",
       "archived": false,
-      "rank": 17,
+      "rank": 16,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -532,12 +507,12 @@
         "web-framework"
       ],
       "license": null,
-      "stars": 53,
+      "stars": 52,
       "forks": 0,
       "createdAt": "2026-11-01T10:16:07Z",
       "pushedAt": "2026-11-01T10:16:15Z",
       "archived": false,
-      "rank": 18,
+      "rank": 17,
       "rankDelta": null,
       "starsDelta": null
     }

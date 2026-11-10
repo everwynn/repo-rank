@@ -1,7 +1,7 @@
 {
   "categoryId": "books-lists",
   "window": "new",
-  "updatedAt": "2026-11-09T21:28:22.914Z",
+  "updatedAt": "2026-11-10T04:39:38.270Z",
   "totalFetched": 15,
   "items": [
     {
@@ -29,7 +29,7 @@
         "performance-engineering"
       ],
       "license": "Apache-2.0",
-      "stars": 7425,
+      "stars": 7431,
       "forks": 588,
       "createdAt": "2026-08-22T15:30:41Z",
       "pushedAt": "2026-10-01T08:19:29Z",
@@ -59,7 +59,7 @@
         "tutorial"
       ],
       "license": null,
-      "stars": 1420,
+      "stars": 1422,
       "forks": 123,
       "createdAt": "2026-08-14T03:14:33Z",
       "pushedAt": "2026-10-20T03:26:13Z",
@@ -88,7 +88,7 @@
         "workbuddy"
       ],
       "license": "MIT",
-      "stars": 1359,
+      "stars": 1363,
       "forks": 127,
       "createdAt": "2026-09-08T07:48:21Z",
       "pushedAt": "2026-10-19T16:34:57Z",
@@ -202,8 +202,8 @@
         "ebook"
       ],
       "license": null,
-      "stars": 200,
-      "forks": 9,
+      "stars": 266,
+      "forks": 14,
       "createdAt": "2026-11-08T09:56:44Z",
       "pushedAt": "2026-11-09T15:32:08Z",
       "archived": false,
@@ -233,7 +233,7 @@
       ],
       "license": null,
       "stars": 100,
-      "forks": 16,
+      "forks": 17,
       "createdAt": "2026-08-24T09:45:24Z",
       "pushedAt": "2026-09-10T04:50:09Z",
       "archived": false,
@@ -257,7 +257,7 @@
         "korean"
       ],
       "license": null,
-      "stars": 78,
+      "stars": 79,
       "forks": 15,
       "createdAt": "2026-10-22T14:00:11Z",
       "pushedAt": "2026-11-01T23:01:34Z",
@@ -295,7 +295,7 @@
       ],
       "license": "MIT",
       "stars": 77,
-      "forks": 15,
+      "forks": 16,
       "createdAt": "2026-10-03T13:36:54Z",
       "pushedAt": "2026-10-06T04:32:33Z",
       "archived": false,
@@ -331,7 +331,7 @@
         "study-guide"
       ],
       "license": null,
-      "stars": 64,
+      "stars": 66,
       "forks": 10,
       "createdAt": "2026-09-15T01:51:59Z",
       "pushedAt": "2026-11-02T23:42:10Z",
@@ -363,7 +363,7 @@
         "svg-animations"
       ],
       "license": null,
-      "stars": 61,
+      "stars": 59,
       "forks": 0,
       "createdAt": "2026-11-05T11:55:48Z",
       "pushedAt": "2026-11-05T11:55:57Z",
