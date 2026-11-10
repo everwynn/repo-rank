@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T04:39:38.270Z",
+  "updatedAt": "2026-11-10T18:42:14.384Z",
   "queries": [
     {
       "categoryId": "go",
@@ -326,8 +326,8 @@
       "window": "new",
       "query": "language:Dart created:>2026-08-12 stars:>=50",
       "status": "ok",
-      "fetched": 73,
-      "kept": 73
+      "fetched": 74,
+      "kept": 74
     },
     {
       "categoryId": "dart",
@@ -382,8 +382,8 @@
       "window": "active",
       "query": "language:Zig pushed:>2026-11-03 stars:>=500",
       "status": "ok",
-      "fetched": 41,
-      "kept": 41
+      "fetched": 43,
+      "kept": 43
     },
     {
       "categoryId": "react",
@@ -598,8 +598,8 @@
       "window": "new",
       "query": "topic:tts created:>2026-08-12 stars:>=50",
       "status": "ok",
-      "fetched": 46,
-      "kept": 46
+      "fetched": 47,
+      "kept": 47
     },
     {
       "categoryId": "tts",
@@ -726,16 +726,16 @@
       "window": "new",
       "query": "topic:music-player created:>2026-08-12 stars:>=50",
       "status": "ok",
-      "fetched": 50,
-      "kept": 50
+      "fetched": 51,
+      "kept": 51
     },
     {
       "categoryId": "music",
       "window": "new",
       "query": "topic:spotify created:>2026-08-12 stars:>=50",
       "status": "ok",
-      "fetched": 42,
-      "kept": 42
+      "fetched": 43,
+      "kept": 43
     }
   ]
 }

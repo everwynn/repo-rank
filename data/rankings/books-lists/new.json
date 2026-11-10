@@ -1,7 +1,7 @@
 {
   "categoryId": "books-lists",
   "window": "new",
-  "updatedAt": "2026-11-10T04:39:38.270Z",
+  "updatedAt": "2026-11-10T18:42:14.384Z",
   "totalFetched": 15,
   "items": [
     {
@@ -29,8 +29,8 @@
         "performance-engineering"
       ],
       "license": "Apache-2.0",
-      "stars": 7431,
-      "forks": 588,
+      "stars": 7450,
+      "forks": 592,
       "createdAt": "2026-08-22T15:30:41Z",
       "pushedAt": "2026-10-01T08:19:29Z",
       "archived": false,
@@ -59,8 +59,8 @@
         "tutorial"
       ],
       "license": null,
-      "stars": 1422,
-      "forks": 123,
+      "stars": 1424,
+      "forks": 124,
       "createdAt": "2026-08-14T03:14:33Z",
       "pushedAt": "2026-10-20T03:26:13Z",
       "archived": false,
@@ -88,7 +88,7 @@
         "workbuddy"
       ],
       "license": "MIT",
-      "stars": 1363,
+      "stars": 1362,
       "forks": 127,
       "createdAt": "2026-09-08T07:48:21Z",
       "pushedAt": "2026-10-19T16:34:57Z",
@@ -152,6 +152,27 @@
       "starsDelta": null
     },
     {
+      "id": 1450160937,
+      "fullName": "djyde/dalibre",
+      "url": "https://github.com/djyde/dalibre",
+      "description": "A lightweight Calibre alternative",
+      "homepage": "https://dalibre.randynamic.org",
+      "language": "Go",
+      "topics": [
+        "calibre",
+        "ebook"
+      ],
+      "license": null,
+      "stars": 307,
+      "forks": 16,
+      "createdAt": "2026-11-08T09:56:44Z",
+      "pushedAt": "2026-11-10T15:39:44Z",
+      "archived": false,
+      "rank": 6,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
       "id": 1390753642,
       "fullName": "xiaodou-official/xiaodou-market",
       "url": "https://github.com/xiaodou-official/xiaodou-market",
@@ -186,27 +207,6 @@
       "createdAt": "2026-09-27T12:06:01Z",
       "pushedAt": "2026-11-03T12:34:54Z",
       "archived": false,
-      "rank": 6,
-      "rankDelta": null,
-      "starsDelta": null
-    },
-    {
-      "id": 1450160937,
-      "fullName": "djyde/dalibre",
-      "url": "https://github.com/djyde/dalibre",
-      "description": "A lightweight Calibre alternative",
-      "homepage": "https://dalibre.randynamic.org",
-      "language": "Go",
-      "topics": [
-        "calibre",
-        "ebook"
-      ],
-      "license": null,
-      "stars": 266,
-      "forks": 14,
-      "createdAt": "2026-11-08T09:56:44Z",
-      "pushedAt": "2026-11-09T15:32:08Z",
-      "archived": false,
       "rank": 7,
       "rankDelta": null,
       "starsDelta": null
@@ -232,7 +232,7 @@
         "llm"
       ],
       "license": null,
-      "stars": 100,
+      "stars": 101,
       "forks": 17,
       "createdAt": "2026-08-24T09:45:24Z",
       "pushedAt": "2026-09-10T04:50:09Z",
@@ -331,8 +331,8 @@
         "study-guide"
       ],
       "license": null,
-      "stars": 66,
-      "forks": 10,
+      "stars": 67,
+      "forks": 11,
       "createdAt": "2026-09-15T01:51:59Z",
       "pushedAt": "2026-11-02T23:42:10Z",
       "archived": false,
