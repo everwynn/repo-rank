@@ -1,7 +1,7 @@
 {
   "categoryId": "ebook-tools",
   "window": "new",
-  "updatedAt": "2026-11-10T18:42:14.384Z",
+  "updatedAt": "2026-11-11T02:50:30.906Z",
   "totalFetched": 24,
   "items": [
     {
@@ -25,7 +25,7 @@
         "tutorial"
       ],
       "license": null,
-      "stars": 1424,
+      "stars": 1423,
       "forks": 124,
       "createdAt": "2026-08-14T03:14:33Z",
       "pushedAt": "2026-10-20T03:26:13Z",
@@ -53,7 +53,7 @@
         "weread"
       ],
       "license": "MIT",
-      "stars": 673,
+      "stars": 677,
       "forks": 72,
       "createdAt": "2026-10-31T13:23:10Z",
       "pushedAt": "2026-11-01T12:34:16Z",
@@ -86,7 +86,7 @@
       "stars": 416,
       "forks": 37,
       "createdAt": "2026-10-03T15:00:08Z",
-      "pushedAt": "2026-11-10T14:16:52Z",
+      "pushedAt": "2026-11-11T02:47:35Z",
       "archived": false,
       "rank": 3,
       "rankDelta": null,
@@ -127,7 +127,7 @@
         "ebook"
       ],
       "license": null,
-      "stars": 307,
+      "stars": 311,
       "forks": 16,
       "createdAt": "2026-11-08T09:56:44Z",
       "pushedAt": "2026-11-10T15:39:44Z",
@@ -155,10 +155,10 @@
         "webdav"
       ],
       "license": null,
-      "stars": 264,
+      "stars": 265,
       "forks": 19,
       "createdAt": "2026-09-05T04:46:01Z",
-      "pushedAt": "2026-11-10T09:05:27Z",
+      "pushedAt": "2026-11-11T00:32:12Z",
       "archived": false,
       "rank": 6,
       "rankDelta": null,
@@ -209,7 +209,7 @@
         "txt-reader"
       ],
       "license": "GPL-3.0",
-      "stars": 174,
+      "stars": 175,
       "forks": 54,
       "createdAt": "2026-10-13T08:31:04Z",
       "pushedAt": "2026-10-29T16:56:21Z",
@@ -236,7 +236,7 @@
         "rss-reader"
       ],
       "license": "GPL-3.0",
-      "stars": 173,
+      "stars": 174,
       "forks": 15,
       "createdAt": "2026-10-24T13:08:01Z",
       "pushedAt": "2026-11-05T05:38:38Z",
@@ -273,7 +273,7 @@
         "whisper"
       ],
       "license": "Apache-2.0",
-      "stars": 113,
+      "stars": 114,
       "forks": 13,
       "createdAt": "2026-10-11T21:04:19Z",
       "pushedAt": "2026-11-07T16:48:37Z",
@@ -371,7 +371,7 @@
         "windows"
       ],
       "license": "GPL-3.0",
-      "stars": 72,
+      "stars": 73,
       "forks": 1,
       "createdAt": "2026-08-28T08:17:22Z",
       "pushedAt": "2026-11-09T17:25:03Z",
@@ -411,7 +411,7 @@
       "stars": 68,
       "forks": 0,
       "createdAt": "2026-09-22T20:04:05Z",
-      "pushedAt": "2026-11-10T17:35:03Z",
+      "pushedAt": "2026-11-11T02:43:25Z",
       "archived": false,
       "rank": 14,
       "rankDelta": null,
