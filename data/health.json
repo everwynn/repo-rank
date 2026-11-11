@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T02:50:30.906Z",
+  "updatedAt": "2026-11-11T18:44:28.268Z",
   "queries": [
     {
       "categoryId": "go",
@@ -382,8 +382,8 @@
       "window": "active",
       "query": "language:Zig pushed:>2026-11-04 stars:>=500",
       "status": "ok",
-      "fetched": 45,
-      "kept": 45
+      "fetched": 46,
+      "kept": 46
     },
     {
       "categoryId": "react",
@@ -407,7 +407,7 @@
       "query": "topic:nextjs",
       "status": "ok",
       "fetched": 100,
-      "kept": 82
+      "kept": 83
     },
     {
       "categoryId": "angular",
@@ -415,7 +415,7 @@
       "query": "topic:angular",
       "status": "ok",
       "fetched": 100,
-      "kept": 55
+      "kept": 56
     },
     {
       "categoryId": "svelte",
@@ -598,8 +598,8 @@
       "window": "new",
       "query": "topic:tts created:>2026-08-13 stars:>=50",
       "status": "ok",
-      "fetched": 47,
-      "kept": 47
+      "fetched": 48,
+      "kept": 48
     },
     {
       "categoryId": "tts",
@@ -726,8 +726,8 @@
       "window": "new",
       "query": "topic:music-player created:>2026-08-13 stars:>=50",
       "status": "ok",
-      "fetched": 51,
-      "kept": 51
+      "fetched": 53,
+      "kept": 53
     },
     {
       "categoryId": "music",

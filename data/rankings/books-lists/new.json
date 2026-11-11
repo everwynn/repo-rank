@@ -1,7 +1,7 @@
 {
   "categoryId": "books-lists",
   "window": "new",
-  "updatedAt": "2026-11-11T02:50:30.906Z",
+  "updatedAt": "2026-11-11T18:44:28.268Z",
   "totalFetched": 15,
   "items": [
     {
@@ -29,7 +29,7 @@
         "performance-engineering"
       ],
       "license": "Apache-2.0",
-      "stars": 7462,
+      "stars": 7492,
       "forks": 592,
       "createdAt": "2026-08-22T15:30:41Z",
       "pushedAt": "2026-10-01T08:19:29Z",
@@ -59,7 +59,7 @@
         "tutorial"
       ],
       "license": null,
-      "stars": 1423,
+      "stars": 1426,
       "forks": 124,
       "createdAt": "2026-08-14T03:14:33Z",
       "pushedAt": "2026-10-20T03:26:13Z",
@@ -88,8 +88,8 @@
         "workbuddy"
       ],
       "license": "MIT",
-      "stars": 1363,
-      "forks": 127,
+      "stars": 1382,
+      "forks": 129,
       "createdAt": "2026-09-08T07:48:21Z",
       "pushedAt": "2026-10-19T16:34:57Z",
       "archived": false,
@@ -132,10 +132,10 @@
         "ebook"
       ],
       "license": null,
-      "stars": 311,
+      "stars": 319,
       "forks": 16,
       "createdAt": "2026-11-08T09:56:44Z",
-      "pushedAt": "2026-11-10T15:39:44Z",
+      "pushedAt": "2026-11-11T10:56:10Z",
       "archived": false,
       "rank": 5,
       "rankDelta": null,
@@ -163,7 +163,7 @@
         "vibe-coding"
       ],
       "license": null,
-      "stars": 308,
+      "stars": 309,
       "forks": 53,
       "createdAt": "2026-09-13T04:01:06Z",
       "pushedAt": "2026-09-15T06:52:48Z",
@@ -232,7 +232,7 @@
         "llm"
       ],
       "license": null,
-      "stars": 101,
+      "stars": 103,
       "forks": 17,
       "createdAt": "2026-08-24T09:45:24Z",
       "pushedAt": "2026-09-10T04:50:09Z",
@@ -394,7 +394,7 @@
         "swiftui"
       ],
       "license": "MIT",
-      "stars": 58,
+      "stars": 59,
       "forks": 4,
       "createdAt": "2026-09-19T16:21:55Z",
       "pushedAt": "2026-11-03T20:57:19Z",
