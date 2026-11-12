@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T03:51:34.101Z",
+  "updatedAt": "2026-11-12T18:58:21.019Z",
   "queries": [
     {
       "categoryId": "go",
@@ -278,8 +278,8 @@
       "window": "new",
       "query": "language:PHP created:>2026-08-14 stars:>=50",
       "status": "ok",
-      "fetched": 46,
-      "kept": 46
+      "fetched": 48,
+      "kept": 48
     },
     {
       "categoryId": "php",
@@ -326,8 +326,8 @@
       "window": "new",
       "query": "language:Dart created:>2026-08-14 stars:>=50",
       "status": "ok",
-      "fetched": 72,
-      "kept": 72
+      "fetched": 71,
+      "kept": 71
     },
     {
       "categoryId": "dart",
@@ -374,8 +374,8 @@
       "window": "new",
       "query": "language:Zig created:>2026-08-14 stars:>=50",
       "status": "ok",
-      "fetched": 22,
-      "kept": 22
+      "fetched": 23,
+      "kept": 23
     },
     {
       "categoryId": "zig",
@@ -494,8 +494,8 @@
       "window": "new",
       "query": "topic:books created:>2026-08-14 stars:>=50",
       "status": "ok",
-      "fetched": 3,
-      "kept": 3
+      "fetched": 2,
+      "kept": 2
     },
     {
       "categoryId": "books-lists",
@@ -590,16 +590,16 @@
       "window": "new",
       "query": "topic:text-to-speech created:>2026-08-14 stars:>=50",
       "status": "ok",
-      "fetched": 65,
-      "kept": 65
+      "fetched": 67,
+      "kept": 67
     },
     {
       "categoryId": "tts",
       "window": "new",
       "query": "topic:tts created:>2026-08-14 stars:>=50",
       "status": "ok",
-      "fetched": 48,
-      "kept": 48
+      "fetched": 47,
+      "kept": 47
     },
     {
       "categoryId": "tts",
@@ -646,8 +646,8 @@
       "window": "new",
       "query": "topic:dsp created:>2026-08-14 stars:>=50",
       "status": "ok",
-      "fetched": 10,
-      "kept": 10
+      "fetched": 9,
+      "kept": 9
     },
     {
       "categoryId": "audio-processing",
@@ -726,8 +726,8 @@
       "window": "new",
       "query": "topic:music-player created:>2026-08-14 stars:>=50",
       "status": "ok",
-      "fetched": 53,
-      "kept": 53
+      "fetched": 54,
+      "kept": 54
     },
     {
       "categoryId": "music",

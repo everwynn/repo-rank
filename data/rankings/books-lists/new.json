@@ -1,8 +1,8 @@
 {
   "categoryId": "books-lists",
   "window": "new",
-  "updatedAt": "2026-11-12T03:51:34.101Z",
-  "totalFetched": 14,
+  "updatedAt": "2026-11-12T18:58:21.019Z",
+  "totalFetched": 13,
   "items": [
     {
       "id": 1342935078,
@@ -29,8 +29,8 @@
         "performance-engineering"
       ],
       "license": "Apache-2.0",
-      "stars": 7503,
-      "forks": 593,
+      "stars": 7516,
+      "forks": 596,
       "createdAt": "2026-08-22T15:30:41Z",
       "pushedAt": "2026-10-01T08:19:29Z",
       "archived": false,
@@ -58,8 +58,8 @@
         "workbuddy"
       ],
       "license": "MIT",
-      "stars": 1390,
-      "forks": 130,
+      "stars": 1395,
+      "forks": 131,
       "createdAt": "2026-09-08T07:48:21Z",
       "pushedAt": "2026-10-19T16:34:57Z",
       "archived": false,
@@ -84,7 +84,7 @@
       "stars": 375,
       "forks": 16,
       "createdAt": "2026-08-17T11:51:04Z",
-      "pushedAt": "2026-10-31T17:32:10Z",
+      "pushedAt": "2026-11-12T06:19:18Z",
       "archived": false,
       "rank": 3,
       "rankDelta": null,
@@ -102,10 +102,10 @@
         "ebook"
       ],
       "license": null,
-      "stars": 327,
+      "stars": 336,
       "forks": 16,
       "createdAt": "2026-11-08T09:56:44Z",
-      "pushedAt": "2026-11-11T10:56:10Z",
+      "pushedAt": "2026-11-12T11:06:18Z",
       "archived": false,
       "rank": 4,
       "rankDelta": null,
@@ -133,7 +133,7 @@
         "vibe-coding"
       ],
       "license": null,
-      "stars": 310,
+      "stars": 311,
       "forks": 53,
       "createdAt": "2026-09-13T04:01:06Z",
       "pushedAt": "2026-09-15T06:52:48Z",
@@ -202,7 +202,7 @@
         "llm"
       ],
       "license": null,
-      "stars": 103,
+      "stars": 104,
       "forks": 17,
       "createdAt": "2026-08-24T09:45:24Z",
       "pushedAt": "2026-09-10T04:50:09Z",
@@ -264,7 +264,7 @@
         "learning-by-doing"
       ],
       "license": "MIT",
-      "stars": 77,
+      "stars": 78,
       "forks": 16,
       "createdAt": "2026-10-03T13:36:54Z",
       "pushedAt": "2026-10-06T04:32:33Z",
@@ -301,44 +301,12 @@
         "study-guide"
       ],
       "license": null,
-      "stars": 67,
+      "stars": 68,
       "forks": 11,
       "createdAt": "2026-09-15T01:51:59Z",
       "pushedAt": "2026-11-02T23:42:10Z",
       "archived": false,
       "rank": 10,
-      "rankDelta": null,
-      "starsDelta": null
-    },
-    {
-      "id": 1446939295,
-      "fullName": "Galehashoid/flow-map-resp",
-      "url": "https://github.com/Galehashoid/flow-map-resp",
-      "description": "A Claude Code skill that turns your pipeline into an animated metro map, replayed from what a real run recorded. Retries as loop arcs, parallel work as rails, checks as hubs with spokes. React + SVG, your colours, light and dark.",
-      "homepage": null,
-      "language": "HTML",
-      "topics": [
-        "adonisjs-api",
-        "agent-skills-spec",
-        "ai-agents-automation",
-        "books",
-        "claude-code-skill",
-        "claude-code-skills",
-        "coding-agents",
-        "ddex-ern",
-        "ddex-ern-382",
-        "learning",
-        "music-distribution",
-        "nestjs-backend",
-        "svg-animations"
-      ],
-      "license": null,
-      "stars": 59,
-      "forks": 0,
-      "createdAt": "2026-11-05T11:55:48Z",
-      "pushedAt": "2026-11-05T11:55:57Z",
-      "archived": false,
-      "rank": 11,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -369,7 +337,7 @@
       "createdAt": "2026-09-19T16:21:55Z",
       "pushedAt": "2026-11-03T20:57:19Z",
       "archived": false,
-      "rank": 12,
+      "rank": 11,
       "rankDelta": null,
       "starsDelta": null
     }
