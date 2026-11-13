@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T03:27:22.807Z",
+  "updatedAt": "2026-11-13T18:34:03.113Z",
   "queries": [
     {
       "categoryId": "go",
@@ -302,8 +302,8 @@
       "window": "new",
       "query": "language:Ruby created:>2026-08-15 stars:>=50",
       "status": "ok",
-      "fetched": 12,
-      "kept": 12
+      "fetched": 13,
+      "kept": 13
     },
     {
       "categoryId": "ruby",
@@ -326,8 +326,8 @@
       "window": "new",
       "query": "language:Dart created:>2026-08-15 stars:>=50",
       "status": "ok",
-      "fetched": 68,
-      "kept": 68
+      "fetched": 69,
+      "kept": 69
     },
     {
       "categoryId": "dart",
@@ -374,16 +374,16 @@
       "window": "new",
       "query": "language:Zig created:>2026-08-15 stars:>=50",
       "status": "ok",
-      "fetched": 24,
-      "kept": 24
+      "fetched": 25,
+      "kept": 25
     },
     {
       "categoryId": "zig",
       "window": "active",
       "query": "language:Zig pushed:>2026-11-06 stars:>=500",
       "status": "ok",
-      "fetched": 44,
-      "kept": 44
+      "fetched": 45,
+      "kept": 45
     },
     {
       "categoryId": "react",
@@ -542,16 +542,16 @@
       "window": "new",
       "query": "topic:epub created:>2026-08-15 stars:>=50",
       "status": "ok",
-      "fetched": 16,
-      "kept": 16
+      "fetched": 18,
+      "kept": 18
     },
     {
       "categoryId": "ebook-tools",
       "window": "new",
       "query": "topic:ebook-reader created:>2026-08-15 stars:>=50",
       "status": "ok",
-      "fetched": 7,
-      "kept": 7
+      "fetched": 8,
+      "kept": 8
     },
     {
       "categoryId": "ebook-tools",
@@ -590,8 +590,8 @@
       "window": "new",
       "query": "topic:text-to-speech created:>2026-08-15 stars:>=50",
       "status": "ok",
-      "fetched": 66,
-      "kept": 66
+      "fetched": 67,
+      "kept": 67
     },
     {
       "categoryId": "tts",
@@ -670,8 +670,8 @@
       "window": "total",
       "query": "topic:podcast-client",
       "status": "ok",
-      "fetched": 71,
-      "kept": 71
+      "fetched": 72,
+      "kept": 72
     },
     {
       "categoryId": "podcast",
@@ -734,8 +734,8 @@
       "window": "new",
       "query": "topic:spotify created:>2026-08-15 stars:>=50",
       "status": "ok",
-      "fetched": 43,
-      "kept": 43
+      "fetched": 45,
+      "kept": 45
     }
   ]
 }
