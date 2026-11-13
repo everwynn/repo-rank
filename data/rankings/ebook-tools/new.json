@@ -1,7 +1,7 @@
 {
   "categoryId": "ebook-tools",
   "window": "new",
-  "updatedAt": "2026-11-12T18:58:21.019Z",
+  "updatedAt": "2026-11-13T03:27:22.807Z",
   "totalFetched": 24,
   "items": [
     {
@@ -23,8 +23,8 @@
         "weread"
       ],
       "license": "MIT",
-      "stars": 718,
-      "forks": 78,
+      "stars": 723,
+      "forks": 79,
       "createdAt": "2026-10-31T13:23:10Z",
       "pushedAt": "2026-11-01T12:34:16Z",
       "archived": false,
@@ -53,7 +53,7 @@
         "typescript"
       ],
       "license": null,
-      "stars": 433,
+      "stars": 437,
       "forks": 38,
       "createdAt": "2026-10-03T15:00:08Z",
       "pushedAt": "2026-11-12T10:38:26Z",
@@ -97,7 +97,7 @@
         "ebook"
       ],
       "license": null,
-      "stars": 336,
+      "stars": 338,
       "forks": 16,
       "createdAt": "2026-11-08T09:56:44Z",
       "pushedAt": "2026-11-12T11:06:18Z",
@@ -125,10 +125,10 @@
         "webdav"
       ],
       "license": null,
-      "stars": 266,
+      "stars": 267,
       "forks": 21,
       "createdAt": "2026-09-05T04:46:01Z",
-      "pushedAt": "2026-11-12T04:10:12Z",
+      "pushedAt": "2026-11-13T02:34:31Z",
       "archived": false,
       "rank": 5,
       "rankDelta": null,
@@ -179,7 +179,7 @@
         "txt-reader"
       ],
       "license": "GPL-3.0",
-      "stars": 201,
+      "stars": 203,
       "forks": 62,
       "createdAt": "2026-10-13T08:31:04Z",
       "pushedAt": "2026-11-11T16:04:22Z",
@@ -238,8 +238,8 @@
         "typescript"
       ],
       "license": "MIT",
-      "stars": 132,
-      "forks": 9,
+      "stars": 133,
+      "forks": 10,
       "createdAt": "2026-09-18T16:34:08Z",
       "pushedAt": "2026-09-18T16:35:31Z",
       "archived": false,
@@ -305,7 +305,7 @@
       "stars": 102,
       "forks": 0,
       "createdAt": "2026-11-10T19:31:38Z",
-      "pushedAt": "2026-11-12T12:24:04Z",
+      "pushedAt": "2026-11-13T01:43:55Z",
       "archived": false,
       "rank": 11,
       "rankDelta": null,
@@ -370,7 +370,7 @@
       ],
       "license": "MIT",
       "stars": 74,
-      "forks": 4,
+      "forks": 5,
       "createdAt": "2026-09-25T11:55:24Z",
       "pushedAt": "2026-11-07T17:45:29Z",
       "archived": false,
@@ -440,7 +440,7 @@
       "stars": 68,
       "forks": 0,
       "createdAt": "2026-09-22T20:04:05Z",
-      "pushedAt": "2026-11-12T18:00:23Z",
+      "pushedAt": "2026-11-12T23:31:09Z",
       "archived": false,
       "rank": 15,
       "rankDelta": null,
