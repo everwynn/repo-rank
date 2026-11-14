@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T18:34:03.113Z",
+  "updatedAt": "2026-11-14T03:21:40.750Z",
   "timeZone": "Asia/Shanghai",
   "counts": {
     "go": {
@@ -80,7 +80,7 @@
     "zig": {
       "total": 100,
       "new": 25,
-      "active": 45
+      "active": 47
     },
     "react": {
       "total": 80
@@ -112,7 +112,7 @@
     },
     "ebook-tools": {
       "total": 100,
-      "new": 21
+      "new": 22
     },
     "tts": {
       "total": 100,
@@ -128,7 +128,7 @@
     },
     "music": {
       "total": 100,
-      "new": 86
+      "new": 85
     }
   }
 }

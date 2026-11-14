@@ -1,7 +1,7 @@
 {
   "categoryId": "books-lists",
   "window": "new",
-  "updatedAt": "2026-11-13T18:34:03.113Z",
+  "updatedAt": "2026-11-14T03:21:40.750Z",
   "totalFetched": 14,
   "items": [
     {
@@ -29,8 +29,8 @@
         "performance-engineering"
       ],
       "license": "Apache-2.0",
-      "stars": 7546,
-      "forks": 598,
+      "stars": 7576,
+      "forks": 599,
       "createdAt": "2026-08-22T15:30:41Z",
       "pushedAt": "2026-10-01T08:19:29Z",
       "archived": false,
@@ -58,8 +58,8 @@
         "workbuddy"
       ],
       "license": "MIT",
-      "stars": 1401,
-      "forks": 132,
+      "stars": 1404,
+      "forks": 133,
       "createdAt": "2026-09-08T07:48:21Z",
       "pushedAt": "2026-10-19T16:34:57Z",
       "archived": false,
@@ -102,7 +102,7 @@
         "ebook"
       ],
       "license": null,
-      "stars": 343,
+      "stars": 346,
       "forks": 18,
       "createdAt": "2026-11-08T09:56:44Z",
       "pushedAt": "2026-11-13T10:57:27Z",

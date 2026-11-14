@@ -1,8 +1,8 @@
 {
   "categoryId": "ebook-tools",
   "window": "new",
-  "updatedAt": "2026-11-13T18:34:03.113Z",
-  "totalFetched": 27,
+  "updatedAt": "2026-11-14T03:21:40.750Z",
+  "totalFetched": 28,
   "items": [
     {
       "id": 1440879836,
@@ -23,7 +23,7 @@
         "weread"
       ],
       "license": "MIT",
-      "stars": 742,
+      "stars": 743,
       "forks": 80,
       "createdAt": "2026-10-31T13:23:10Z",
       "pushedAt": "2026-11-01T12:34:16Z",
@@ -53,7 +53,7 @@
         "typescript"
       ],
       "license": null,
-      "stars": 443,
+      "stars": 444,
       "forks": 39,
       "createdAt": "2026-10-03T15:00:08Z",
       "pushedAt": "2026-11-13T07:13:01Z",
@@ -97,7 +97,7 @@
         "ebook"
       ],
       "license": null,
-      "stars": 343,
+      "stars": 346,
       "forks": 18,
       "createdAt": "2026-11-08T09:56:44Z",
       "pushedAt": "2026-11-13T10:57:27Z",
@@ -179,7 +179,7 @@
         "txt-reader"
       ],
       "license": "GPL-3.0",
-      "stars": 212,
+      "stars": 214,
       "forks": 64,
       "createdAt": "2026-10-13T08:31:04Z",
       "pushedAt": "2026-11-13T08:29:01Z",
@@ -206,7 +206,7 @@
         "rss-reader"
       ],
       "license": "GPL-3.0",
-      "stars": 175,
+      "stars": 176,
       "forks": 15,
       "createdAt": "2026-10-24T13:08:01Z",
       "pushedAt": "2026-11-05T05:38:38Z",
@@ -305,7 +305,7 @@
       "stars": 102,
       "forks": 0,
       "createdAt": "2026-11-10T19:31:38Z",
-      "pushedAt": "2026-11-13T17:35:46Z",
+      "pushedAt": "2026-11-13T23:23:58Z",
       "archived": false,
       "rank": 11,
       "rankDelta": null,
@@ -339,7 +339,7 @@
       ],
       "license": "MIT",
       "stars": 88,
-      "forks": 16,
+      "forks": 17,
       "createdAt": "2026-09-05T19:24:41Z",
       "pushedAt": "2026-11-11T10:17:08Z",
       "archived": false,
@@ -374,7 +374,7 @@
         "zip"
       ],
       "license": "MIT",
-      "stars": 86,
+      "stars": 87,
       "forks": 6,
       "createdAt": "2026-10-21T15:18:29Z",
       "pushedAt": "2026-11-13T16:40:36Z",
@@ -437,7 +437,7 @@
       ],
       "license": "MIT",
       "stars": 74,
-      "forks": 5,
+      "forks": 6,
       "createdAt": "2026-09-25T11:55:24Z",
       "pushedAt": "2026-11-07T17:45:29Z",
       "archived": false,
@@ -476,7 +476,7 @@
       "stars": 68,
       "forks": 0,
       "createdAt": "2026-09-22T20:04:05Z",
-      "pushedAt": "2026-11-13T14:17:50Z",
+      "pushedAt": "2026-11-14T02:04:26Z",
       "archived": false,
       "rank": 16,
       "rankDelta": null,
@@ -540,7 +540,7 @@
       "stars": 64,
       "forks": 4,
       "createdAt": "2026-10-21T09:57:46Z",
-      "pushedAt": "2026-11-13T18:38:55Z",
+      "pushedAt": "2026-11-14T03:18:03Z",
       "archived": false,
       "rank": 18,
       "rankDelta": null,
@@ -578,6 +578,37 @@
       "starsDelta": null
     },
     {
+      "id": 1448510817,
+      "fullName": "t21dev/kitab",
+      "url": "https://github.com/t21dev/kitab",
+      "description": "A desktop reader for PDF, books and Markdown, written in Rust and drawn on the GPU with GPUI. MuPDF renders the pages. There is no browser engine inside.",
+      "homepage": "https://kitab.t21.dev",
+      "language": "Rust",
+      "topics": [
+        "epub",
+        "epub-reader",
+        "gpui",
+        "linux",
+        "macos",
+        "markdown",
+        "markdown-editor",
+        "markdown-viewer",
+        "pdf",
+        "pdf-viewer",
+        "rust",
+        "windows"
+      ],
+      "license": "AGPL-3.0",
+      "stars": 56,
+      "forks": 2,
+      "createdAt": "2026-11-06T16:48:27Z",
+      "pushedAt": "2026-11-13T21:19:29Z",
+      "archived": false,
+      "rank": 20,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
       "id": 1341454466,
       "fullName": "moonlin1213/cove-book-forge-mcp",
       "url": "https://github.com/moonlin1213/cove-book-forge-mcp",
@@ -601,7 +632,7 @@
       "createdAt": "2026-08-21T05:58:01Z",
       "pushedAt": "2026-08-29T07:56:28Z",
       "archived": false,
-      "rank": 20,
+      "rank": 21,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -636,7 +667,7 @@
       "createdAt": "2026-10-12T18:59:22Z",
       "pushedAt": "2026-10-29T00:58:20Z",
       "archived": false,
-      "rank": 21,
+      "rank": 22,
       "rankDelta": null,
       "starsDelta": null
     }

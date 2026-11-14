@@ -1,7 +1,7 @@
 {
   "categoryId": "scala",
   "window": "new",
-  "updatedAt": "2026-11-13T18:34:03.113Z",
+  "updatedAt": "2026-11-14T03:21:40.750Z",
   "totalFetched": 2,
   "items": [
     {
@@ -13,7 +13,7 @@
       "language": "Scala",
       "topics": [],
       "license": "GPL-3.0",
-      "stars": 2512,
+      "stars": 2513,
       "forks": 148,
       "createdAt": "2026-09-23T01:55:23Z",
       "pushedAt": "2026-11-12T22:16:07Z",
