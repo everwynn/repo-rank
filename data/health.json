@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T03:21:40.750Z",
+  "updatedAt": "2026-11-14T17:11:29.783Z",
   "queries": [
     {
       "categoryId": "go",
@@ -326,8 +326,8 @@
       "window": "new",
       "query": "language:Dart created:>2026-08-16 stars:>=50",
       "status": "ok",
-      "fetched": 69,
-      "kept": 69
+      "fetched": 70,
+      "kept": 70
     },
     {
       "categoryId": "dart",
@@ -374,16 +374,16 @@
       "window": "new",
       "query": "language:Zig created:>2026-08-16 stars:>=50",
       "status": "ok",
-      "fetched": 25,
-      "kept": 25
+      "fetched": 26,
+      "kept": 26
     },
     {
       "categoryId": "zig",
       "window": "active",
       "query": "language:Zig pushed:>2026-11-07 stars:>=500",
       "status": "ok",
-      "fetched": 47,
-      "kept": 47
+      "fetched": 48,
+      "kept": 48
     },
     {
       "categoryId": "react",
@@ -590,8 +590,8 @@
       "window": "new",
       "query": "topic:text-to-speech created:>2026-08-16 stars:>=50",
       "status": "ok",
-      "fetched": 67,
-      "kept": 67
+      "fetched": 68,
+      "kept": 68
     },
     {
       "categoryId": "tts",
@@ -726,8 +726,8 @@
       "window": "new",
       "query": "topic:music-player created:>2026-08-16 stars:>=50",
       "status": "ok",
-      "fetched": 53,
-      "kept": 53
+      "fetched": 54,
+      "kept": 54
     },
     {
       "categoryId": "music",
