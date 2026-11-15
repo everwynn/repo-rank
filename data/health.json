@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T02:44:28.810Z",
+  "updatedAt": "2026-11-15T17:46:35.834Z",
   "queries": [
     {
       "categoryId": "go",
@@ -302,8 +302,8 @@
       "window": "new",
       "query": "language:Ruby created:>2026-08-17 stars:>=50",
       "status": "ok",
-      "fetched": 13,
-      "kept": 13
+      "fetched": 14,
+      "kept": 14
     },
     {
       "categoryId": "ruby",
@@ -382,8 +382,8 @@
       "window": "active",
       "query": "language:Zig pushed:>2026-11-08 stars:>=500",
       "status": "ok",
-      "fetched": 47,
-      "kept": 47
+      "fetched": 48,
+      "kept": 48
     },
     {
       "categoryId": "react",
@@ -542,8 +542,8 @@
       "window": "new",
       "query": "topic:epub created:>2026-08-17 stars:>=50",
       "status": "ok",
-      "fetched": 18,
-      "kept": 18
+      "fetched": 19,
+      "kept": 19
     },
     {
       "categoryId": "ebook-tools",
@@ -590,16 +590,16 @@
       "window": "new",
       "query": "topic:text-to-speech created:>2026-08-17 stars:>=50",
       "status": "ok",
-      "fetched": 68,
-      "kept": 68
+      "fetched": 71,
+      "kept": 71
     },
     {
       "categoryId": "tts",
       "window": "new",
       "query": "topic:tts created:>2026-08-17 stars:>=50",
       "status": "ok",
-      "fetched": 50,
-      "kept": 50
+      "fetched": 51,
+      "kept": 51
     },
     {
       "categoryId": "tts",
@@ -646,8 +646,8 @@
       "window": "new",
       "query": "topic:dsp created:>2026-08-17 stars:>=50",
       "status": "ok",
-      "fetched": 10,
-      "kept": 10
+      "fetched": 11,
+      "kept": 11
     },
     {
       "categoryId": "audio-processing",
@@ -726,16 +726,16 @@
       "window": "new",
       "query": "topic:music-player created:>2026-08-17 stars:>=50",
       "status": "ok",
-      "fetched": 55,
-      "kept": 55
+      "fetched": 56,
+      "kept": 56
     },
     {
       "categoryId": "music",
       "window": "new",
       "query": "topic:spotify created:>2026-08-17 stars:>=50",
       "status": "ok",
-      "fetched": 44,
-      "kept": 44
+      "fetched": 45,
+      "kept": 45
     }
   ]
 }

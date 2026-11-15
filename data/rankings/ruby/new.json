@@ -1,8 +1,8 @@
 {
   "categoryId": "ruby",
   "window": "new",
-  "updatedAt": "2026-11-15T02:44:28.810Z",
-  "totalFetched": 13,
+  "updatedAt": "2026-11-15T17:46:35.834Z",
+  "totalFetched": 14,
   "items": [
     {
       "id": 1417926206,
@@ -13,7 +13,7 @@
       "language": "Ruby",
       "topics": [],
       "license": null,
-      "stars": 383,
+      "stars": 386,
       "forks": 46,
       "createdAt": "2026-10-13T20:23:40Z",
       "pushedAt": "2026-10-25T20:08:56Z",
@@ -87,10 +87,10 @@
         "time-tracking"
       ],
       "license": "AGPL-3.0",
-      "stars": 142,
+      "stars": 143,
       "forks": 10,
       "createdAt": "2026-10-11T22:40:20Z",
-      "pushedAt": "2026-11-15T00:33:14Z",
+      "pushedAt": "2026-11-15T14:35:46Z",
       "archived": false,
       "rank": 4,
       "rankDelta": null,
@@ -135,10 +135,10 @@
         "unsigned-apps"
       ],
       "license": "BSD-2-Clause",
-      "stars": 93,
+      "stars": 94,
       "forks": 44,
       "createdAt": "2026-09-16T13:59:49Z",
-      "pushedAt": "2026-11-14T22:47:54Z",
+      "pushedAt": "2026-11-15T16:37:11Z",
       "archived": false,
       "rank": 6,
       "rankDelta": null,
@@ -163,6 +163,24 @@
       "starsDelta": null
     },
     {
+      "id": 1451102236,
+      "fullName": "SellaRafaeli/ai_sast",
+      "url": "https://github.com/SellaRafaeli/ai_sast",
+      "description": null,
+      "homepage": null,
+      "language": "Ruby",
+      "topics": [],
+      "license": "MIT",
+      "stars": 82,
+      "forks": 0,
+      "createdAt": "2026-11-09T08:18:44Z",
+      "pushedAt": "2026-11-11T11:45:07Z",
+      "archived": false,
+      "rank": 8,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
       "id": 1376230436,
       "fullName": "obie/feelings",
       "url": "https://github.com/obie/feelings",
@@ -176,7 +194,7 @@
       "createdAt": "2026-09-18T17:46:05Z",
       "pushedAt": "2026-10-09T16:41:17Z",
       "archived": false,
-      "rank": 8,
+      "rank": 9,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -194,7 +212,7 @@
       "createdAt": "2026-09-18T15:30:56Z",
       "pushedAt": "2026-10-12T16:55:06Z",
       "archived": false,
-      "rank": 9,
+      "rank": 10,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -221,7 +239,7 @@
       "createdAt": "2026-09-02T02:23:25Z",
       "pushedAt": "2026-11-14T03:57:47Z",
       "archived": false,
-      "rank": 10,
+      "rank": 11,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -234,12 +252,12 @@
       "language": "Ruby",
       "topics": [],
       "license": "MIT",
-      "stars": 54,
+      "stars": 55,
       "forks": 12,
       "createdAt": "2026-11-04T02:25:54Z",
       "pushedAt": "2026-11-08T15:21:34Z",
       "archived": false,
-      "rank": 11,
+      "rank": 12,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -257,7 +275,7 @@
       "createdAt": "2026-09-25T15:50:36Z",
       "pushedAt": "2026-10-02T04:33:33Z",
       "archived": false,
-      "rank": 12,
+      "rank": 13,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -275,7 +293,7 @@
       "createdAt": "2026-10-02T20:45:13Z",
       "pushedAt": "2026-10-07T15:20:23Z",
       "archived": false,
-      "rank": 13,
+      "rank": 14,
       "rankDelta": null,
       "starsDelta": null
     }
