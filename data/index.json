@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T17:46:35.834Z",
+  "updatedAt": "2026-11-16T02:48:06.175Z",
   "timeZone": "Asia/Shanghai",
   "counts": {
     "go": {
@@ -69,18 +69,18 @@
     },
     "dart": {
       "total": 100,
-      "new": 70,
+      "new": 69,
       "active": 100
     },
     "scala": {
       "total": 100,
       "new": 2,
-      "active": 100
+      "active": 99
     },
     "zig": {
       "total": 100,
       "new": 26,
-      "active": 48
+      "active": 44
     },
     "react": {
       "total": 80
@@ -116,7 +116,7 @@
     },
     "tts": {
       "total": 100,
-      "new": 95
+      "new": 94
     },
     "audio-processing": {
       "total": 100,
