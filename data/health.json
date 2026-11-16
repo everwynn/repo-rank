@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T02:48:06.175Z",
+  "updatedAt": "2026-11-16T21:04:52.311Z",
   "queries": [
     {
       "categoryId": "go",
@@ -358,8 +358,8 @@
       "window": "active",
       "query": "language:Scala pushed:>2026-11-09 stars:>=500",
       "status": "ok",
-      "fetched": 99,
-      "kept": 99
+      "fetched": 100,
+      "kept": 100
     },
     {
       "categoryId": "zig",
@@ -382,8 +382,8 @@
       "window": "active",
       "query": "language:Zig pushed:>2026-11-09 stars:>=500",
       "status": "ok",
-      "fetched": 44,
-      "kept": 44
+      "fetched": 46,
+      "kept": 46
     },
     {
       "categoryId": "react",
@@ -590,24 +590,24 @@
       "window": "new",
       "query": "topic:text-to-speech created:>2026-08-18 stars:>=50",
       "status": "ok",
-      "fetched": 70,
-      "kept": 70
+      "fetched": 72,
+      "kept": 72
     },
     {
       "categoryId": "tts",
       "window": "new",
       "query": "topic:tts created:>2026-08-18 stars:>=50",
       "status": "ok",
-      "fetched": 50,
-      "kept": 50
+      "fetched": 52,
+      "kept": 52
     },
     {
       "categoryId": "tts",
       "window": "new",
       "query": "topic:speech-synthesis created:>2026-08-18 stars:>=50",
       "status": "ok",
-      "fetched": 13,
-      "kept": 13
+      "fetched": 15,
+      "kept": 15
     },
     {
       "categoryId": "audio-processing",
@@ -670,8 +670,8 @@
       "window": "total",
       "query": "topic:podcast-client",
       "status": "ok",
-      "fetched": 72,
-      "kept": 72
+      "fetched": 71,
+      "kept": 71
     },
     {
       "categoryId": "podcast",
@@ -686,8 +686,8 @@
       "window": "new",
       "query": "topic:podcast created:>2026-08-18 stars:>=50",
       "status": "ok",
-      "fetched": 6,
-      "kept": 6
+      "fetched": 7,
+      "kept": 7
     },
     {
       "categoryId": "podcast",
@@ -734,8 +734,8 @@
       "window": "new",
       "query": "topic:spotify created:>2026-08-18 stars:>=50",
       "status": "ok",
-      "fetched": 45,
-      "kept": 45
+      "fetched": 43,
+      "kept": 43
     }
   ]
 }

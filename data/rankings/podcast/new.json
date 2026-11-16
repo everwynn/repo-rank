@@ -1,8 +1,8 @@
 {
   "categoryId": "podcast",
   "window": "new",
-  "updatedAt": "2026-11-16T02:48:06.175Z",
-  "totalFetched": 6,
+  "updatedAt": "2026-11-16T21:04:52.311Z",
+  "totalFetched": 7,
   "items": [
     {
       "id": 1418226869,
@@ -34,7 +34,7 @@
         "udemy-alternative"
       ],
       "license": "MIT",
-      "stars": 698,
+      "stars": 701,
       "forks": 79,
       "createdAt": "2026-10-14T01:49:12Z",
       "pushedAt": "2026-10-29T04:35:59Z",
@@ -60,7 +60,7 @@
         "static-site"
       ],
       "license": "MIT",
-      "stars": 250,
+      "stars": 251,
       "forks": 34,
       "createdAt": "2026-10-18T15:55:16Z",
       "pushedAt": "2026-11-11T01:21:46Z",
@@ -137,7 +137,7 @@
       "stars": 71,
       "forks": 0,
       "createdAt": "2026-09-22T21:39:09Z",
-      "pushedAt": "2026-11-16T00:45:02Z",
+      "pushedAt": "2026-11-16T17:55:29Z",
       "archived": false,
       "rank": 4,
       "rankDelta": null,
@@ -165,7 +165,7 @@
       ],
       "license": "MIT",
       "stars": 61,
-      "forks": 3,
+      "forks": 4,
       "createdAt": "2026-08-31T07:01:52Z",
       "pushedAt": "2026-11-11T01:29:58Z",
       "archived": false,
@@ -199,6 +199,37 @@
       "pushedAt": "2026-10-09T09:19:12Z",
       "archived": false,
       "rank": 6,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
+      "id": 1455115370,
+      "fullName": "next-token-tv/next-token-skill",
+      "url": "https://github.com/next-token-tv/next-token-skill",
+      "description": "让 AI Agent 检索 Next Token｜词元之外 播客的 Skill：回答 AI 问题时引用主理人观点，并附 B 站 / YouTube 时间戳直跳链接",
+      "homepage": "https://nexttoken.tv",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "ai-news",
+        "ai-podcast",
+        "chinese",
+        "claude-code",
+        "claude-skills",
+        "llm",
+        "next-token",
+        "podcast",
+        "skill",
+        "transcript-search"
+      ],
+      "license": "Apache-2.0",
+      "stars": 51,
+      "forks": 2,
+      "createdAt": "2026-11-12T09:55:17Z",
+      "pushedAt": "2026-11-12T13:02:22Z",
+      "archived": false,
+      "rank": 7,
       "rankDelta": null,
       "starsDelta": null
     }
