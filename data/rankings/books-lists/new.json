@@ -1,7 +1,7 @@
 {
   "categoryId": "books-lists",
   "window": "new",
-  "updatedAt": "2026-11-16T21:04:52.311Z",
+  "updatedAt": "2026-11-17T05:06:26.661Z",
   "totalFetched": 13,
   "items": [
     {
@@ -29,8 +29,8 @@
         "performance-engineering"
       ],
       "license": "Apache-2.0",
-      "stars": 7929,
-      "forks": 637,
+      "stars": 7989,
+      "forks": 644,
       "createdAt": "2026-08-22T15:30:41Z",
       "pushedAt": "2026-10-01T08:19:29Z",
       "archived": false,
@@ -58,8 +58,8 @@
         "workbuddy"
       ],
       "license": "MIT",
-      "stars": 1418,
-      "forks": 135,
+      "stars": 1425,
+      "forks": 136,
       "createdAt": "2026-09-08T07:48:21Z",
       "pushedAt": "2026-10-19T16:34:57Z",
       "archived": false,
@@ -79,10 +79,10 @@
         "ebook"
       ],
       "license": "GPL-3.0",
-      "stars": 362,
+      "stars": 372,
       "forks": 17,
       "createdAt": "2026-11-08T09:56:44Z",
-      "pushedAt": "2026-11-16T14:32:41Z",
+      "pushedAt": "2026-11-16T21:36:02Z",
       "archived": false,
       "rank": 3,
       "rankDelta": null,
@@ -110,7 +110,7 @@
         "vibe-coding"
       ],
       "license": null,
-      "stars": 312,
+      "stars": 314,
       "forks": 53,
       "createdAt": "2026-09-13T04:01:06Z",
       "pushedAt": "2026-09-15T06:52:48Z",
@@ -179,7 +179,7 @@
         "llm"
       ],
       "license": null,
-      "stars": 109,
+      "stars": 110,
       "forks": 17,
       "createdAt": "2026-08-24T09:45:24Z",
       "pushedAt": "2026-09-10T04:50:09Z",
@@ -204,7 +204,7 @@
         "korean"
       ],
       "license": null,
-      "stars": 80,
+      "stars": 81,
       "forks": 15,
       "createdAt": "2026-10-22T14:00:11Z",
       "pushedAt": "2026-11-01T23:01:34Z",
