@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T05:06:26.661Z",
+  "updatedAt": "2026-11-17T19:53:48.265Z",
   "queries": [
     {
       "categoryId": "go",
@@ -278,8 +278,8 @@
       "window": "new",
       "query": "language:PHP created:>2026-08-19 stars:>=50",
       "status": "ok",
-      "fetched": 45,
-      "kept": 45
+      "fetched": 44,
+      "kept": 44
     },
     {
       "categoryId": "php",
@@ -326,8 +326,8 @@
       "window": "new",
       "query": "language:Dart created:>2026-08-19 stars:>=50",
       "status": "ok",
-      "fetched": 69,
-      "kept": 69
+      "fetched": 72,
+      "kept": 72
     },
     {
       "categoryId": "dart",
@@ -494,8 +494,8 @@
       "window": "new",
       "query": "topic:books created:>2026-08-19 stars:>=50",
       "status": "ok",
-      "fetched": 3,
-      "kept": 3
+      "fetched": 2,
+      "kept": 2
     },
     {
       "categoryId": "books-lists",
@@ -598,8 +598,8 @@
       "window": "new",
       "query": "topic:tts created:>2026-08-19 stars:>=50",
       "status": "ok",
-      "fetched": 52,
-      "kept": 52
+      "fetched": 51,
+      "kept": 51
     },
     {
       "categoryId": "tts",
@@ -726,8 +726,8 @@
       "window": "new",
       "query": "topic:music-player created:>2026-08-19 stars:>=50",
       "status": "ok",
-      "fetched": 56,
-      "kept": 56
+      "fetched": 57,
+      "kept": 57
     },
     {
       "categoryId": "music",
