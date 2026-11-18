@@ -1,8 +1,8 @@
 {
   "categoryId": "ruby",
   "window": "new",
-  "updatedAt": "2026-11-17T19:53:48.265Z",
-  "totalFetched": 14,
+  "updatedAt": "2026-11-18T04:28:50.545Z",
+  "totalFetched": 13,
   "items": [
     {
       "id": 1417926206,
@@ -31,7 +31,7 @@
       "language": "Ruby",
       "topics": [],
       "license": "MIT",
-      "stars": 229,
+      "stars": 230,
       "forks": 29,
       "createdAt": "2026-09-26T15:33:53Z",
       "pushedAt": "2026-11-11T03:38:44Z",
@@ -52,7 +52,7 @@
       "stars": 155,
       "forks": 6,
       "createdAt": "2026-09-16T13:38:28Z",
-      "pushedAt": "2026-11-10T23:24:56Z",
+      "pushedAt": "2026-11-17T23:24:47Z",
       "archived": false,
       "rank": 3,
       "rankDelta": null,
@@ -88,10 +88,10 @@
         "time-tracking"
       ],
       "license": "AGPL-3.0",
-      "stars": 145,
+      "stars": 147,
       "forks": 10,
       "createdAt": "2026-10-11T22:40:20Z",
-      "pushedAt": "2026-11-17T19:08:13Z",
+      "pushedAt": "2026-11-18T00:34:40Z",
       "archived": false,
       "rank": 4,
       "rankDelta": null,
@@ -106,34 +106,12 @@
       "language": "Ruby",
       "topics": [],
       "license": "MIT",
-      "stars": 102,
-      "forks": 20,
+      "stars": 109,
+      "forks": 23,
       "createdAt": "2026-11-04T02:25:54Z",
       "pushedAt": "2026-11-08T15:21:34Z",
       "archived": false,
       "rank": 5,
-      "rankDelta": null,
-      "starsDelta": null
-    },
-    {
-      "id": 1341068496,
-      "fullName": "rails/lemans",
-      "url": "https://github.com/rails/lemans",
-      "description": "A Ruby harness for running agent benchmarks",
-      "homepage": "https://rubyonrails.org/ai",
-      "language": "Ruby",
-      "topics": [
-        "evals",
-        "rails",
-        "ruby"
-      ],
-      "license": "MIT",
-      "stars": 99,
-      "forks": 11,
-      "createdAt": "2026-08-20T19:17:27Z",
-      "pushedAt": "2026-11-03T21:35:52Z",
-      "archived": false,
-      "rank": 6,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -157,9 +135,9 @@
       "stars": 96,
       "forks": 44,
       "createdAt": "2026-09-16T13:59:49Z",
-      "pushedAt": "2026-11-17T16:29:34Z",
+      "pushedAt": "2026-11-18T01:25:04Z",
       "archived": false,
-      "rank": 7,
+      "rank": 6,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -177,7 +155,7 @@
       "createdAt": "2026-09-15T22:11:56Z",
       "pushedAt": "2026-11-06T20:17:28Z",
       "archived": false,
-      "rank": 8,
+      "rank": 7,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -195,7 +173,7 @@
       "createdAt": "2026-11-09T08:18:44Z",
       "pushedAt": "2026-11-11T11:45:07Z",
       "archived": false,
-      "rank": 9,
+      "rank": 8,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -213,7 +191,7 @@
       "createdAt": "2026-09-18T17:46:05Z",
       "pushedAt": "2026-10-09T16:41:17Z",
       "archived": false,
-      "rank": 10,
+      "rank": 9,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -231,7 +209,7 @@
       "createdAt": "2026-09-18T15:30:56Z",
       "pushedAt": "2026-10-12T16:55:06Z",
       "archived": false,
-      "rank": 11,
+      "rank": 10,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -258,7 +236,7 @@
       "createdAt": "2026-09-02T02:23:25Z",
       "pushedAt": "2026-11-14T03:57:47Z",
       "archived": false,
-      "rank": 12,
+      "rank": 11,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -276,7 +254,7 @@
       "createdAt": "2026-09-25T15:50:36Z",
       "pushedAt": "2026-10-02T04:33:33Z",
       "archived": false,
-      "rank": 13,
+      "rank": 12,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -294,7 +272,7 @@
       "createdAt": "2026-10-02T20:45:13Z",
       "pushedAt": "2026-10-07T15:20:23Z",
       "archived": false,
-      "rank": 14,
+      "rank": 13,
       "rankDelta": null,
       "starsDelta": null
     }
