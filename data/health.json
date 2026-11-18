@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T04:28:50.545Z",
+  "updatedAt": "2026-11-18T19:25:30.509Z",
   "queries": [
     {
       "categoryId": "go",
@@ -302,8 +302,8 @@
       "window": "new",
       "query": "language:Ruby created:>2026-08-20 stars:>=50",
       "status": "ok",
-      "fetched": 13,
-      "kept": 13
+      "fetched": 14,
+      "kept": 14
     },
     {
       "categoryId": "ruby",
@@ -326,8 +326,8 @@
       "window": "new",
       "query": "language:Dart created:>2026-08-20 stars:>=50",
       "status": "ok",
-      "fetched": 71,
-      "kept": 71
+      "fetched": 72,
+      "kept": 72
     },
     {
       "categoryId": "dart",
@@ -382,8 +382,8 @@
       "window": "active",
       "query": "language:Zig pushed:>2026-11-11 stars:>=500",
       "status": "ok",
-      "fetched": 42,
-      "kept": 42
+      "fetched": 43,
+      "kept": 43
     },
     {
       "categoryId": "react",
@@ -590,16 +590,16 @@
       "window": "new",
       "query": "topic:text-to-speech created:>2026-08-20 stars:>=50",
       "status": "ok",
-      "fetched": 71,
-      "kept": 71
+      "fetched": 72,
+      "kept": 72
     },
     {
       "categoryId": "tts",
       "window": "new",
       "query": "topic:tts created:>2026-08-20 stars:>=50",
       "status": "ok",
-      "fetched": 52,
-      "kept": 52
+      "fetched": 54,
+      "kept": 54
     },
     {
       "categoryId": "tts",

@@ -1,7 +1,7 @@
 {
   "categoryId": "podcast",
   "window": "new",
-  "updatedAt": "2026-11-18T04:28:50.545Z",
+  "updatedAt": "2026-11-18T19:25:30.509Z",
   "totalFetched": 10,
   "items": [
     {
@@ -35,7 +35,7 @@
       ],
       "license": "MIT",
       "stars": 706,
-      "forks": 79,
+      "forks": 80,
       "createdAt": "2026-10-14T01:49:12Z",
       "pushedAt": "2026-10-29T04:35:59Z",
       "archived": false,
@@ -63,7 +63,7 @@
       "stars": 251,
       "forks": 34,
       "createdAt": "2026-10-18T15:55:16Z",
-      "pushedAt": "2026-11-11T01:21:46Z",
+      "pushedAt": "2026-11-18T15:43:52Z",
       "archived": false,
       "rank": 2,
       "rankDelta": null,
@@ -128,10 +128,10 @@
         "youtube"
       ],
       "license": "AGPL-3.0",
-      "stars": 103,
-      "forks": 14,
+      "stars": 152,
+      "forks": 22,
       "createdAt": "2026-11-16T11:22:42Z",
-      "pushedAt": "2026-11-17T20:16:27Z",
+      "pushedAt": "2026-11-18T17:12:31Z",
       "archived": false,
       "rank": 4,
       "rankDelta": null,
@@ -157,8 +157,8 @@
         "voice-recorder"
       ],
       "license": "MIT",
-      "stars": 92,
-      "forks": 23,
+      "stars": 93,
+      "forks": 24,
       "createdAt": "2026-11-16T08:56:19Z",
       "pushedAt": "2026-11-18T03:25:32Z",
       "archived": false,
@@ -195,7 +195,7 @@
       "stars": 71,
       "forks": 0,
       "createdAt": "2026-09-22T21:39:09Z",
-      "pushedAt": "2026-11-18T02:06:01Z",
+      "pushedAt": "2026-11-18T11:07:24Z",
       "archived": false,
       "rank": 6,
       "rankDelta": null,
@@ -222,7 +222,7 @@
         "tts"
       ],
       "license": "MIT",
-      "stars": 62,
+      "stars": 63,
       "forks": 3,
       "createdAt": "2026-08-31T07:01:52Z",
       "pushedAt": "2026-11-11T01:29:58Z",
@@ -253,7 +253,7 @@
         "transcript-search"
       ],
       "license": "Apache-2.0",
-      "stars": 56,
+      "stars": 57,
       "forks": 2,
       "createdAt": "2026-11-12T09:55:17Z",
       "pushedAt": "2026-11-12T13:02:22Z",
@@ -321,7 +321,7 @@
         "youtube-shorts"
       ],
       "license": "MIT",
-      "stars": 51,
+      "stars": 52,
       "forks": 11,
       "createdAt": "2026-08-31T03:54:20Z",
       "pushedAt": "2026-11-16T16:56:03Z",
