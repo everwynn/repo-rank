@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T04:14:37.757Z",
+  "updatedAt": "2026-11-19T19:30:20.538Z",
   "queries": [
     {
       "categoryId": "go",
@@ -326,8 +326,8 @@
       "window": "new",
       "query": "language:Dart created:>2026-08-21 stars:>=50",
       "status": "ok",
-      "fetched": 72,
-      "kept": 72
+      "fetched": 74,
+      "kept": 74
     },
     {
       "categoryId": "dart",
@@ -494,8 +494,8 @@
       "window": "new",
       "query": "topic:books created:>2026-08-21 stars:>=50",
       "status": "ok",
-      "fetched": 2,
-      "kept": 2
+      "fetched": 3,
+      "kept": 3
     },
     {
       "categoryId": "books-lists",
@@ -510,8 +510,8 @@
       "window": "new",
       "query": "topic:ebook created:>2026-08-21 stars:>=50",
       "status": "ok",
-      "fetched": 6,
-      "kept": 6
+      "fetched": 7,
+      "kept": 7
     },
     {
       "categoryId": "ebook-tools",
@@ -542,8 +542,8 @@
       "window": "new",
       "query": "topic:epub created:>2026-08-21 stars:>=50",
       "status": "ok",
-      "fetched": 17,
-      "kept": 17
+      "fetched": 18,
+      "kept": 18
     },
     {
       "categoryId": "ebook-tools",
@@ -590,8 +590,8 @@
       "window": "new",
       "query": "topic:text-to-speech created:>2026-08-21 stars:>=50",
       "status": "ok",
-      "fetched": 72,
-      "kept": 72
+      "fetched": 73,
+      "kept": 73
     },
     {
       "categoryId": "tts",

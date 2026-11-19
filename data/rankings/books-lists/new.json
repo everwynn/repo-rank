@@ -1,8 +1,8 @@
 {
   "categoryId": "books-lists",
   "window": "new",
-  "updatedAt": "2026-11-19T04:14:37.757Z",
-  "totalFetched": 13,
+  "updatedAt": "2026-11-19T19:30:20.538Z",
+  "totalFetched": 15,
   "items": [
     {
       "id": 1342935078,
@@ -29,8 +29,8 @@
         "performance-engineering"
       ],
       "license": "Apache-2.0",
-      "stars": 8089,
-      "forks": 658,
+      "stars": 8125,
+      "forks": 660,
       "createdAt": "2026-08-22T15:30:41Z",
       "pushedAt": "2026-10-01T08:19:29Z",
       "archived": false,
@@ -58,8 +58,8 @@
         "workbuddy"
       ],
       "license": "MIT",
-      "stars": 1456,
-      "forks": 139,
+      "stars": 1457,
+      "forks": 141,
       "createdAt": "2026-09-08T07:48:21Z",
       "pushedAt": "2026-10-19T16:34:57Z",
       "archived": false,
@@ -79,10 +79,10 @@
         "ebook"
       ],
       "license": "GPL-3.0",
-      "stars": 393,
-      "forks": 18,
+      "stars": 399,
+      "forks": 19,
       "createdAt": "2026-11-08T09:56:44Z",
-      "pushedAt": "2026-11-18T11:40:35Z",
+      "pushedAt": "2026-11-19T19:34:34Z",
       "archived": false,
       "rank": 3,
       "rankDelta": null,
@@ -110,7 +110,7 @@
         "vibe-coding"
       ],
       "license": null,
-      "stars": 316,
+      "stars": 317,
       "forks": 53,
       "createdAt": "2026-09-13T04:01:06Z",
       "pushedAt": "2026-09-15T06:52:48Z",
@@ -278,7 +278,7 @@
         "study-guide"
       ],
       "license": null,
-      "stars": 77,
+      "stars": 79,
       "forks": 12,
       "createdAt": "2026-09-15T01:51:59Z",
       "pushedAt": "2026-11-02T23:42:10Z",
@@ -341,6 +341,43 @@
       "pushedAt": "2026-11-18T02:38:26Z",
       "archived": false,
       "rank": 11,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
+      "id": 1343539401,
+      "fullName": "Jatin-Roopchandani/LORE",
+      "url": "https://github.com/Jatin-Roopchandani/LORE",
+      "description": "Ask questions about the books you own: an AI reader that turns e-books into a knowledge graph and answers with every sentence cited, without spoilers past your chapter. GraphRAG + MCP.",
+      "homepage": "https://lore.jrvn.site",
+      "language": "Python",
+      "topics": [
+        "books",
+        "claude",
+        "ebook",
+        "epub",
+        "fastapi",
+        "gemini",
+        "graphrag",
+        "knowledge-graph",
+        "kuzu",
+        "lancedb",
+        "llm",
+        "mcp",
+        "mcp-server",
+        "python",
+        "rag",
+        "react",
+        "reading",
+        "spoiler-free"
+      ],
+      "license": "MIT",
+      "stars": 51,
+      "forks": 5,
+      "createdAt": "2026-08-23T08:25:22Z",
+      "pushedAt": "2026-11-18T16:28:16Z",
+      "archived": false,
+      "rank": 12,
       "rankDelta": null,
       "starsDelta": null
     }
