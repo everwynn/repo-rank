@@ -1,43 +1,9 @@
 {
   "categoryId": "books-lists",
   "window": "new",
-  "updatedAt": "2026-11-19T19:30:20.538Z",
-  "totalFetched": 15,
+  "updatedAt": "2026-11-20T04:00:37.125Z",
+  "totalFetched": 14,
   "items": [
-    {
-      "id": 1342935078,
-      "fullName": "bojieli/ai-infra-book",
-      "url": "https://github.com/bojieli/ai-infra-book",
-      "description": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验",
-      "homepage": "https://bojieli.github.io/ai-infra-book/",
-      "language": "Python",
-      "topics": [
-        "accelerator",
-        "ai-infra",
-        "ai-infrastructure",
-        "book",
-        "datacenter-network",
-        "deepseek",
-        "distributed-systems",
-        "gpu",
-        "kv-cache",
-        "llm",
-        "llm-inference",
-        "llm-serving",
-        "llm-training",
-        "mixture-of-experts",
-        "performance-engineering"
-      ],
-      "license": "Apache-2.0",
-      "stars": 8125,
-      "forks": 660,
-      "createdAt": "2026-08-22T15:30:41Z",
-      "pushedAt": "2026-10-01T08:19:29Z",
-      "archived": false,
-      "rank": 1,
-      "rankDelta": null,
-      "starsDelta": null
-    },
     {
       "id": 1361079582,
       "fullName": "dmoshehun-prog/learn-from-materials",
@@ -58,12 +24,12 @@
         "workbuddy"
       ],
       "license": "MIT",
-      "stars": 1457,
-      "forks": 141,
+      "stars": 1459,
+      "forks": 142,
       "createdAt": "2026-09-08T07:48:21Z",
       "pushedAt": "2026-10-19T16:34:57Z",
       "archived": false,
-      "rank": 2,
+      "rank": 1,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -79,12 +45,12 @@
         "ebook"
       ],
       "license": "GPL-3.0",
-      "stars": 399,
+      "stars": 400,
       "forks": 19,
       "createdAt": "2026-11-08T09:56:44Z",
-      "pushedAt": "2026-11-19T19:34:34Z",
+      "pushedAt": "2026-11-19T19:39:07Z",
       "archived": false,
-      "rank": 3,
+      "rank": 2,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -115,7 +81,7 @@
       "createdAt": "2026-09-13T04:01:06Z",
       "pushedAt": "2026-09-15T06:52:48Z",
       "archived": false,
-      "rank": 4,
+      "rank": 3,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -154,7 +120,7 @@
       "createdAt": "2026-09-27T12:06:01Z",
       "pushedAt": "2026-11-03T12:34:54Z",
       "archived": false,
-      "rank": 5,
+      "rank": 4,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -179,12 +145,12 @@
         "llm"
       ],
       "license": null,
-      "stars": 112,
+      "stars": 113,
       "forks": 18,
       "createdAt": "2026-08-24T09:45:24Z",
       "pushedAt": "2026-09-10T04:50:09Z",
       "archived": false,
-      "rank": 6,
+      "rank": 5,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -209,7 +175,7 @@
       "createdAt": "2026-10-22T14:00:11Z",
       "pushedAt": "2026-11-01T23:01:34Z",
       "archived": false,
-      "rank": 7,
+      "rank": 6,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -241,12 +207,12 @@
         "learning-by-doing"
       ],
       "license": "MIT",
-      "stars": 80,
+      "stars": 81,
       "forks": 16,
       "createdAt": "2026-10-03T13:36:54Z",
       "pushedAt": "2026-10-06T04:32:33Z",
       "archived": false,
-      "rank": 8,
+      "rank": 7,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -278,12 +244,12 @@
         "study-guide"
       ],
       "license": null,
-      "stars": 79,
+      "stars": 80,
       "forks": 12,
       "createdAt": "2026-09-15T01:51:59Z",
       "pushedAt": "2026-11-02T23:42:10Z",
       "archived": false,
-      "rank": 9,
+      "rank": 8,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -314,7 +280,7 @@
       "createdAt": "2026-09-19T16:21:55Z",
       "pushedAt": "2026-11-13T13:54:46Z",
       "archived": false,
-      "rank": 10,
+      "rank": 9,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -340,7 +306,7 @@
       "createdAt": "2026-11-04T04:47:27Z",
       "pushedAt": "2026-11-18T02:38:26Z",
       "archived": false,
-      "rank": 11,
+      "rank": 10,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -372,12 +338,12 @@
         "spoiler-free"
       ],
       "license": "MIT",
-      "stars": 51,
+      "stars": 55,
       "forks": 5,
       "createdAt": "2026-08-23T08:25:22Z",
       "pushedAt": "2026-11-18T16:28:16Z",
       "archived": false,
-      "rank": 12,
+      "rank": 11,
       "rankDelta": null,
       "starsDelta": null
     }

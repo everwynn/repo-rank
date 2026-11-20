@@ -1,7 +1,7 @@
 {
   "categoryId": "podcast",
   "window": "new",
-  "updatedAt": "2026-11-19T19:30:20.538Z",
+  "updatedAt": "2026-11-20T04:00:37.125Z",
   "totalFetched": 10,
   "items": [
     {
@@ -34,7 +34,7 @@
         "udemy-alternative"
       ],
       "license": "MIT",
-      "stars": 710,
+      "stars": 711,
       "forks": 83,
       "createdAt": "2026-10-14T01:49:12Z",
       "pushedAt": "2026-10-29T04:35:59Z",
@@ -89,10 +89,10 @@
         "youtube"
       ],
       "license": "AGPL-3.0",
-      "stars": 175,
-      "forks": 26,
+      "stars": 181,
+      "forks": 30,
       "createdAt": "2026-11-16T11:22:42Z",
-      "pushedAt": "2026-11-19T18:18:35Z",
+      "pushedAt": "2026-11-20T02:35:44Z",
       "archived": false,
       "rank": 3,
       "rankDelta": null,
@@ -128,7 +128,7 @@
         "whisper-cpp"
       ],
       "license": null,
-      "stars": 136,
+      "stars": 118,
       "forks": 1,
       "createdAt": "2026-09-24T17:31:47Z",
       "pushedAt": "2026-11-06T21:44:49Z",
@@ -157,7 +157,7 @@
         "voice-recorder"
       ],
       "license": "MIT",
-      "stars": 95,
+      "stars": 96,
       "forks": 25,
       "createdAt": "2026-11-16T08:56:19Z",
       "pushedAt": "2026-11-18T03:25:32Z",
@@ -195,7 +195,7 @@
       "stars": 71,
       "forks": 0,
       "createdAt": "2026-09-22T21:39:09Z",
-      "pushedAt": "2026-11-19T18:51:16Z",
+      "pushedAt": "2026-11-20T01:01:58Z",
       "archived": false,
       "rank": 6,
       "rankDelta": null,
