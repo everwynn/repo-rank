@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T04:00:37.125Z",
+  "updatedAt": "2026-11-20T19:08:19.565Z",
   "queries": [
     {
       "categoryId": "go",
@@ -326,8 +326,8 @@
       "window": "new",
       "query": "language:Dart created:>2026-08-22 stars:>=50",
       "status": "ok",
-      "fetched": 74,
-      "kept": 74
+      "fetched": 78,
+      "kept": 78
     },
     {
       "categoryId": "dart",
@@ -590,8 +590,8 @@
       "window": "new",
       "query": "topic:text-to-speech created:>2026-08-22 stars:>=50",
       "status": "ok",
-      "fetched": 71,
-      "kept": 71
+      "fetched": 73,
+      "kept": 73
     },
     {
       "categoryId": "tts",
@@ -670,8 +670,8 @@
       "window": "total",
       "query": "topic:podcast-client",
       "status": "ok",
-      "fetched": 72,
-      "kept": 72
+      "fetched": 73,
+      "kept": 73
     },
     {
       "categoryId": "podcast",
@@ -734,8 +734,8 @@
       "window": "new",
       "query": "topic:spotify created:>2026-08-22 stars:>=50",
       "status": "ok",
-      "fetched": 42,
-      "kept": 42
+      "fetched": 41,
+      "kept": 41
     }
   ]
 }
