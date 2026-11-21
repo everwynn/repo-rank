@@ -7,7 +7,8 @@
   "groups": [
     { "id": "dev", "name": "开发", "hint": "按编程语言与框架" },
     { "id": "books", "name": "书籍", "hint": "书单资源与电子书工具" },
-    { "id": "audio", "name": "音频", "hint": "语音合成、音频处理与播客" }
+    { "id": "audio", "name": "音频", "hint": "语音合成、音频处理与播客" },
+    { "id": "ai", "name": "AI 与 Agent", "hint": "MCP 生态与 Agent 工具" }
   ],
   "categories": [
     { "id": "go", "group": "dev", "kind": "language", "name": "Go", "enabled": true, "queries": [{ "language": "Go" }], "windows": ["total", "new", "active"], "minStars": { "new": 50, "active": 500 } },
@@ -41,6 +42,9 @@
     { "id": "tts", "group": "audio", "kind": "topic", "name": "语音合成", "enabled": true, "queries": [{ "topic": "text-to-speech" }, { "topic": "tts" }, { "topic": "speech-synthesis" }], "windows": ["total", "new"], "minStars": { "new": 50 } },
     { "id": "audio-processing", "group": "audio", "kind": "topic", "name": "音频处理", "enabled": true, "queries": [{ "topic": "audio-processing" }, { "topic": "dsp" }, { "topic": "audio-library" }], "windows": ["total", "new"], "minStars": { "new": 50 } },
     { "id": "podcast", "group": "audio", "kind": "topic", "name": "播客", "enabled": true, "queries": [{ "topic": "podcast" }, { "topic": "podcast-client" }, { "topic": "podcast-player" }], "windows": ["total", "new"], "minStars": { "new": 50 } },
-    { "id": "music", "group": "audio", "kind": "topic", "name": "音乐工具", "enabled": true, "queries": [{ "topic": "music-player" }, { "topic": "spotify" }], "windows": ["total", "new"], "minStars": { "new": 50 } }
+    { "id": "music", "group": "audio", "kind": "topic", "name": "音乐工具", "enabled": true, "queries": [{ "topic": "music-player" }, { "topic": "spotify" }], "windows": ["total", "new"], "minStars": { "new": 50 } },
+
+    { "id": "mcp", "group": "ai", "kind": "topic", "name": "MCP 生态", "enabled": true, "queries": [{ "topic": "mcp" }, { "topic": "mcp-server" }, { "topic": "mcp-servers" }, { "topic": "model-context-protocol" }], "windows": ["total", "new"], "minStars": { "new": 50 } },
+    { "id": "agent-tools", "group": "ai", "kind": "topic", "name": "Agent 工具", "enabled": true, "queries": [{ "topic": "ai-agents" }, { "topic": "llm-agent" }, { "topic": "agent-tools" }, { "topic": "agentic-ai" }], "windows": ["total", "new"], "minStars": { "new": 50 } }
   ]
 }

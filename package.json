@@ -3,7 +3,7 @@
   "type": "module",
   "version": "0.1.0",
   "private": false,
-  "description": "GitHub 仓库排行榜：按开发语言 / 书籍 / 音频分类，静态部署到 GitHub Pages",
+  "description": "GitHub 仓库排行榜：按开发语言 / 书籍 / 音频 / AI 与 Agent 分类，静态部署到 GitHub Pages",
   "engines": {
     "node": ">=20.6"
   },

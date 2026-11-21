@@ -31,8 +31,8 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     env:
-      # 认证后搜索接口限流 30 次/分，92 次请求约 3~5 分钟完成
-      # （本地未认证限流 10 次/分，实测需 691s，故 job 超时留 30 分钟）
+      # 认证后搜索接口限流 30 次/分，108 次请求约 4~6 分钟完成
+      # （本地未认证限流 10 次/分，实测需约 810s，故 job 超时留 30 分钟）
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - name: Checkout

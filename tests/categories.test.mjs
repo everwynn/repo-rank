@@ -9,24 +9,25 @@ test('仓库内的分类配置能通过校验', () => {
 
 test('分类与分组数量符合设计', () => {
   const config = loadConfig();
-  assert.equal(config.groups.length, 3);
-  assert.equal(config.categories.length, 30);
+  assert.equal(config.groups.length, 4);
+  assert.equal(config.categories.length, 32);
 });
 
-test('请求预算为 92 次', () => {
+test('请求预算为 108 次', () => {
   const config = loadConfig();
   const requests = getEnabledCategories(config)
     .reduce((sum, category) => sum + category.queries.length * category.windows.length, 0);
-  assert.equal(requests, 92);
+  assert.equal(requests, 108);
 });
 
-test('书籍与音频的 topic 数与设计一致', () => {
+test('书籍、音频与 AI 的 topic 数与设计一致', () => {
   const config = loadConfig();
   const topicsOf = (group) => getEnabledCategories(config)
     .filter((category) => category.group === group)
     .reduce((sum, category) => sum + category.queries.filter((q) => q.topic).length, 0);
   assert.equal(topicsOf('books'), 7);
   assert.equal(topicsOf('audio'), 11);
+  assert.equal(topicsOf('ai'), 8);
 });
 
 test('开发分组是 16 个语言 + 8 个框架', () => {
