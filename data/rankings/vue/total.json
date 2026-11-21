@@ -1,7 +1,7 @@
 {
   "categoryId": "vue",
   "window": "total",
-  "updatedAt": "2026-11-21T11:35:46.043Z",
+  "updatedAt": "2026-11-21T15:32:59.167Z",
   "totalFetched": 82,
   "items": [
     {
@@ -18,7 +18,7 @@
         "vue"
       ],
       "license": "MIT",
-      "stars": 212514,
+      "stars": 212515,
       "forks": 33653,
       "createdAt": "2013-07-29T03:24:51Z",
       "pushedAt": "2024-10-10T07:24:15Z",
@@ -57,7 +57,7 @@
         "workshop"
       ],
       "license": "MIT",
-      "stars": 91672,
+      "stars": 91673,
       "forks": 10580,
       "createdAt": "2016-03-18T04:23:44Z",
       "pushedAt": "2026-11-20T17:28:21Z",
@@ -95,7 +95,7 @@
         "xlsx"
       ],
       "license": "MIT",
-      "stars": 90090,
+      "stars": 90092,
       "forks": 30162,
       "createdAt": "2017-04-17T03:35:49Z",
       "pushedAt": "2024-10-24T11:25:46Z",
@@ -132,7 +132,7 @@
         "websocket"
       ],
       "license": "MIT",
-      "stars": 80863,
+      "stars": 80864,
       "forks": 6231,
       "createdAt": "2019-08-21T13:15:24Z",
       "pushedAt": "2026-11-20T13:56:55Z",
@@ -165,9 +165,9 @@
       ],
       "license": "MIT",
       "stars": 61092,
-      "forks": 5828,
+      "forks": 5829,
       "createdAt": "2016-10-26T11:18:47Z",
-      "pushedAt": "2026-11-21T11:37:11Z",
+      "pushedAt": "2026-11-21T15:18:44Z",
       "archived": false,
       "rank": 5,
       "rankDelta": null,
@@ -187,7 +187,7 @@
         "vue"
       ],
       "license": "Apache-2.0",
-      "stars": 55548,
+      "stars": 55553,
       "forks": 7141,
       "createdAt": "2019-08-14T14:31:08Z",
       "pushedAt": "2026-11-13T01:39:25Z",
@@ -250,7 +250,7 @@
         "webcomponents"
       ],
       "license": "MIT",
-      "stars": 52771,
+      "stars": 52772,
       "forks": 13289,
       "createdAt": "2013-08-20T23:06:02Z",
       "pushedAt": "2026-11-20T22:19:08Z",
@@ -287,8 +287,8 @@
         "yaml"
       ],
       "license": "MIT",
-      "stars": 52440,
-      "forks": 5040,
+      "stars": 52441,
+      "forks": 5041,
       "createdAt": "2016-11-29T17:13:37Z",
       "pushedAt": "2026-11-21T10:52:39Z",
       "archived": false,
@@ -322,10 +322,10 @@
         "vue"
       ],
       "license": "MIT",
-      "stars": 50603,
-      "forks": 4231,
+      "stars": 50605,
+      "forks": 4232,
       "createdAt": "2019-09-10T19:23:58Z",
-      "pushedAt": "2026-11-20T21:49:03Z",
+      "pushedAt": "2026-11-21T13:56:57Z",
       "archived": false,
       "rank": 10,
       "rankDelta": null,
@@ -347,7 +347,7 @@
         "vueuse"
       ],
       "license": "MIT",
-      "stars": 49589,
+      "stars": 49592,
       "forks": 2282,
       "createdAt": "2021-04-24T01:25:23Z",
       "pushedAt": "2026-11-05T06:29:21Z",
@@ -386,7 +386,7 @@
         "website"
       ],
       "license": null,
-      "stars": 47009,
+      "stars": 47010,
       "forks": 10452,
       "createdAt": "2019-12-23T14:07:40Z",
       "pushedAt": "2026-08-27T12:03:08Z",
@@ -456,9 +456,9 @@
       ],
       "license": null,
       "stars": 41046,
-      "forks": 7101,
+      "forks": 7102,
       "createdAt": "2016-09-12T00:39:35Z",
-      "pushedAt": "2026-11-20T16:12:34Z",
+      "pushedAt": "2026-11-21T13:26:03Z",
       "archived": false,
       "rank": 14,
       "rankDelta": null,
@@ -481,8 +481,8 @@
         "webpack"
       ],
       "license": "GPL-2.0",
-      "stars": 40949,
-      "forks": 12184,
+      "stars": 40948,
+      "forks": 12183,
       "createdAt": "2016-12-23T01:49:20Z",
       "pushedAt": "2025-04-11T12:52:02Z",
       "archived": false,
@@ -546,8 +546,8 @@
         "workflow"
       ],
       "license": "MIT",
-      "stars": 39103,
-      "forks": 2597,
+      "stars": 39107,
+      "forks": 2599,
       "createdAt": "2019-07-15T14:47:30Z",
       "pushedAt": "2026-11-19T14:01:55Z",
       "archived": false,
@@ -576,7 +576,7 @@
         "wysiwyg-editor"
       ],
       "license": "MIT",
-      "stars": 39102,
+      "stars": 39103,
       "forks": 3213,
       "createdAt": "2018-08-20T19:58:58Z",
       "pushedAt": "2026-11-20T23:47:13Z",
@@ -615,8 +615,8 @@
         "vue"
       ],
       "license": null,
-      "stars": 38612,
-      "forks": 4996,
+      "stars": 38615,
+      "forks": 4995,
       "createdAt": "2012-12-12T01:35:36Z",
       "pushedAt": "2026-11-20T21:22:49Z",
       "archived": false,
@@ -649,7 +649,7 @@
         "wxapp"
       ],
       "license": null,
-      "stars": 37762,
+      "stars": 37764,
       "forks": 4860,
       "createdAt": "2018-04-08T09:32:26Z",
       "pushedAt": "2026-11-18T10:56:35Z",
@@ -686,7 +686,7 @@
         "windows"
       ],
       "license": "MIT",
-      "stars": 33659,
+      "stars": 33662,
       "forks": 4672,
       "createdAt": "2020-10-09T10:04:21Z",
       "pushedAt": "2026-10-10T11:05:47Z",
@@ -713,7 +713,7 @@
         "vue"
       ],
       "license": "MIT",
-      "stars": 31604,
+      "stars": 31606,
       "forks": 5780,
       "createdAt": "2016-11-20T07:55:43Z",
       "pushedAt": "2026-11-14T09:41:35Z",
@@ -740,7 +740,7 @@
         "vue"
       ],
       "license": "MIT",
-      "stars": 28839,
+      "stars": 28840,
       "forks": 1218,
       "createdAt": "2020-09-16T09:53:09Z",
       "pushedAt": "2026-04-13T16:12:31Z",
@@ -836,8 +836,8 @@
         "vue"
       ],
       "license": null,
-      "stars": 28117,
-      "forks": 5677,
+      "stars": 28116,
+      "forks": 5679,
       "createdAt": "2023-05-23T15:04:08Z",
       "pushedAt": "2026-11-21T00:40:32Z",
       "archived": false,
@@ -861,7 +861,7 @@
         "vuejs"
       ],
       "license": "MIT",
-      "stars": 27868,
+      "stars": 27869,
       "forks": 19770,
       "createdAt": "2020-07-21T06:51:19Z",
       "pushedAt": "2026-11-20T20:00:52Z",
@@ -992,7 +992,7 @@
         "vue"
       ],
       "license": "MIT",
-      "stars": 27039,
+      "stars": 27040,
       "forks": 1967,
       "createdAt": "2021-02-28T10:35:44Z",
       "pushedAt": "2026-11-20T21:35:07Z",
@@ -1026,7 +1026,7 @@
         "vue"
       ],
       "license": "MIT",
-      "stars": 26251,
+      "stars": 26250,
       "forks": 3218,
       "createdAt": "2019-04-17T03:05:58Z",
       "pushedAt": "2025-10-26T20:49:10Z",
@@ -1055,8 +1055,8 @@
         "vue"
       ],
       "license": null,
-      "stars": 25898,
-      "forks": 1703,
+      "stars": 25909,
+      "forks": 1704,
       "createdAt": "2020-06-08T15:36:21Z",
       "pushedAt": "2026-11-20T14:04:37Z",
       "archived": false,
@@ -1119,7 +1119,7 @@
         "vue3"
       ],
       "license": "MIT",
-      "stars": 24428,
+      "stars": 24429,
       "forks": 9344,
       "createdAt": "2017-04-19T07:55:31Z",
       "pushedAt": "2026-11-20T23:17:20Z",
@@ -1225,7 +1225,7 @@
         "workflow"
       ],
       "license": null,
-      "stars": 21726,
+      "stars": 21725,
       "forks": 2341,
       "createdAt": "2021-10-02T08:48:43Z",
       "pushedAt": "2026-03-02T11:56:23Z",
@@ -1621,8 +1621,8 @@
         "vue"
       ],
       "license": "MIT",
-      "stars": 17396,
-      "forks": 803,
+      "stars": 17398,
+      "forks": 804,
       "createdAt": "2022-02-21T14:57:09Z",
       "pushedAt": "2026-11-19T09:42:03Z",
       "archived": false,
@@ -1675,7 +1675,7 @@
         "vue"
       ],
       "license": "MIT",
-      "stars": 16433,
+      "stars": 16434,
       "forks": 977,
       "createdAt": "2023-08-16T13:42:32Z",
       "pushedAt": "2026-11-21T06:38:59Z",
@@ -1783,7 +1783,7 @@
         "vue3"
       ],
       "license": "MIT",
-      "stars": 15354,
+      "stars": 15355,
       "forks": 2548,
       "createdAt": "2021-09-08T16:13:36Z",
       "pushedAt": "2026-10-21T07:00:51Z",
@@ -1863,7 +1863,7 @@
       ],
       "license": "MIT",
       "stars": 14771,
-      "forks": 1208,
+      "forks": 1209,
       "createdAt": "2019-11-18T21:05:01Z",
       "pushedAt": "2026-11-18T12:43:36Z",
       "archived": false,
@@ -1889,7 +1889,7 @@
         "zyplayer"
       ],
       "license": "MIT",
-      "stars": 14513,
+      "stars": 14514,
       "forks": 2225,
       "createdAt": "2019-11-27T06:38:56Z",
       "pushedAt": "2023-02-09T06:33:07Z",
@@ -1924,7 +1924,7 @@
         "vue"
       ],
       "license": "MIT",
-      "stars": 14478,
+      "stars": 14479,
       "forks": 680,
       "createdAt": "2020-11-06T01:09:07Z",
       "pushedAt": "2026-11-18T13:15:58Z",
@@ -2155,7 +2155,7 @@
       ],
       "license": "WTFPL",
       "stars": 13552,
-      "forks": 2253,
+      "forks": 2254,
       "createdAt": "2019-11-01T09:14:36Z",
       "pushedAt": "2026-11-21T10:15:07Z",
       "archived": false,
@@ -2222,7 +2222,7 @@
         "web-vitals"
       ],
       "license": null,
-      "stars": 13167,
+      "stars": 13168,
       "forks": 894,
       "createdAt": "2021-04-29T12:15:50Z",
       "pushedAt": "2026-11-21T05:41:41Z",
@@ -2463,7 +2463,7 @@
         "wysiwyg"
       ],
       "license": "MIT",
-      "stars": 11456,
+      "stars": 11457,
       "forks": 1093,
       "createdAt": "2019-11-29T11:30:51Z",
       "pushedAt": "2026-11-19T17:08:12Z",

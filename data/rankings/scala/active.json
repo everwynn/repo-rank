@@ -1,7 +1,7 @@
 {
   "categoryId": "scala",
   "window": "active",
-  "updatedAt": "2026-11-21T11:35:46.043Z",
+  "updatedAt": "2026-11-21T15:32:59.167Z",
   "totalFetched": 100,
   "items": [
     {
@@ -23,9 +23,9 @@
       ],
       "license": "Apache-2.0",
       "stars": 44593,
-      "forks": 29531,
+      "forks": 29532,
       "createdAt": "2014-02-25T08:00:08Z",
-      "pushedAt": "2026-11-21T08:42:26Z",
+      "pushedAt": "2026-11-21T13:44:31Z",
       "archived": false,
       "rank": 1,
       "rankDelta": null,
@@ -51,10 +51,10 @@
         "typescript"
       ],
       "license": "AGPL-3.0",
-      "stars": 19002,
+      "stars": 19004,
       "forks": 2811,
       "createdAt": "2012-02-21T19:46:55Z",
-      "pushedAt": "2026-11-21T11:36:51Z",
+      "pushedAt": "2026-11-21T14:21:35Z",
       "archived": false,
       "rank": 2,
       "rankDelta": null,
@@ -105,7 +105,7 @@
         "streaming"
       ],
       "license": null,
-      "stars": 13292,
+      "stars": 13293,
       "forks": 3527,
       "createdAt": "2009-02-16T12:51:54Z",
       "pushedAt": "2026-11-20T10:42:34Z",
@@ -135,7 +135,7 @@
         "webapps"
       ],
       "license": "Apache-2.0",
-      "stars": 12622,
+      "stars": 12623,
       "forks": 4008,
       "createdAt": "2011-09-07T09:24:08Z",
       "pushedAt": "2026-11-20T23:57:29Z",
@@ -266,7 +266,7 @@
         "scala3"
       ],
       "license": "Apache-2.0",
-      "stars": 6338,
+      "stars": 6339,
       "forks": 1194,
       "createdAt": "2012-12-06T12:57:33Z",
       "pushedAt": "2026-11-20T13:53:53Z",
@@ -392,7 +392,7 @@
         "verilog"
       ],
       "license": "Apache-2.0",
-      "stars": 4842,
+      "stars": 4841,
       "forks": 670,
       "createdAt": "2015-04-27T22:55:56Z",
       "pushedAt": "2026-11-21T11:12:22Z",
@@ -415,7 +415,7 @@
         "scala"
       ],
       "license": "Apache-2.0",
-      "stars": 4710,
+      "stars": 4711,
       "forks": 405,
       "createdAt": "2013-02-18T16:33:55Z",
       "pushedAt": "2026-11-21T10:14:47Z",
@@ -536,7 +536,7 @@
         "syntax-tree"
       ],
       "license": "Apache-2.0",
-      "stars": 3656,
+      "stars": 3657,
       "forks": 476,
       "createdAt": "2019-03-14T18:51:07Z",
       "pushedAt": "2026-11-21T07:26:53Z",
@@ -636,7 +636,7 @@
       "stars": 2801,
       "forks": 453,
       "createdAt": "2017-10-17T03:43:19Z",
-      "pushedAt": "2026-11-21T11:22:14Z",
+      "pushedAt": "2026-11-21T11:44:39Z",
       "archived": false,
       "rank": 24,
       "rankDelta": null,
@@ -673,7 +673,7 @@
       "language": "Scala",
       "topics": [],
       "license": "GPL-3.0",
-      "stars": 2656,
+      "stars": 2662,
       "forks": 151,
       "createdAt": "2026-09-23T01:55:23Z",
       "pushedAt": "2026-11-20T01:58:01Z",
@@ -831,7 +831,7 @@
       "stars": 2252,
       "forks": 585,
       "createdAt": "2017-04-08T17:55:13Z",
-      "pushedAt": "2026-11-21T08:12:22Z",
+      "pushedAt": "2026-11-21T14:48:42Z",
       "archived": false,
       "rank": 32,
       "rankDelta": null,
@@ -962,6 +962,29 @@
       "starsDelta": null
     },
     {
+      "id": 38584807,
+      "fullName": "sangria-graphql/sangria",
+      "url": "https://github.com/sangria-graphql/sangria",
+      "description": "Scala GraphQL implementation",
+      "homepage": "https://sangria-graphql.github.io",
+      "language": "Scala",
+      "topics": [
+        "api",
+        "graphql",
+        "sangria",
+        "scala"
+      ],
+      "license": "Apache-2.0",
+      "stars": 1961,
+      "forks": 219,
+      "createdAt": "2015-07-05T21:29:30Z",
+      "pushedAt": "2026-11-21T12:11:18Z",
+      "archived": false,
+      "rank": 38,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
       "id": 15673987,
       "fullName": "monix/monix",
       "url": "https://github.com/monix/monix",
@@ -986,7 +1009,7 @@
       "createdAt": "2014-01-06T12:56:07Z",
       "pushedAt": "2026-11-17T11:22:27Z",
       "archived": false,
-      "rank": 38,
+      "rank": 39,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1008,7 +1031,7 @@
       "createdAt": "2010-08-10T04:08:48Z",
       "pushedAt": "2026-11-21T08:19:08Z",
       "archived": false,
-      "rank": 39,
+      "rank": 40,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1034,7 +1057,7 @@
       "createdAt": "2012-11-20T10:45:14Z",
       "pushedAt": "2026-11-18T15:01:10Z",
       "archived": false,
-      "rank": 40,
+      "rank": 41,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1056,7 +1079,7 @@
       "createdAt": "2015-05-10T16:23:16Z",
       "pushedAt": "2026-11-19T20:52:30Z",
       "archived": false,
-      "rank": 41,
+      "rank": 42,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1081,7 +1104,7 @@
       "createdAt": "2014-01-17T19:49:22Z",
       "pushedAt": "2026-11-19T22:53:27Z",
       "archived": false,
-      "rank": 42,
+      "rank": 43,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1110,7 +1133,7 @@
       "createdAt": "2022-10-31T08:40:39Z",
       "pushedAt": "2026-11-20T21:01:24Z",
       "archived": false,
-      "rank": 43,
+      "rank": 44,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1136,9 +1159,9 @@
       "stars": 1665,
       "forks": 175,
       "createdAt": "2018-09-21T06:46:41Z",
-      "pushedAt": "2026-11-18T20:15:46Z",
+      "pushedAt": "2026-11-21T12:16:05Z",
       "archived": false,
-      "rank": 44,
+      "rank": 45,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1164,7 +1187,7 @@
       "createdAt": "2013-06-10T20:23:57Z",
       "pushedAt": "2026-11-20T10:39:17Z",
       "archived": false,
-      "rank": 45,
+      "rank": 46,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1190,7 +1213,7 @@
       "createdAt": "2015-03-10T22:48:50Z",
       "pushedAt": "2026-11-19T23:37:19Z",
       "archived": false,
-      "rank": 46,
+      "rank": 47,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1215,7 +1238,7 @@
       "createdAt": "2021-12-06T05:46:27Z",
       "pushedAt": "2026-11-21T07:04:44Z",
       "archived": false,
-      "rank": 47,
+      "rank": 48,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1242,7 +1265,7 @@
       "createdAt": "2011-12-20T02:04:49Z",
       "pushedAt": "2026-11-19T14:35:55Z",
       "archived": false,
-      "rank": 48,
+      "rank": 49,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1259,12 +1282,12 @@
         "dnn"
       ],
       "license": null,
-      "stars": 1590,
+      "stars": 1591,
       "forks": 311,
       "createdAt": "2018-10-31T01:51:48Z",
       "pushedAt": "2026-11-21T04:10:21Z",
       "archived": false,
-      "rank": 49,
+      "rank": 50,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1301,7 +1324,7 @@
       "createdAt": "2017-06-30T15:15:07Z",
       "pushedAt": "2026-11-21T00:30:11Z",
       "archived": false,
-      "rank": 50,
+      "rank": 51,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1319,7 +1342,7 @@
       "createdAt": "2013-09-30T20:13:46Z",
       "pushedAt": "2026-11-20T20:13:11Z",
       "archived": false,
-      "rank": 51,
+      "rank": 52,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1340,7 +1363,7 @@
       "createdAt": "2015-11-02T21:34:40Z",
       "pushedAt": "2026-11-20T04:28:08Z",
       "archived": false,
-      "rank": 52,
+      "rank": 53,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1362,7 +1385,7 @@
       "createdAt": "2012-08-23T23:18:46Z",
       "pushedAt": "2026-11-20T07:38:41Z",
       "archived": false,
-      "rank": 53,
+      "rank": 54,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1398,7 +1421,7 @@
       "createdAt": "2018-12-09T16:43:49Z",
       "pushedAt": "2026-11-20T16:38:11Z",
       "archived": false,
-      "rank": 54,
+      "rank": 55,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1425,7 +1448,7 @@
       "createdAt": "2015-01-14T18:35:32Z",
       "pushedAt": "2026-11-19T16:45:55Z",
       "archived": false,
-      "rank": 55,
+      "rank": 56,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1445,7 +1468,7 @@
       "createdAt": "2013-08-22T13:49:31Z",
       "pushedAt": "2026-11-21T08:50:45Z",
       "archived": false,
-      "rank": 56,
+      "rank": 57,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1473,7 +1496,7 @@
       "createdAt": "2014-12-30T15:30:02Z",
       "pushedAt": "2026-11-18T10:12:30Z",
       "archived": false,
-      "rank": 57,
+      "rank": 58,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1491,7 +1514,7 @@
       "createdAt": "2011-12-23T14:56:54Z",
       "pushedAt": "2026-11-19T14:48:40Z",
       "archived": false,
-      "rank": 58,
+      "rank": 59,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1517,7 +1540,7 @@
       "createdAt": "2015-08-19T11:47:01Z",
       "pushedAt": "2026-11-18T14:16:16Z",
       "archived": false,
-      "rank": 59,
+      "rank": 60,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1539,7 +1562,7 @@
       "createdAt": "2014-10-02T01:11:41Z",
       "pushedAt": "2026-11-20T03:13:27Z",
       "archived": false,
-      "rank": 60,
+      "rank": 61,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1558,11 +1581,11 @@
       ],
       "license": "Apache-2.0",
       "stars": 1326,
-      "forks": 421,
+      "forks": 422,
       "createdAt": "2024-01-15T17:33:42Z",
       "pushedAt": "2026-11-21T05:47:04Z",
       "archived": false,
-      "rank": 61,
+      "rank": 62,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1584,7 +1607,7 @@
       "createdAt": "2013-03-17T13:20:04Z",
       "pushedAt": "2026-11-20T00:26:15Z",
       "archived": false,
-      "rank": 62,
+      "rank": 63,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1609,7 +1632,7 @@
       "createdAt": "2011-11-18T06:56:36Z",
       "pushedAt": "2026-11-21T05:04:49Z",
       "archived": false,
-      "rank": 63,
+      "rank": 64,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1636,7 +1659,7 @@
       "createdAt": "2016-10-13T13:08:14Z",
       "pushedAt": "2026-11-19T16:40:18Z",
       "archived": false,
-      "rank": 64,
+      "rank": 65,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1673,7 +1696,7 @@
       "createdAt": "2017-05-23T11:24:09Z",
       "pushedAt": "2026-11-19T09:14:38Z",
       "archived": false,
-      "rank": 65,
+      "rank": 66,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1695,7 +1718,7 @@
       "createdAt": "2011-11-11T14:34:07Z",
       "pushedAt": "2026-11-21T02:09:58Z",
       "archived": false,
-      "rank": 66,
+      "rank": 67,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1719,7 +1742,7 @@
       "createdAt": "2014-12-05T10:49:34Z",
       "pushedAt": "2026-11-21T11:12:33Z",
       "archived": false,
-      "rank": 67,
+      "rank": 68,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1754,7 +1777,7 @@
       "createdAt": "2018-09-06T19:44:47Z",
       "pushedAt": "2026-11-20T21:42:10Z",
       "archived": false,
-      "rank": 68,
+      "rank": 69,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1776,7 +1799,7 @@
       "createdAt": "2011-10-17T19:20:01Z",
       "pushedAt": "2026-11-20T23:04:23Z",
       "archived": false,
-      "rank": 69,
+      "rank": 70,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1799,7 +1822,7 @@
       "createdAt": "2016-04-17T08:38:48Z",
       "pushedAt": "2026-11-20T11:07:30Z",
       "archived": false,
-      "rank": 70,
+      "rank": 71,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1825,7 +1848,7 @@
       "createdAt": "2014-06-16T23:00:32Z",
       "pushedAt": "2026-11-21T11:23:03Z",
       "archived": false,
-      "rank": 71,
+      "rank": 72,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1848,7 +1871,7 @@
       "createdAt": "2013-01-05T11:29:26Z",
       "pushedAt": "2026-11-18T22:45:11Z",
       "archived": false,
-      "rank": 72,
+      "rank": 73,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1880,7 +1903,7 @@
       "createdAt": "2015-04-17T19:39:36Z",
       "pushedAt": "2026-11-20T22:32:46Z",
       "archived": false,
-      "rank": 73,
+      "rank": 74,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1901,7 +1924,7 @@
       "createdAt": "2020-09-30T23:20:42Z",
       "pushedAt": "2026-11-20T03:29:06Z",
       "archived": false,
-      "rank": 74,
+      "rank": 75,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1937,7 +1960,7 @@
       "createdAt": "2016-01-17T21:37:58Z",
       "pushedAt": "2026-11-18T21:53:03Z",
       "archived": false,
-      "rank": 75,
+      "rank": 76,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1965,12 +1988,12 @@
         "winecx"
       ],
       "license": "GPL-3.0",
-      "stars": 1026,
+      "stars": 1027,
       "forks": 154,
       "createdAt": "2026-10-20T03:13:58Z",
       "pushedAt": "2026-11-21T07:32:42Z",
       "archived": false,
-      "rank": 76,
+      "rank": 77,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1993,7 +2016,7 @@
       "createdAt": "2020-05-14T22:56:44Z",
       "pushedAt": "2026-11-21T04:35:18Z",
       "archived": false,
-      "rank": 77,
+      "rank": 78,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -2011,7 +2034,7 @@
       "createdAt": "2023-04-25T06:44:37Z",
       "pushedAt": "2026-11-20T03:02:03Z",
       "archived": false,
-      "rank": 78,
+      "rank": 79,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -2035,7 +2058,7 @@
       "createdAt": "2019-09-12T07:17:45Z",
       "pushedAt": "2026-11-20T09:45:04Z",
       "archived": false,
-      "rank": 79,
+      "rank": 80,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -2059,7 +2082,7 @@
       "createdAt": "2021-04-08T22:58:25Z",
       "pushedAt": "2026-11-21T08:40:19Z",
       "archived": false,
-      "rank": 80,
+      "rank": 81,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -2085,7 +2108,7 @@
       "createdAt": "2013-12-06T14:10:45Z",
       "pushedAt": "2026-11-20T16:15:19Z",
       "archived": false,
-      "rank": 81,
+      "rank": 82,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -2111,7 +2134,7 @@
       "createdAt": "2017-11-11T09:39:34Z",
       "pushedAt": "2026-11-18T10:15:12Z",
       "archived": false,
-      "rank": 82,
+      "rank": 83,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -2131,12 +2154,12 @@
         "zio"
       ],
       "license": "Apache-2.0",
-      "stars": 877,
+      "stars": 878,
       "forks": 503,
       "createdAt": "2021-02-17T17:16:23Z",
-      "pushedAt": "2026-11-21T10:08:24Z",
+      "pushedAt": "2026-11-21T14:04:52Z",
       "archived": false,
-      "rank": 83,
+      "rank": 84,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -2158,7 +2181,7 @@
       "createdAt": "2012-12-06T09:39:55Z",
       "pushedAt": "2026-11-18T03:15:09Z",
       "archived": false,
-      "rank": 84,
+      "rank": 85,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -2184,7 +2207,7 @@
       "createdAt": "2012-07-20T14:24:46Z",
       "pushedAt": "2026-11-17T18:22:22Z",
       "archived": false,
-      "rank": 85,
+      "rank": 86,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -2206,7 +2229,7 @@
       "createdAt": "2015-02-28T12:32:34Z",
       "pushedAt": "2026-11-20T00:08:09Z",
       "archived": false,
-      "rank": 86,
+      "rank": 87,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -2224,7 +2247,7 @@
       "createdAt": "2022-03-08T18:44:26Z",
       "pushedAt": "2026-11-19T14:30:19Z",
       "archived": false,
-      "rank": 87,
+      "rank": 88,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -2259,7 +2282,7 @@
       "createdAt": "2017-09-26T14:47:09Z",
       "pushedAt": "2026-11-20T16:24:07Z",
       "archived": false,
-      "rank": 88,
+      "rank": 89,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -2276,12 +2299,12 @@
         "scala"
       ],
       "license": "Apache-2.0",
-      "stars": 797,
+      "stars": 796,
       "forks": 87,
       "createdAt": "2014-05-19T18:39:03Z",
       "pushedAt": "2026-11-19T00:26:48Z",
       "archived": false,
-      "rank": 89,
+      "rank": 90,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -2307,7 +2330,7 @@
       "createdAt": "2013-01-11T16:26:14Z",
       "pushedAt": "2026-11-17T08:03:46Z",
       "archived": false,
-      "rank": 90,
+      "rank": 91,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -2332,7 +2355,7 @@
       "createdAt": "2012-05-16T19:22:34Z",
       "pushedAt": "2026-11-17T21:11:19Z",
       "archived": false,
-      "rank": 91,
+      "rank": 92,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -2354,7 +2377,7 @@
       "createdAt": "2012-10-07T17:20:50Z",
       "pushedAt": "2026-11-20T08:22:11Z",
       "archived": false,
-      "rank": 92,
+      "rank": 93,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -2378,7 +2401,7 @@
       "createdAt": "2010-09-03T01:55:10Z",
       "pushedAt": "2026-11-19T21:40:47Z",
       "archived": false,
-      "rank": 93,
+      "rank": 94,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -2408,7 +2431,7 @@
       "createdAt": "2011-10-06T19:27:50Z",
       "pushedAt": "2026-11-20T15:10:30Z",
       "archived": false,
-      "rank": 94,
+      "rank": 95,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -2426,7 +2449,7 @@
       "createdAt": "2013-04-18T10:48:21Z",
       "pushedAt": "2026-11-19T01:01:05Z",
       "archived": false,
-      "rank": 95,
+      "rank": 96,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -2447,7 +2470,7 @@
       "createdAt": "2011-06-04T00:39:57Z",
       "pushedAt": "2026-11-18T10:07:21Z",
       "archived": false,
-      "rank": 96,
+      "rank": 97,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -2472,7 +2495,7 @@
       "createdAt": "2010-05-19T04:00:57Z",
       "pushedAt": "2026-11-19T23:28:15Z",
       "archived": false,
-      "rank": 97,
+      "rank": 98,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -2490,7 +2513,7 @@
       "createdAt": "2012-03-08T17:02:19Z",
       "pushedAt": "2026-11-20T11:36:15Z",
       "archived": false,
-      "rank": 98,
+      "rank": 99,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -2513,24 +2536,6 @@
       "forks": 66,
       "createdAt": "2014-05-18T14:12:15Z",
       "pushedAt": "2026-11-17T18:07:28Z",
-      "archived": false,
-      "rank": 99,
-      "rankDelta": null,
-      "starsDelta": null
-    },
-    {
-      "id": 139046493,
-      "fullName": "ShiftLeftSecurity/codepropertygraph",
-      "url": "https://github.com/ShiftLeftSecurity/codepropertygraph",
-      "description": "Code Property Graph: specification, query language, and utilities",
-      "homepage": null,
-      "language": "Scala",
-      "topics": [],
-      "license": "Apache-2.0",
-      "stars": 695,
-      "forks": 88,
-      "createdAt": "2018-06-28T17:00:00Z",
-      "pushedAt": "2026-11-18T09:15:03Z",
       "archived": false,
       "rank": 100,
       "rankDelta": null,

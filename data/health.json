@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T11:35:46.043Z",
+  "updatedAt": "2026-11-21T15:32:59.167Z",
   "queries": [
     {
       "categoryId": "go",
@@ -278,8 +278,8 @@
       "window": "new",
       "query": "language:PHP created:>2026-08-23 stars:>=50",
       "status": "ok",
-      "fetched": 44,
-      "kept": 44
+      "fetched": 45,
+      "kept": 45
     },
     {
       "categoryId": "php",
@@ -326,8 +326,8 @@
       "window": "new",
       "query": "language:Dart created:>2026-08-23 stars:>=50",
       "status": "ok",
-      "fetched": 76,
-      "kept": 76
+      "fetched": 77,
+      "kept": 77
     },
     {
       "categoryId": "dart",
@@ -605,71 +605,65 @@
       "categoryId": "tts",
       "window": "new",
       "query": "topic:speech-synthesis created:>2026-08-23 stars:>=50",
-      "status": "error",
-      "error": "fetch failed"
+      "status": "ok",
+      "fetched": 15,
+      "kept": 15
     },
     {
       "categoryId": "audio-processing",
       "window": "total",
       "query": "topic:audio-processing",
-      "status": "error",
-      "error": "fetch failed"
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
     },
     {
       "categoryId": "audio-processing",
       "window": "total",
       "query": "topic:dsp",
-      "status": "error",
-      "error": "fetch failed"
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
     },
     {
       "categoryId": "audio-processing",
       "window": "total",
       "query": "topic:audio-library",
-      "status": "error",
-      "error": "fetch failed"
-    },
-    {
-      "categoryId": "audio-processing",
-      "window": "total",
-      "query": "(全部查询失败)",
-      "status": "skipped",
-      "error": "保留上一轮数据"
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
     },
     {
       "categoryId": "audio-processing",
       "window": "new",
       "query": "topic:audio-processing created:>2026-08-23 stars:>=50",
-      "status": "error",
-      "error": "fetch failed"
+      "status": "ok",
+      "fetched": 10,
+      "kept": 10
     },
     {
       "categoryId": "audio-processing",
       "window": "new",
       "query": "topic:dsp created:>2026-08-23 stars:>=50",
-      "status": "error",
-      "error": "fetch failed"
+      "status": "ok",
+      "fetched": 12,
+      "kept": 12
     },
     {
       "categoryId": "audio-processing",
       "window": "new",
       "query": "topic:audio-library created:>2026-08-23 stars:>=50",
-      "status": "error",
-      "error": "fetch failed"
-    },
-    {
-      "categoryId": "audio-processing",
-      "window": "new",
-      "query": "(全部查询失败)",
-      "status": "skipped",
-      "error": "保留上一轮数据"
+      "status": "ok",
+      "fetched": 0,
+      "kept": 0
     },
     {
       "categoryId": "podcast",
       "window": "total",
       "query": "topic:podcast",
-      "status": "error",
-      "error": "fetch failed"
+      "status": "ok",
+      "fetched": 100,
+      "kept": 100
     },
     {
       "categoryId": "podcast",
@@ -732,8 +726,8 @@
       "window": "new",
       "query": "topic:music-player created:>2026-08-23 stars:>=50",
       "status": "ok",
-      "fetched": 55,
-      "kept": 55
+      "fetched": 56,
+      "kept": 56
     },
     {
       "categoryId": "music",
@@ -860,8 +854,8 @@
       "window": "new",
       "query": "topic:agent-tools created:>2026-08-23 stars:>=50",
       "status": "ok",
-      "fetched": 13,
-      "kept": 13
+      "fetched": 14,
+      "kept": 14
     },
     {
       "categoryId": "agent-tools",

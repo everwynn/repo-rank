@@ -1,7 +1,7 @@
 {
   "categoryId": "podcast",
   "window": "new",
-  "updatedAt": "2026-11-21T11:35:46.043Z",
+  "updatedAt": "2026-11-21T15:32:59.167Z",
   "totalFetched": 10,
   "items": [
     {
@@ -89,7 +89,7 @@
         "youtube"
       ],
       "license": "AGPL-3.0",
-      "stars": 193,
+      "stars": 195,
       "forks": 33,
       "createdAt": "2026-11-16T11:22:42Z",
       "pushedAt": "2026-11-20T02:35:44Z",
@@ -158,7 +158,7 @@
       ],
       "license": "MIT",
       "stars": 99,
-      "forks": 28,
+      "forks": 29,
       "createdAt": "2026-11-16T08:56:19Z",
       "pushedAt": "2026-11-18T03:25:32Z",
       "archived": false,

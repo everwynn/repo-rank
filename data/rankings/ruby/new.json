@@ -1,7 +1,7 @@
 {
   "categoryId": "ruby",
   "window": "new",
-  "updatedAt": "2026-11-21T11:35:46.043Z",
+  "updatedAt": "2026-11-21T15:32:59.167Z",
   "totalFetched": 14,
   "items": [
     {
@@ -72,7 +72,7 @@
       "stars": 156,
       "forks": 12,
       "createdAt": "2026-10-11T22:40:20Z",
-      "pushedAt": "2026-11-21T10:39:57Z",
+      "pushedAt": "2026-11-21T12:00:54Z",
       "archived": false,
       "rank": 3,
       "rankDelta": null,
@@ -105,8 +105,8 @@
       "language": "Ruby",
       "topics": [],
       "license": "MIT",
-      "stars": 145,
-      "forks": 34,
+      "stars": 149,
+      "forks": 35,
       "createdAt": "2026-11-04T02:25:54Z",
       "pushedAt": "2026-11-08T15:21:34Z",
       "archived": false,
@@ -131,7 +131,7 @@
         "unsigned-apps"
       ],
       "license": "BSD-2-Clause",
-      "stars": 96,
+      "stars": 97,
       "forks": 44,
       "createdAt": "2026-09-16T13:59:49Z",
       "pushedAt": "2026-11-21T11:37:36Z",

@@ -1,8 +1,8 @@
 {
   "categoryId": "php",
   "window": "new",
-  "updatedAt": "2026-11-21T11:35:46.043Z",
-  "totalFetched": 44,
+  "updatedAt": "2026-11-21T15:32:59.167Z",
+  "totalFetched": 45,
   "items": [
     {
       "id": 1450792839,
@@ -23,7 +23,7 @@
         "vps"
       ],
       "license": "AGPL-3.0",
-      "stars": 1182,
+      "stars": 1181,
       "forks": 116,
       "createdAt": "2026-11-09T00:47:33Z",
       "pushedAt": "2026-11-21T07:00:30Z",
@@ -44,7 +44,7 @@
       "stars": 689,
       "forks": 276,
       "createdAt": "2026-10-15T09:14:32Z",
-      "pushedAt": "2026-11-20T11:19:24Z",
+      "pushedAt": "2026-11-21T13:00:46Z",
       "archived": false,
       "rank": 2,
       "rankDelta": null,
@@ -126,10 +126,10 @@
       "language": "PHP",
       "topics": [],
       "license": "MIT",
-      "stars": 176,
+      "stars": 177,
       "forks": 70,
       "createdAt": "2026-11-02T09:19:12Z",
-      "pushedAt": "2026-11-12T08:56:51Z",
+      "pushedAt": "2026-11-21T12:45:12Z",
       "archived": false,
       "rank": 6,
       "rankDelta": null,
@@ -225,8 +225,8 @@
         "valkey"
       ],
       "license": "Apache-2.0",
-      "stars": 118,
-      "forks": 18,
+      "stars": 119,
+      "forks": 19,
       "createdAt": "2026-11-06T05:53:39Z",
       "pushedAt": "2026-11-21T08:11:30Z",
       "archived": false,
@@ -610,7 +610,7 @@
       "stars": 86,
       "forks": 35,
       "createdAt": "2026-10-15T22:29:35Z",
-      "pushedAt": "2026-11-21T11:02:43Z",
+      "pushedAt": "2026-11-21T13:23:58Z",
       "archived": false,
       "rank": 27,
       "rankDelta": null,
@@ -736,6 +736,33 @@
       "starsDelta": null
     },
     {
+      "id": 1460597496,
+      "fullName": "shipmonk-rnd/turbocov",
+      "url": "https://github.com/shipmonk-rnd/turbocov",
+      "description": "⚡ Coverage engine for PHP at near-native speed! 400× less overhead than Xdebug, 30× less than PCOV. ZERO overhead for code you do not measure (like vendor).",
+      "homepage": null,
+      "language": "PHP",
+      "topics": [
+        "code-coverage",
+        "pcov",
+        "performance",
+        "php",
+        "php-extension",
+        "phpunit",
+        "testing",
+        "xdebug"
+      ],
+      "license": "MIT",
+      "stars": 71,
+      "forks": 2,
+      "createdAt": "2026-11-16T21:34:48Z",
+      "pushedAt": "2026-11-21T14:09:20Z",
+      "archived": false,
+      "rank": 34,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
       "id": 1377188363,
       "fullName": "Code-Core-Next-Gen-Gaming-AI-Systems/goldsvet-casino-open-source-engine",
       "url": "https://github.com/Code-Core-Next-Gen-Gaming-AI-Systems/goldsvet-casino-open-source-engine",
@@ -770,7 +797,7 @@
       "createdAt": "2026-09-19T13:28:28Z",
       "pushedAt": "2026-10-13T19:07:42Z",
       "archived": false,
-      "rank": 34,
+      "rank": 35,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -788,7 +815,7 @@
       "createdAt": "2026-08-26T02:54:40Z",
       "pushedAt": "2026-08-26T02:55:25Z",
       "archived": false,
-      "rank": 35,
+      "rank": 36,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -806,7 +833,7 @@
       "createdAt": "2026-08-26T03:32:53Z",
       "pushedAt": "2026-08-26T03:33:38Z",
       "archived": false,
-      "rank": 36,
+      "rank": 37,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -833,7 +860,7 @@
       "createdAt": "2026-11-06T10:44:21Z",
       "pushedAt": "2026-11-14T21:53:20Z",
       "archived": false,
-      "rank": 37,
+      "rank": 38,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -851,7 +878,7 @@
       "createdAt": "2026-09-13T09:44:11Z",
       "pushedAt": "2026-10-25T06:40:03Z",
       "archived": false,
-      "rank": 38,
+      "rank": 39,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -877,7 +904,7 @@
       "createdAt": "2026-08-25T17:47:32Z",
       "pushedAt": "2026-09-13T14:22:52Z",
       "archived": false,
-      "rank": 39,
+      "rank": 40,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -902,7 +929,7 @@
       "createdAt": "2026-09-04T07:07:11Z",
       "pushedAt": "2026-11-06T08:45:05Z",
       "archived": false,
-      "rank": 40,
+      "rank": 41,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -920,7 +947,7 @@
       "createdAt": "2026-10-20T15:30:34Z",
       "pushedAt": "2026-10-21T04:13:16Z",
       "archived": false,
-      "rank": 41,
+      "rank": 42,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -938,7 +965,7 @@
       "createdAt": "2026-09-09T01:58:20Z",
       "pushedAt": "2026-11-20T23:20:47Z",
       "archived": false,
-      "rank": 42,
+      "rank": 43,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -977,7 +1004,7 @@
       "createdAt": "2026-10-15T12:11:31Z",
       "pushedAt": "2026-11-16T16:11:41Z",
       "archived": false,
-      "rank": 43,
+      "rank": 44,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -1000,7 +1027,7 @@
       "createdAt": "2026-10-29T07:42:45Z",
       "pushedAt": "2026-11-21T10:07:36Z",
       "archived": false,
-      "rank": 44,
+      "rank": 45,
       "rankDelta": null,
       "starsDelta": null
     }
