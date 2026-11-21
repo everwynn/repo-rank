@@ -1,8 +1,8 @@
 {
   "categoryId": "books-lists",
   "window": "new",
-  "updatedAt": "2026-11-20T19:08:19.565Z",
-  "totalFetched": 14,
+  "updatedAt": "2026-11-21T04:00:24.185Z",
+  "totalFetched": 12,
   "items": [
     {
       "id": 1361079582,
@@ -24,7 +24,7 @@
         "workbuddy"
       ],
       "license": "MIT",
-      "stars": 1466,
+      "stars": 1468,
       "forks": 143,
       "createdAt": "2026-09-08T07:48:21Z",
       "pushedAt": "2026-10-19T16:34:57Z",
@@ -45,10 +45,10 @@
         "ebook"
       ],
       "license": "GPL-3.0",
-      "stars": 402,
+      "stars": 403,
       "forks": 20,
       "createdAt": "2026-11-08T09:56:44Z",
-      "pushedAt": "2026-11-20T11:38:31Z",
+      "pushedAt": "2026-11-21T03:08:32Z",
       "archived": false,
       "rank": 2,
       "rankDelta": null,
@@ -145,7 +145,7 @@
         "llm"
       ],
       "license": null,
-      "stars": 114,
+      "stars": 116,
       "forks": 18,
       "createdAt": "2026-08-24T09:45:24Z",
       "pushedAt": "2026-09-10T04:50:09Z",
@@ -307,43 +307,6 @@
       "pushedAt": "2026-11-18T02:38:26Z",
       "archived": false,
       "rank": 10,
-      "rankDelta": null,
-      "starsDelta": null
-    },
-    {
-      "id": 1343539401,
-      "fullName": "Jatin-Roopchandani/LORE",
-      "url": "https://github.com/Jatin-Roopchandani/LORE",
-      "description": "Ask questions about the books you own: an AI reader that turns e-books into a knowledge graph and answers with every sentence cited, without spoilers past your chapter. GraphRAG + MCP.",
-      "homepage": "https://lore.jrvn.site",
-      "language": "Python",
-      "topics": [
-        "books",
-        "claude",
-        "ebook",
-        "epub",
-        "fastapi",
-        "gemini",
-        "graphrag",
-        "knowledge-graph",
-        "kuzu",
-        "lancedb",
-        "llm",
-        "mcp",
-        "mcp-server",
-        "python",
-        "rag",
-        "react",
-        "reading",
-        "spoiler-free"
-      ],
-      "license": "MIT",
-      "stars": 55,
-      "forks": 5,
-      "createdAt": "2026-08-23T08:25:22Z",
-      "pushedAt": "2026-11-18T16:28:16Z",
-      "archived": false,
-      "rank": 11,
       "rankDelta": null,
       "starsDelta": null
     }
