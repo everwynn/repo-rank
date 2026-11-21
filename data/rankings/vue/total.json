@@ -1,7 +1,7 @@
 {
   "categoryId": "vue",
   "window": "total",
-  "updatedAt": "2026-11-21T15:32:59.167Z",
+  "updatedAt": "2026-11-21T18:01:30.457Z",
   "totalFetched": 82,
   "items": [
     {
@@ -57,8 +57,8 @@
         "workshop"
       ],
       "license": "MIT",
-      "stars": 91673,
-      "forks": 10580,
+      "stars": 91675,
+      "forks": 10581,
       "createdAt": "2016-03-18T04:23:44Z",
       "pushedAt": "2026-11-20T17:28:21Z",
       "archived": false,
@@ -164,10 +164,10 @@
         "vue"
       ],
       "license": "MIT",
-      "stars": 61092,
+      "stars": 61093,
       "forks": 5829,
       "createdAt": "2016-10-26T11:18:47Z",
-      "pushedAt": "2026-11-21T15:18:44Z",
+      "pushedAt": "2026-11-21T17:54:47Z",
       "archived": false,
       "rank": 5,
       "rankDelta": null,
@@ -187,7 +187,7 @@
         "vue"
       ],
       "license": "Apache-2.0",
-      "stars": 55553,
+      "stars": 55558,
       "forks": 7141,
       "createdAt": "2019-08-14T14:31:08Z",
       "pushedAt": "2026-11-13T01:39:25Z",
@@ -322,10 +322,10 @@
         "vue"
       ],
       "license": "MIT",
-      "stars": 50605,
-      "forks": 4232,
+      "stars": 50608,
+      "forks": 4233,
       "createdAt": "2019-09-10T19:23:58Z",
-      "pushedAt": "2026-11-21T13:56:57Z",
+      "pushedAt": "2026-11-21T17:51:19Z",
       "archived": false,
       "rank": 10,
       "rankDelta": null,
@@ -386,7 +386,7 @@
         "website"
       ],
       "license": null,
-      "stars": 47010,
+      "stars": 47011,
       "forks": 10452,
       "createdAt": "2019-12-23T14:07:40Z",
       "pushedAt": "2026-08-27T12:03:08Z",
@@ -546,7 +546,7 @@
         "workflow"
       ],
       "license": "MIT",
-      "stars": 39107,
+      "stars": 39109,
       "forks": 2599,
       "createdAt": "2019-07-15T14:47:30Z",
       "pushedAt": "2026-11-19T14:01:55Z",
@@ -576,7 +576,7 @@
         "wysiwyg-editor"
       ],
       "license": "MIT",
-      "stars": 39103,
+      "stars": 39105,
       "forks": 3213,
       "createdAt": "2018-08-20T19:58:58Z",
       "pushedAt": "2026-11-20T23:47:13Z",
@@ -615,8 +615,8 @@
         "vue"
       ],
       "license": null,
-      "stars": 38615,
-      "forks": 4995,
+      "stars": 38617,
+      "forks": 4994,
       "createdAt": "2012-12-12T01:35:36Z",
       "pushedAt": "2026-11-20T21:22:49Z",
       "archived": false,
@@ -687,7 +687,7 @@
       ],
       "license": "MIT",
       "stars": 33662,
-      "forks": 4672,
+      "forks": 4673,
       "createdAt": "2020-10-09T10:04:21Z",
       "pushedAt": "2026-10-10T11:05:47Z",
       "archived": false,
@@ -740,7 +740,7 @@
         "vue"
       ],
       "license": "MIT",
-      "stars": 28840,
+      "stars": 28841,
       "forks": 1218,
       "createdAt": "2020-09-16T09:53:09Z",
       "pushedAt": "2026-04-13T16:12:31Z",
@@ -778,7 +778,7 @@
         "vue"
       ],
       "license": "MIT",
-      "stars": 28595,
+      "stars": 28596,
       "forks": 3591,
       "createdAt": "2016-10-20T17:25:08Z",
       "pushedAt": "2026-11-18T20:03:14Z",
@@ -836,8 +836,8 @@
         "vue"
       ],
       "license": null,
-      "stars": 28116,
-      "forks": 5679,
+      "stars": 28118,
+      "forks": 5680,
       "createdAt": "2023-05-23T15:04:08Z",
       "pushedAt": "2026-11-21T00:40:32Z",
       "archived": false,
@@ -898,7 +898,7 @@
         "weibo"
       ],
       "license": "MIT",
-      "stars": 27510,
+      "stars": 27511,
       "forks": 2340,
       "createdAt": "2017-12-12T08:39:44Z",
       "pushedAt": "2026-11-17T11:18:26Z",
@@ -992,7 +992,7 @@
         "vue"
       ],
       "license": "MIT",
-      "stars": 27040,
+      "stars": 27044,
       "forks": 1967,
       "createdAt": "2021-02-28T10:35:44Z",
       "pushedAt": "2026-11-20T21:35:07Z",
@@ -1055,7 +1055,7 @@
         "vue"
       ],
       "license": null,
-      "stars": 25909,
+      "stars": 25911,
       "forks": 1704,
       "createdAt": "2020-06-08T15:36:21Z",
       "pushedAt": "2026-11-20T14:04:37Z",
@@ -1120,7 +1120,7 @@
       ],
       "license": "MIT",
       "stars": 24429,
-      "forks": 9344,
+      "forks": 9345,
       "createdAt": "2017-04-19T07:55:31Z",
       "pushedAt": "2026-11-20T23:17:20Z",
       "archived": false,
@@ -1621,7 +1621,7 @@
         "vue"
       ],
       "license": "MIT",
-      "stars": 17398,
+      "stars": 17399,
       "forks": 804,
       "createdAt": "2022-02-21T14:57:09Z",
       "pushedAt": "2026-11-19T09:42:03Z",
@@ -1675,7 +1675,7 @@
         "vue"
       ],
       "license": "MIT",
-      "stars": 16434,
+      "stars": 16435,
       "forks": 977,
       "createdAt": "2023-08-16T13:42:32Z",
       "pushedAt": "2026-11-21T06:38:59Z",
@@ -1960,7 +1960,7 @@
       ],
       "license": "MIT",
       "stars": 14449,
-      "forks": 1788,
+      "forks": 1789,
       "createdAt": "2018-12-04T07:04:14Z",
       "pushedAt": "2026-09-24T13:07:08Z",
       "archived": false,
@@ -1990,7 +1990,7 @@
         "wai-aria"
       ],
       "license": "MIT",
-      "stars": 14401,
+      "stars": 14402,
       "forks": 1823,
       "createdAt": "2016-10-08T15:59:35Z",
       "pushedAt": "2026-04-02T09:36:34Z",
@@ -2023,7 +2023,7 @@
       "stars": 14330,
       "forks": 4456,
       "createdAt": "2012-06-06T22:49:48Z",
-      "pushedAt": "2026-11-20T13:23:39Z",
+      "pushedAt": "2026-11-21T16:57:52Z",
       "archived": false,
       "rank": 67,
       "rankDelta": null,
@@ -2154,7 +2154,7 @@
         "weixin"
       ],
       "license": "WTFPL",
-      "stars": 13552,
+      "stars": 13554,
       "forks": 2254,
       "createdAt": "2019-11-01T09:14:36Z",
       "pushedAt": "2026-11-21T10:15:07Z",
@@ -2222,7 +2222,7 @@
         "web-vitals"
       ],
       "license": null,
-      "stars": 13168,
+      "stars": 13169,
       "forks": 894,
       "createdAt": "2021-04-29T12:15:50Z",
       "pushedAt": "2026-11-21T05:41:41Z",
@@ -2432,8 +2432,8 @@
         "vue3"
       ],
       "license": "GPL-3.0",
-      "stars": 11554,
-      "forks": 3086,
+      "stars": 11555,
+      "forks": 3087,
       "createdAt": "2018-10-15T03:28:49Z",
       "pushedAt": "2026-07-21T15:09:13Z",
       "archived": false,

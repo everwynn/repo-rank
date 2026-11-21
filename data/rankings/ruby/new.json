@@ -1,7 +1,7 @@
 {
   "categoryId": "ruby",
   "window": "new",
-  "updatedAt": "2026-11-21T15:32:59.167Z",
+  "updatedAt": "2026-11-21T18:01:30.457Z",
   "totalFetched": 14,
   "items": [
     {
@@ -31,7 +31,7 @@
       "language": "Ruby",
       "topics": [],
       "license": "MIT",
-      "stars": 233,
+      "stars": 234,
       "forks": 30,
       "createdAt": "2026-09-26T15:33:53Z",
       "pushedAt": "2026-11-11T03:38:44Z",

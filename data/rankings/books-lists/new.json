@@ -1,7 +1,7 @@
 {
   "categoryId": "books-lists",
   "window": "new",
-  "updatedAt": "2026-11-21T15:32:59.167Z",
+  "updatedAt": "2026-11-21T18:01:30.457Z",
   "totalFetched": 12,
   "items": [
     {
@@ -24,7 +24,7 @@
         "workbuddy"
       ],
       "license": "MIT",
-      "stars": 1468,
+      "stars": 1469,
       "forks": 143,
       "createdAt": "2026-09-08T07:48:21Z",
       "pushedAt": "2026-10-19T16:34:57Z",

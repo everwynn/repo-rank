@@ -1,7 +1,7 @@
 {
   "categoryId": "podcast",
   "window": "new",
-  "updatedAt": "2026-11-21T15:32:59.167Z",
+  "updatedAt": "2026-11-21T18:01:30.457Z",
   "totalFetched": 10,
   "items": [
     {
@@ -195,7 +195,7 @@
       "stars": 71,
       "forks": 0,
       "createdAt": "2026-09-22T21:39:09Z",
-      "pushedAt": "2026-11-21T07:58:15Z",
+      "pushedAt": "2026-11-21T16:00:28Z",
       "archived": false,
       "rank": 6,
       "rankDelta": null,
@@ -231,8 +231,8 @@
         "youtube-shorts"
       ],
       "license": "MIT",
-      "stars": 64,
-      "forks": 13,
+      "stars": 65,
+      "forks": 14,
       "createdAt": "2026-08-31T03:54:20Z",
       "pushedAt": "2026-11-20T16:39:26Z",
       "archived": false,
@@ -292,7 +292,7 @@
         "transcript-search"
       ],
       "license": "Apache-2.0",
-      "stars": 61,
+      "stars": 62,
       "forks": 2,
       "createdAt": "2026-11-12T09:55:17Z",
       "pushedAt": "2026-11-12T13:02:22Z",

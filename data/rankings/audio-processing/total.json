@@ -1,7 +1,7 @@
 {
   "categoryId": "audio-processing",
   "window": "total",
-  "updatedAt": "2026-11-21T15:32:59.167Z",
+  "updatedAt": "2026-11-21T18:01:30.457Z",
   "totalFetched": 300,
   "items": [
     {
@@ -31,7 +31,7 @@
         "video-processing"
       ],
       "license": "Apache-2.0",
-      "stars": 37770,
+      "stars": 37771,
       "forks": 6240,
       "createdAt": "2019-06-13T19:16:41Z",
       "pushedAt": "2026-11-21T08:38:39Z",
@@ -87,7 +87,7 @@
         "web-audio"
       ],
       "license": "MIT",
-      "stars": 25453,
+      "stars": 25454,
       "forks": 2280,
       "createdAt": "2013-01-28T16:47:12Z",
       "pushedAt": "2025-11-23T23:49:01Z",
@@ -165,10 +165,10 @@
         "whisper"
       ],
       "license": "MIT",
-      "stars": 9145,
-      "forks": 831,
+      "stars": 9182,
+      "forks": 834,
       "createdAt": "2026-09-03T14:33:38Z",
-      "pushedAt": "2026-11-21T15:20:38Z",
+      "pushedAt": "2026-11-21T16:01:51Z",
       "archived": false,
       "rank": 5,
       "rankDelta": null,
@@ -190,8 +190,8 @@
         "scipy"
       ],
       "license": "ISC",
-      "stars": 9083,
-      "forks": 1147,
+      "stars": 9085,
+      "forks": 1148,
       "createdAt": "2012-10-20T14:21:01Z",
       "pushedAt": "2026-11-21T01:26:32Z",
       "archived": false,
@@ -245,7 +245,7 @@
         "transformers"
       ],
       "license": "MIT",
-      "stars": 8315,
+      "stars": 8316,
       "forks": 801,
       "createdAt": "2024-11-27T21:14:34Z",
       "pushedAt": "2026-11-20T17:54:25Z",
@@ -284,7 +284,7 @@
         "windows"
       ],
       "license": null,
-      "stars": 7685,
+      "stars": 7688,
       "forks": 651,
       "createdAt": "2016-10-21T03:17:26Z",
       "pushedAt": "2026-11-19T21:19:07Z",
@@ -379,7 +379,7 @@
         "vst3-host"
       ],
       "license": "GPL-3.0",
-      "stars": 6496,
+      "stars": 6497,
       "forks": 381,
       "createdAt": "2021-07-06T13:04:18Z",
       "pushedAt": "2026-11-09T21:26:33Z",
@@ -436,7 +436,7 @@
       ],
       "license": "Unlicense",
       "stars": 6042,
-      "forks": 756,
+      "forks": 757,
       "createdAt": "2020-04-30T04:57:21Z",
       "pushedAt": "2026-11-21T04:27:47Z",
       "archived": false,
@@ -746,7 +746,7 @@
       "stars": 3217,
       "forks": 440,
       "createdAt": "2016-11-05T13:09:11Z",
-      "pushedAt": "2026-11-20T13:52:54Z",
+      "pushedAt": "2026-11-21T15:56:44Z",
       "archived": false,
       "rank": 24,
       "rankDelta": null,
@@ -1064,7 +1064,7 @@
         "webapp"
       ],
       "license": "AGPL-3.0",
-      "stars": 2472,
+      "stars": 2473,
       "forks": 242,
       "createdAt": "2025-02-18T09:39:55Z",
       "pushedAt": "2026-11-21T07:33:26Z",
@@ -1282,7 +1282,7 @@
         "wled"
       ],
       "license": "GPL-3.0",
-      "stars": 2109,
+      "stars": 2110,
       "forks": 245,
       "createdAt": "2020-12-18T12:49:47Z",
       "pushedAt": "2026-11-16T15:14:55Z",
@@ -1378,7 +1378,7 @@
       "stars": 1880,
       "forks": 406,
       "createdAt": "2012-04-13T18:30:28Z",
-      "pushedAt": "2026-11-21T01:33:16Z",
+      "pushedAt": "2026-11-21T16:56:04Z",
       "archived": false,
       "rank": 45,
       "rankDelta": null,
@@ -1469,30 +1469,6 @@
       "starsDelta": null
     },
     {
-      "id": 160194880,
-      "fullName": "soul-lang/SOUL",
-      "url": "https://github.com/soul-lang/SOUL",
-      "description": "The SOUL programming language and API",
-      "homepage": null,
-      "language": "C++",
-      "topics": [
-        "audio",
-        "dsp",
-        "soul",
-        "soul-programming-language",
-        "synthesis"
-      ],
-      "license": null,
-      "stars": 1739,
-      "forks": 94,
-      "createdAt": "2018-12-03T13:26:24Z",
-      "pushedAt": "2022-07-21T06:44:06Z",
-      "archived": false,
-      "rank": 49,
-      "rankDelta": null,
-      "starsDelta": null
-    },
-    {
       "id": 509083895,
       "fullName": "timschneeb/RootlessJamesDSP",
       "url": "https://github.com/timschneeb/RootlessJamesDSP",
@@ -1511,10 +1487,34 @@
         "rootless"
       ],
       "license": "GPL-3.0",
-      "stars": 1739,
+      "stars": 1740,
       "forks": 107,
       "createdAt": "2022-06-30T13:05:35Z",
       "pushedAt": "2026-08-31T04:26:24Z",
+      "archived": false,
+      "rank": 49,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
+      "id": 160194880,
+      "fullName": "soul-lang/SOUL",
+      "url": "https://github.com/soul-lang/SOUL",
+      "description": "The SOUL programming language and API",
+      "homepage": null,
+      "language": "C++",
+      "topics": [
+        "audio",
+        "dsp",
+        "soul",
+        "soul-programming-language",
+        "synthesis"
+      ],
+      "license": null,
+      "stars": 1739,
+      "forks": 94,
+      "createdAt": "2018-12-03T13:26:24Z",
+      "pushedAt": "2022-07-21T06:44:06Z",
       "archived": false,
       "rank": 50,
       "rankDelta": null,
@@ -1756,7 +1756,7 @@
         "juce"
       ],
       "license": null,
-      "stars": 1467,
+      "stars": 1468,
       "forks": 231,
       "createdAt": "2018-11-09T12:40:42Z",
       "pushedAt": "2026-11-20T10:07:04Z",
@@ -1792,7 +1792,7 @@
         "synth"
       ],
       "license": "MIT",
-      "stars": 1461,
+      "stars": 1462,
       "forks": 182,
       "createdAt": "2017-11-04T02:06:19Z",
       "pushedAt": "2026-11-09T23:53:54Z",
@@ -2357,7 +2357,7 @@
         "web"
       ],
       "license": "AGPL-3.0",
-      "stars": 1143,
+      "stars": 1144,
       "forks": 41,
       "createdAt": "2026-03-27T15:23:13Z",
       "pushedAt": "2026-11-10T13:00:02Z",
@@ -2524,6 +2524,30 @@
       "starsDelta": null
     },
     {
+      "id": 130293213,
+      "fullName": "korginc/logue-sdk",
+      "url": "https://github.com/korginc/logue-sdk",
+      "description": "This repository contains all the files and tools needed to build custom oscillators and effects for the prologue synthesizer.",
+      "homepage": "https://korginc.github.io/logue-sdk/",
+      "language": "C",
+      "topics": [
+        "audio",
+        "dsp",
+        "embedded",
+        "stm32",
+        "wasm"
+      ],
+      "license": "BSD-3-Clause",
+      "stars": 1059,
+      "forks": 366,
+      "createdAt": "2018-04-20T01:44:05Z",
+      "pushedAt": "2026-10-20T06:53:52Z",
+      "archived": false,
+      "rank": 84,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
       "id": 100183375,
       "fullName": "RustAudio/vst-rs",
       "url": "https://github.com/RustAudio/vst-rs",
@@ -2544,30 +2568,6 @@
       "createdAt": "2017-08-13T14:46:09Z",
       "pushedAt": "2023-06-10T11:48:20Z",
       "archived": true,
-      "rank": 84,
-      "rankDelta": null,
-      "starsDelta": null
-    },
-    {
-      "id": 130293213,
-      "fullName": "korginc/logue-sdk",
-      "url": "https://github.com/korginc/logue-sdk",
-      "description": "This repository contains all the files and tools needed to build custom oscillators and effects for the prologue synthesizer.",
-      "homepage": "https://korginc.github.io/logue-sdk/",
-      "language": "C",
-      "topics": [
-        "audio",
-        "dsp",
-        "embedded",
-        "stm32",
-        "wasm"
-      ],
-      "license": "BSD-3-Clause",
-      "stars": 1058,
-      "forks": 366,
-      "createdAt": "2018-04-20T01:44:05Z",
-      "pushedAt": "2026-10-20T06:53:52Z",
-      "archived": false,
       "rank": 85,
       "rankDelta": null,
       "starsDelta": null
