@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T03:15:30.396Z",
+  "updatedAt": "2026-11-22T18:33:45.686Z",
   "queries": [
     {
       "categoryId": "go",
@@ -326,8 +326,8 @@
       "window": "new",
       "query": "language:Dart created:>2026-08-24 stars:>=50",
       "status": "ok",
-      "fetched": 76,
-      "kept": 76
+      "fetched": 78,
+      "kept": 78
     },
     {
       "categoryId": "dart",
@@ -382,8 +382,8 @@
       "window": "active",
       "query": "language:Zig pushed:>2026-11-15 stars:>=500",
       "status": "ok",
-      "fetched": 35,
-      "kept": 35
+      "fetched": 36,
+      "kept": 36
     },
     {
       "categoryId": "react",
@@ -590,8 +590,8 @@
       "window": "new",
       "query": "topic:text-to-speech created:>2026-08-24 stars:>=50",
       "status": "ok",
-      "fetched": 74,
-      "kept": 74
+      "fetched": 75,
+      "kept": 75
     },
     {
       "categoryId": "tts",
@@ -862,8 +862,8 @@
       "window": "new",
       "query": "topic:agentic-ai created:>2026-08-24 stars:>=50",
       "status": "ok",
-      "fetched": 98,
-      "kept": 98
+      "fetched": 100,
+      "kept": 100
     }
   ]
 }
