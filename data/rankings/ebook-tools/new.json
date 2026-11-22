@@ -1,7 +1,7 @@
 {
   "categoryId": "ebook-tools",
   "window": "new",
-  "updatedAt": "2026-11-21T18:01:30.457Z",
+  "updatedAt": "2026-11-22T03:15:30.396Z",
   "totalFetched": 26,
   "items": [
     {
@@ -23,7 +23,7 @@
         "weread"
       ],
       "license": "MIT",
-      "stars": 898,
+      "stars": 903,
       "forks": 103,
       "createdAt": "2026-10-31T13:23:10Z",
       "pushedAt": "2026-11-01T12:34:16Z",
@@ -53,7 +53,7 @@
         "typescript"
       ],
       "license": null,
-      "stars": 589,
+      "stars": 593,
       "forks": 53,
       "createdAt": "2026-10-03T15:00:08Z",
       "pushedAt": "2026-11-21T16:57:56Z",
@@ -75,7 +75,7 @@
       ],
       "license": "GPL-3.0",
       "stars": 404,
-      "forks": 20,
+      "forks": 21,
       "createdAt": "2026-11-08T09:56:44Z",
       "pushedAt": "2026-11-21T10:59:37Z",
       "archived": false,
@@ -99,7 +99,7 @@
         "txt-reader"
       ],
       "license": "GPL-3.0",
-      "stars": 294,
+      "stars": 296,
       "forks": 84,
       "createdAt": "2026-10-13T08:31:04Z",
       "pushedAt": "2026-11-20T17:22:09Z",
@@ -127,10 +127,10 @@
         "webdav"
       ],
       "license": null,
-      "stars": 287,
+      "stars": 288,
       "forks": 23,
       "createdAt": "2026-09-05T04:46:01Z",
-      "pushedAt": "2026-11-21T08:57:48Z",
+      "pushedAt": "2026-11-22T02:52:56Z",
       "archived": false,
       "rank": 5,
       "rankDelta": null,
@@ -183,7 +183,7 @@
         "rss-reader"
       ],
       "license": "GPL-3.0",
-      "stars": 180,
+      "stars": 182,
       "forks": 16,
       "createdAt": "2026-10-24T13:08:01Z",
       "pushedAt": "2026-11-17T02:52:03Z",
@@ -246,7 +246,7 @@
         "windows"
       ],
       "license": "AGPL-3.0",
-      "stars": 131,
+      "stars": 132,
       "forks": 7,
       "createdAt": "2026-11-06T16:48:27Z",
       "pushedAt": "2026-11-21T17:22:09Z",
@@ -283,7 +283,7 @@
         "zip"
       ],
       "license": "MIT",
-      "stars": 119,
+      "stars": 120,
       "forks": 10,
       "createdAt": "2026-10-21T15:18:29Z",
       "pushedAt": "2026-11-21T15:57:12Z",
@@ -352,7 +352,7 @@
         "windows"
       ],
       "license": "GPL-3.0",
-      "stars": 109,
+      "stars": 110,
       "forks": 1,
       "createdAt": "2026-08-28T08:17:22Z",
       "pushedAt": "2026-11-21T12:28:13Z",
@@ -382,7 +382,7 @@
       "stars": 103,
       "forks": 0,
       "createdAt": "2026-11-10T19:31:38Z",
-      "pushedAt": "2026-11-21T17:13:25Z",
+      "pushedAt": "2026-11-22T02:55:07Z",
       "archived": false,
       "rank": 13,
       "rankDelta": null,
@@ -442,10 +442,10 @@
         "xteink"
       ],
       "license": "Apache-2.0",
-      "stars": 84,
+      "stars": 85,
       "forks": 4,
       "createdAt": "2026-10-21T09:57:46Z",
-      "pushedAt": "2026-11-21T18:02:04Z",
+      "pushedAt": "2026-11-21T22:25:12Z",
       "archived": false,
       "rank": 15,
       "rankDelta": null,
@@ -550,7 +550,7 @@
       "stars": 68,
       "forks": 0,
       "createdAt": "2026-09-22T20:04:05Z",
-      "pushedAt": "2026-11-21T17:13:12Z",
+      "pushedAt": "2026-11-22T03:00:23Z",
       "archived": false,
       "rank": 18,
       "rankDelta": null,
@@ -578,7 +578,7 @@
         "swiftui"
       ],
       "license": "MIT",
-      "stars": 59,
+      "stars": 58,
       "forks": 4,
       "createdAt": "2026-09-19T16:21:55Z",
       "pushedAt": "2026-11-13T13:54:46Z",

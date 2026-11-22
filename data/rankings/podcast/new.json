@@ -1,7 +1,7 @@
 {
   "categoryId": "podcast",
   "window": "new",
-  "updatedAt": "2026-11-21T18:01:30.457Z",
+  "updatedAt": "2026-11-22T03:15:30.396Z",
   "totalFetched": 10,
   "items": [
     {
@@ -195,7 +195,7 @@
       "stars": 71,
       "forks": 0,
       "createdAt": "2026-09-22T21:39:09Z",
-      "pushedAt": "2026-11-21T16:00:28Z",
+      "pushedAt": "2026-11-22T02:48:11Z",
       "archived": false,
       "rank": 6,
       "rankDelta": null,
@@ -234,7 +234,7 @@
       "stars": 65,
       "forks": 14,
       "createdAt": "2026-08-31T03:54:20Z",
-      "pushedAt": "2026-11-20T16:39:26Z",
+      "pushedAt": "2026-11-21T21:50:29Z",
       "archived": false,
       "rank": 7,
       "rankDelta": null,
