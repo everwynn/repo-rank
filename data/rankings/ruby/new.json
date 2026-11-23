@@ -1,8 +1,8 @@
 {
   "categoryId": "ruby",
   "window": "new",
-  "updatedAt": "2026-11-22T18:33:45.686Z",
-  "totalFetched": 14,
+  "updatedAt": "2026-11-23T03:45:20.417Z",
+  "totalFetched": 15,
   "items": [
     {
       "id": 1417926206,
@@ -13,8 +13,8 @@
       "language": "Ruby",
       "topics": [],
       "license": null,
-      "stars": 398,
-      "forks": 46,
+      "stars": 399,
+      "forks": 47,
       "createdAt": "2026-10-13T20:23:40Z",
       "pushedAt": "2026-11-18T17:53:38Z",
       "archived": false,
@@ -49,8 +49,8 @@
       "language": "Ruby",
       "topics": [],
       "license": "MIT",
-      "stars": 161,
-      "forks": 38,
+      "stars": 166,
+      "forks": 39,
       "createdAt": "2026-11-04T02:25:54Z",
       "pushedAt": "2026-11-08T15:21:34Z",
       "archived": false,
@@ -87,10 +87,10 @@
         "time-tracking"
       ],
       "license": "AGPL-3.0",
-      "stars": 157,
+      "stars": 159,
       "forks": 12,
       "createdAt": "2026-10-11T22:40:20Z",
-      "pushedAt": "2026-11-22T15:59:29Z",
+      "pushedAt": "2026-11-22T19:06:54Z",
       "archived": false,
       "rank": 4,
       "rankDelta": null,
@@ -134,7 +134,7 @@
       "stars": 97,
       "forks": 44,
       "createdAt": "2026-09-16T13:59:49Z",
-      "pushedAt": "2026-11-22T12:49:28Z",
+      "pushedAt": "2026-11-23T02:06:02Z",
       "archived": false,
       "rank": 6,
       "rankDelta": null,
@@ -240,6 +240,29 @@
       "starsDelta": null
     },
     {
+      "id": 1467952086,
+      "fullName": "chaseperez-57/devlabs",
+      "url": "https://github.com/chaseperez-57/devlabs",
+      "description": null,
+      "homepage": null,
+      "language": "Ruby",
+      "topics": [
+        "nextjs",
+        "rob-run-aim",
+        "rob-run-esp-tool",
+        "rob-run-mod"
+      ],
+      "license": "MPL-2.0",
+      "stars": 55,
+      "forks": 0,
+      "createdAt": "2026-11-22T20:18:21Z",
+      "pushedAt": "2026-11-22T20:18:40Z",
+      "archived": false,
+      "rank": 12,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
       "id": 1387810635,
       "fullName": "kieranklaassen/truffler",
       "url": "https://github.com/kieranklaassen/truffler",
@@ -253,7 +276,7 @@
       "createdAt": "2026-09-25T15:50:36Z",
       "pushedAt": "2026-10-02T04:33:33Z",
       "archived": false,
-      "rank": 12,
+      "rank": 13,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -271,7 +294,7 @@
       "createdAt": "2026-11-15T06:51:22Z",
       "pushedAt": "2026-11-15T07:16:01Z",
       "archived": false,
-      "rank": 13,
+      "rank": 14,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -289,7 +312,7 @@
       "createdAt": "2026-10-02T20:45:13Z",
       "pushedAt": "2026-10-07T15:20:23Z",
       "archived": false,
-      "rank": 14,
+      "rank": 15,
       "rankDelta": null,
       "starsDelta": null
     }

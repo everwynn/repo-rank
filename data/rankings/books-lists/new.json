@@ -1,7 +1,7 @@
 {
   "categoryId": "books-lists",
   "window": "new",
-  "updatedAt": "2026-11-22T18:33:45.686Z",
+  "updatedAt": "2026-11-23T03:45:20.417Z",
   "totalFetched": 10,
   "items": [
     {
@@ -24,8 +24,8 @@
         "workbuddy"
       ],
       "license": "MIT",
-      "stars": 1473,
-      "forks": 143,
+      "stars": 1474,
+      "forks": 144,
       "createdAt": "2026-09-08T07:48:21Z",
       "pushedAt": "2026-10-19T16:34:57Z",
       "archived": false,
@@ -45,8 +45,8 @@
         "ebook"
       ],
       "license": "GPL-3.0",
-      "stars": 413,
-      "forks": 22,
+      "stars": 414,
+      "forks": 23,
       "createdAt": "2026-11-08T09:56:44Z",
       "pushedAt": "2026-11-22T11:23:01Z",
       "archived": false,
@@ -214,7 +214,7 @@
         "study-guide"
       ],
       "license": null,
-      "stars": 81,
+      "stars": 82,
       "forks": 12,
       "createdAt": "2026-09-15T01:51:59Z",
       "pushedAt": "2026-11-02T23:42:10Z",
