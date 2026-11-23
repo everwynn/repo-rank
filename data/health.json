@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T03:45:20.417Z",
+  "updatedAt": "2026-11-23T22:42:26.943Z",
   "queries": [
     {
       "categoryId": "go",
@@ -326,8 +326,8 @@
       "window": "new",
       "query": "language:Dart created:>2026-08-25 stars:>=50",
       "status": "ok",
-      "fetched": 79,
-      "kept": 79
+      "fetched": 82,
+      "kept": 82
     },
     {
       "categoryId": "dart",
@@ -374,8 +374,8 @@
       "window": "new",
       "query": "language:Zig created:>2026-08-25 stars:>=50",
       "status": "ok",
-      "fetched": 23,
-      "kept": 23
+      "fetched": 24,
+      "kept": 24
     },
     {
       "categoryId": "zig",
@@ -439,7 +439,7 @@
       "query": "topic:spring-boot",
       "status": "ok",
       "fetched": 100,
-      "kept": 87
+      "kept": 86
     },
     {
       "categoryId": "flutter",
@@ -447,7 +447,7 @@
       "query": "topic:flutter",
       "status": "ok",
       "fetched": 100,
-      "kept": 70
+      "kept": 69
     },
     {
       "categoryId": "books-lists",
@@ -590,16 +590,16 @@
       "window": "new",
       "query": "topic:text-to-speech created:>2026-08-25 stars:>=50",
       "status": "ok",
-      "fetched": 76,
-      "kept": 76
+      "fetched": 74,
+      "kept": 74
     },
     {
       "categoryId": "tts",
       "window": "new",
       "query": "topic:tts created:>2026-08-25 stars:>=50",
       "status": "ok",
-      "fetched": 51,
-      "kept": 51
+      "fetched": 52,
+      "kept": 52
     },
     {
       "categoryId": "tts",
@@ -638,8 +638,8 @@
       "window": "new",
       "query": "topic:audio-processing created:>2026-08-25 stars:>=50",
       "status": "ok",
-      "fetched": 10,
-      "kept": 10
+      "fetched": 8,
+      "kept": 8
     },
     {
       "categoryId": "audio-processing",
@@ -726,8 +726,8 @@
       "window": "new",
       "query": "topic:music-player created:>2026-08-25 stars:>=50",
       "status": "ok",
-      "fetched": 54,
-      "kept": 54
+      "fetched": 56,
+      "kept": 56
     },
     {
       "categoryId": "music",
@@ -862,8 +862,8 @@
       "window": "new",
       "query": "topic:agentic-ai created:>2026-08-25 stars:>=50",
       "status": "ok",
-      "fetched": 100,
-      "kept": 100
+      "fetched": 98,
+      "kept": 98
     }
   ]
 }
