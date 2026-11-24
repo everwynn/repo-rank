@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T06:58:38.812Z",
+  "updatedAt": "2026-11-24T21:18:38.830Z",
   "timeZone": "Asia/Shanghai",
   "counts": {
     "go": {
@@ -59,7 +59,7 @@
     },
     "php": {
       "total": 100,
-      "new": 43,
+      "new": 45,
       "active": 100
     },
     "ruby": {
@@ -80,7 +80,7 @@
     "zig": {
       "total": 100,
       "new": 23,
-      "active": 36
+      "active": 40
     },
     "react": {
       "total": 80
@@ -98,7 +98,7 @@
       "total": 82
     },
     "django": {
-      "total": 78
+      "total": 79
     },
     "spring-boot": {
       "total": 86
@@ -116,19 +116,19 @@
     },
     "tts": {
       "total": 100,
-      "new": 95
+      "new": 100
     },
     "audio-processing": {
       "total": 100,
-      "new": 18
+      "new": 19
     },
     "podcast": {
       "total": 100,
-      "new": 10
+      "new": 12
     },
     "music": {
       "total": 100,
-      "new": 87
+      "new": 88
     },
     "mcp": {
       "total": 100,
