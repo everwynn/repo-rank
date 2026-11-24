@@ -1,9 +1,39 @@
 {
   "categoryId": "books-lists",
   "window": "new",
-  "updatedAt": "2026-11-23T22:42:26.943Z",
-  "totalFetched": 10,
+  "updatedAt": "2026-11-24T06:58:38.812Z",
+  "totalFetched": 11,
   "items": [
+    {
+      "id": 1353927715,
+      "fullName": "ch6vip/novel-sound",
+      "url": "https://github.com/ch6vip/novel-sound",
+      "description": "「什锦铺」免费开源的内容聚合客户端：小说、短剧、漫剧、听书、漫画一站搞定 | Flutter UI + Rust 核心 | Android / Windows / Linux | 无广告",
+      "homepage": "https://novel.tttq.de",
+      "language": "Dart",
+      "topics": [
+        "android",
+        "audiobook",
+        "dart",
+        "ebook",
+        "flutter",
+        "linux",
+        "manga",
+        "novel",
+        "rust",
+        "short-drama",
+        "windows"
+      ],
+      "license": "GPL-3.0",
+      "stars": 1705,
+      "forks": 262,
+      "createdAt": "2026-09-01T18:58:43Z",
+      "pushedAt": "2026-11-24T03:51:31Z",
+      "archived": false,
+      "rank": 1,
+      "rankDelta": null,
+      "starsDelta": null
+    },
     {
       "id": 1361079582,
       "fullName": "dmoshehun-prog/learn-from-materials",
@@ -24,12 +54,12 @@
         "workbuddy"
       ],
       "license": "MIT",
-      "stars": 1479,
+      "stars": 1480,
       "forks": 144,
       "createdAt": "2026-09-08T07:48:21Z",
       "pushedAt": "2026-10-19T16:34:57Z",
       "archived": false,
-      "rank": 1,
+      "rank": 2,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -45,12 +75,12 @@
         "ebook"
       ],
       "license": "GPL-3.0",
-      "stars": 418,
+      "stars": 417,
       "forks": 23,
       "createdAt": "2026-11-08T09:56:44Z",
       "pushedAt": "2026-11-23T12:36:29Z",
       "archived": false,
-      "rank": 2,
+      "rank": 3,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -81,7 +111,7 @@
       "createdAt": "2026-09-13T04:01:06Z",
       "pushedAt": "2026-09-15T06:52:48Z",
       "archived": false,
-      "rank": 3,
+      "rank": 4,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -120,7 +150,7 @@
       "createdAt": "2026-09-27T12:06:01Z",
       "pushedAt": "2026-11-20T12:48:52Z",
       "archived": false,
-      "rank": 4,
+      "rank": 5,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -157,7 +187,7 @@
       "createdAt": "2026-10-03T13:36:54Z",
       "pushedAt": "2026-10-06T04:32:33Z",
       "archived": false,
-      "rank": 5,
+      "rank": 6,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -177,12 +207,12 @@
         "korean"
       ],
       "license": null,
-      "stars": 82,
+      "stars": 83,
       "forks": 15,
       "createdAt": "2026-10-22T14:00:11Z",
       "pushedAt": "2026-11-01T23:01:34Z",
       "archived": false,
-      "rank": 6,
+      "rank": 7,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -219,7 +249,7 @@
       "createdAt": "2026-09-15T01:51:59Z",
       "pushedAt": "2026-11-02T23:42:10Z",
       "archived": false,
-      "rank": 7,
+      "rank": 8,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -250,7 +280,7 @@
       "createdAt": "2026-09-19T16:21:55Z",
       "pushedAt": "2026-11-13T13:54:46Z",
       "archived": false,
-      "rank": 8,
+      "rank": 9,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -271,12 +301,12 @@
         "unity6"
       ],
       "license": null,
-      "stars": 56,
+      "stars": 57,
       "forks": 2,
       "createdAt": "2026-11-04T04:47:27Z",
       "pushedAt": "2026-11-18T02:38:26Z",
       "archived": false,
-      "rank": 9,
+      "rank": 10,
       "rankDelta": null,
       "starsDelta": null
     }

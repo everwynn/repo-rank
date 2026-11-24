@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T22:42:26.943Z",
+  "updatedAt": "2026-11-24T06:58:38.812Z",
   "timeZone": "Asia/Shanghai",
   "counts": {
     "go": {
@@ -59,7 +59,7 @@
     },
     "php": {
       "total": 100,
-      "new": 45,
+      "new": 43,
       "active": 100
     },
     "ruby": {
@@ -79,7 +79,7 @@
     },
     "zig": {
       "total": 100,
-      "new": 24,
+      "new": 23,
       "active": 36
     },
     "react": {
@@ -108,7 +108,7 @@
     },
     "books-lists": {
       "total": 100,
-      "new": 9
+      "new": 10
     },
     "ebook-tools": {
       "total": 100,
@@ -116,11 +116,11 @@
     },
     "tts": {
       "total": 100,
-      "new": 98
+      "new": 95
     },
     "audio-processing": {
       "total": 100,
-      "new": 16
+      "new": 18
     },
     "podcast": {
       "total": 100,
@@ -128,7 +128,7 @@
     },
     "music": {
       "total": 100,
-      "new": 86
+      "new": 87
     },
     "mcp": {
       "total": 100,
