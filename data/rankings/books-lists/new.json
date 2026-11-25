@@ -1,7 +1,7 @@
 {
   "categoryId": "books-lists",
   "window": "new",
-  "updatedAt": "2026-11-24T21:18:38.830Z",
+  "updatedAt": "2026-11-25T05:27:51.987Z",
   "totalFetched": 11,
   "items": [
     {
@@ -25,10 +25,10 @@
         "windows"
       ],
       "license": "GPL-3.0",
-      "stars": 1715,
+      "stars": 1722,
       "forks": 263,
       "createdAt": "2026-09-01T18:58:43Z",
-      "pushedAt": "2026-11-24T20:32:41Z",
+      "pushedAt": "2026-11-25T05:10:29Z",
       "archived": false,
       "rank": 1,
       "rankDelta": null,
@@ -54,7 +54,7 @@
         "workbuddy"
       ],
       "license": "MIT",
-      "stars": 1482,
+      "stars": 1484,
       "forks": 145,
       "createdAt": "2026-09-08T07:48:21Z",
       "pushedAt": "2026-10-19T16:34:57Z",
@@ -75,7 +75,7 @@
         "ebook"
       ],
       "license": "GPL-3.0",
-      "stars": 419,
+      "stars": 420,
       "forks": 23,
       "createdAt": "2026-11-08T09:56:44Z",
       "pushedAt": "2026-11-24T13:41:59Z",
@@ -107,7 +107,7 @@
       ],
       "license": null,
       "stars": 319,
-      "forks": 53,
+      "forks": 52,
       "createdAt": "2026-09-13T04:01:06Z",
       "pushedAt": "2026-09-15T06:52:48Z",
       "archived": false,
@@ -182,7 +182,7 @@
         "learning-by-doing"
       ],
       "license": "MIT",
-      "stars": 84,
+      "stars": 85,
       "forks": 16,
       "createdAt": "2026-10-03T13:36:54Z",
       "pushedAt": "2026-10-06T04:32:33Z",
@@ -304,7 +304,7 @@
       "stars": 57,
       "forks": 2,
       "createdAt": "2026-11-04T04:47:27Z",
-      "pushedAt": "2026-11-18T02:38:26Z",
+      "pushedAt": "2026-11-25T04:45:27Z",
       "archived": false,
       "rank": 10,
       "rankDelta": null,

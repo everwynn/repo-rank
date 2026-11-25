@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T21:18:38.830Z",
+  "updatedAt": "2026-11-25T05:27:51.987Z",
   "timeZone": "Asia/Shanghai",
   "counts": {
     "go": {
@@ -69,7 +69,7 @@
     },
     "dart": {
       "total": 100,
-      "new": 82,
+      "new": 80,
       "active": 100
     },
     "scala": {
@@ -80,7 +80,7 @@
     "zig": {
       "total": 100,
       "new": 23,
-      "active": 40
+      "active": 37
     },
     "react": {
       "total": 80
