@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T05:27:51.987Z",
+  "updatedAt": "2026-11-25T20:29:49.712Z",
   "timeZone": "Asia/Shanghai",
   "counts": {
     "go": {
@@ -69,7 +69,7 @@
     },
     "dart": {
       "total": 100,
-      "new": 80,
+      "new": 79,
       "active": 100
     },
     "scala": {
@@ -104,7 +104,7 @@
       "total": 86
     },
     "flutter": {
-      "total": 69
+      "total": 68
     },
     "books-lists": {
       "total": 100,
@@ -120,7 +120,7 @@
     },
     "audio-processing": {
       "total": 100,
-      "new": 19
+      "new": 18
     },
     "podcast": {
       "total": 100,
@@ -128,7 +128,7 @@
     },
     "music": {
       "total": 100,
-      "new": 88
+      "new": 89
     },
     "mcp": {
       "total": 100,

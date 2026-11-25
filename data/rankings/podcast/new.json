@@ -1,7 +1,7 @@
 {
   "categoryId": "podcast",
   "window": "new",
-  "updatedAt": "2026-11-25T05:27:51.987Z",
+  "updatedAt": "2026-11-25T20:29:49.712Z",
   "totalFetched": 12,
   "items": [
     {
@@ -63,10 +63,10 @@
         "youtube"
       ],
       "license": "AGPL-3.0",
-      "stars": 325,
-      "forks": 46,
+      "stars": 330,
+      "forks": 47,
       "createdAt": "2026-11-16T11:22:42Z",
-      "pushedAt": "2026-11-25T04:23:25Z",
+      "pushedAt": "2026-11-25T10:15:58Z",
       "archived": false,
       "rank": 2,
       "rankDelta": null,
@@ -128,8 +128,8 @@
         "whisper-cpp"
       ],
       "license": null,
-      "stars": 130,
-      "forks": 1,
+      "stars": 223,
+      "forks": 2,
       "createdAt": "2026-09-24T17:31:47Z",
       "pushedAt": "2026-11-20T12:43:31Z",
       "archived": false,
@@ -157,7 +157,7 @@
         "voice-recorder"
       ],
       "license": "MIT",
-      "stars": 103,
+      "stars": 104,
       "forks": 30,
       "createdAt": "2026-11-16T08:56:19Z",
       "pushedAt": "2026-11-18T03:25:32Z",
@@ -195,7 +195,7 @@
       "stars": 72,
       "forks": 0,
       "createdAt": "2026-09-22T21:39:09Z",
-      "pushedAt": "2026-11-25T00:19:35Z",
+      "pushedAt": "2026-11-25T19:44:25Z",
       "archived": false,
       "rank": 6,
       "rankDelta": null,
@@ -231,7 +231,7 @@
         "youtube-shorts"
       ],
       "license": "MIT",
-      "stars": 68,
+      "stars": 71,
       "forks": 16,
       "createdAt": "2026-08-31T03:54:20Z",
       "pushedAt": "2026-11-24T08:16:03Z",
@@ -261,7 +261,7 @@
         "tts"
       ],
       "license": "MIT",
-      "stars": 63,
+      "stars": 64,
       "forks": 3,
       "createdAt": "2026-08-31T07:01:52Z",
       "pushedAt": "2026-11-11T01:29:58Z",
@@ -292,7 +292,7 @@
         "transcript-search"
       ],
       "license": "Apache-2.0",
-      "stars": 62,
+      "stars": 63,
       "forks": 2,
       "createdAt": "2026-11-12T09:55:17Z",
       "pushedAt": "2026-11-12T13:02:22Z",

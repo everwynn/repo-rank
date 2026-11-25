@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T05:27:51.987Z",
+  "updatedAt": "2026-11-25T20:29:49.712Z",
   "queries": [
     {
       "categoryId": "go",
@@ -326,8 +326,8 @@
       "window": "new",
       "query": "language:Dart created:>2026-08-27 stars:>=50",
       "status": "ok",
-      "fetched": 80,
-      "kept": 80
+      "fetched": 79,
+      "kept": 79
     },
     {
       "categoryId": "dart",
@@ -447,7 +447,7 @@
       "query": "topic:flutter",
       "status": "ok",
       "fetched": 100,
-      "kept": 69
+      "kept": 68
     },
     {
       "categoryId": "books-lists",
@@ -638,8 +638,8 @@
       "window": "new",
       "query": "topic:audio-processing created:>2026-08-27 stars:>=50",
       "status": "ok",
-      "fetched": 11,
-      "kept": 11
+      "fetched": 10,
+      "kept": 10
     },
     {
       "categoryId": "audio-processing",
@@ -726,16 +726,16 @@
       "window": "new",
       "query": "topic:music-player created:>2026-08-27 stars:>=50",
       "status": "ok",
-      "fetched": 57,
-      "kept": 57
+      "fetched": 59,
+      "kept": 59
     },
     {
       "categoryId": "music",
       "window": "new",
       "query": "topic:spotify created:>2026-08-27 stars:>=50",
       "status": "ok",
-      "fetched": 42,
-      "kept": 42
+      "fetched": 41,
+      "kept": 41
     },
     {
       "categoryId": "mcp",
@@ -862,8 +862,8 @@
       "window": "new",
       "query": "topic:agentic-ai created:>2026-08-27 stars:>=50",
       "status": "ok",
-      "fetched": 95,
-      "kept": 95
+      "fetched": 97,
+      "kept": 97
     }
   ]
 }
