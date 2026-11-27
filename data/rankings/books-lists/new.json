@@ -1,7 +1,7 @@
 {
   "categoryId": "books-lists",
   "window": "new",
-  "updatedAt": "2026-11-26T20:13:45.498Z",
+  "updatedAt": "2026-11-27T05:05:54.678Z",
   "totalFetched": 11,
   "items": [
     {
@@ -25,10 +25,10 @@
         "windows"
       ],
       "license": "GPL-3.0",
-      "stars": 1760,
-      "forks": 267,
+      "stars": 1766,
+      "forks": 268,
       "createdAt": "2026-09-01T18:58:43Z",
-      "pushedAt": "2026-11-26T14:33:55Z",
+      "pushedAt": "2026-11-26T21:35:20Z",
       "archived": false,
       "rank": 1,
       "rankDelta": null,
@@ -54,7 +54,7 @@
         "workbuddy"
       ],
       "license": "MIT",
-      "stars": 1492,
+      "stars": 1493,
       "forks": 145,
       "createdAt": "2026-09-08T07:48:21Z",
       "pushedAt": "2026-10-19T16:34:57Z",
@@ -75,8 +75,8 @@
         "ebook"
       ],
       "license": "GPL-3.0",
-      "stars": 423,
-      "forks": 23,
+      "stars": 425,
+      "forks": 24,
       "createdAt": "2026-11-08T09:56:44Z",
       "pushedAt": "2026-11-26T12:31:32Z",
       "archived": false,

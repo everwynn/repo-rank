@@ -1,7 +1,7 @@
 {
   "categoryId": "podcast",
   "window": "new",
-  "updatedAt": "2026-11-26T20:13:45.498Z",
+  "updatedAt": "2026-11-27T05:05:54.678Z",
   "totalFetched": 12,
   "items": [
     {
@@ -63,10 +63,10 @@
         "youtube"
       ],
       "license": "AGPL-3.0",
-      "stars": 333,
+      "stars": 334,
       "forks": 49,
       "createdAt": "2026-11-16T11:22:42Z",
-      "pushedAt": "2026-11-26T19:38:54Z",
+      "pushedAt": "2026-11-27T03:06:25Z",
       "archived": false,
       "rank": 2,
       "rankDelta": null,
@@ -128,7 +128,7 @@
         "whisper-cpp"
       ],
       "license": null,
-      "stars": 240,
+      "stars": 239,
       "forks": 1,
       "createdAt": "2026-09-24T17:31:47Z",
       "pushedAt": "2026-11-20T12:43:31Z",
@@ -157,8 +157,8 @@
         "voice-recorder"
       ],
       "license": "MIT",
-      "stars": 105,
-      "forks": 30,
+      "stars": 106,
+      "forks": 31,
       "createdAt": "2026-11-16T08:56:19Z",
       "pushedAt": "2026-11-18T03:25:32Z",
       "archived": false,
@@ -234,7 +234,7 @@
       "stars": 72,
       "forks": 0,
       "createdAt": "2026-09-22T21:39:09Z",
-      "pushedAt": "2026-11-26T11:52:38Z",
+      "pushedAt": "2026-11-27T03:28:39Z",
       "archived": false,
       "rank": 7,
       "rankDelta": null,
