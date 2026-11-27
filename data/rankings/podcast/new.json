@@ -1,8 +1,8 @@
 {
   "categoryId": "podcast",
   "window": "new",
-  "updatedAt": "2026-11-27T05:05:54.678Z",
-  "totalFetched": 12,
+  "updatedAt": "2026-11-27T20:00:00.411Z",
+  "totalFetched": 13,
   "items": [
     {
       "id": 1418226869,
@@ -34,7 +34,7 @@
         "udemy-alternative"
       ],
       "license": "MIT",
-      "stars": 720,
+      "stars": 721,
       "forks": 84,
       "createdAt": "2026-10-14T01:49:12Z",
       "pushedAt": "2026-10-29T04:35:59Z",
@@ -63,10 +63,10 @@
         "youtube"
       ],
       "license": "AGPL-3.0",
-      "stars": 334,
-      "forks": 49,
+      "stars": 340,
+      "forks": 51,
       "createdAt": "2026-11-16T11:22:42Z",
-      "pushedAt": "2026-11-27T03:06:25Z",
+      "pushedAt": "2026-11-27T17:56:51Z",
       "archived": false,
       "rank": 2,
       "rankDelta": null,
@@ -128,7 +128,7 @@
         "whisper-cpp"
       ],
       "license": null,
-      "stars": 239,
+      "stars": 237,
       "forks": 1,
       "createdAt": "2026-09-24T17:31:47Z",
       "pushedAt": "2026-11-20T12:43:31Z",
@@ -157,7 +157,7 @@
         "voice-recorder"
       ],
       "license": "MIT",
-      "stars": 106,
+      "stars": 107,
       "forks": 31,
       "createdAt": "2026-11-16T08:56:19Z",
       "pushedAt": "2026-11-18T03:25:32Z",
@@ -234,7 +234,7 @@
       "stars": 72,
       "forks": 0,
       "createdAt": "2026-09-22T21:39:09Z",
-      "pushedAt": "2026-11-27T03:28:39Z",
+      "pushedAt": "2026-11-27T13:28:04Z",
       "archived": false,
       "rank": 7,
       "rankDelta": null,
@@ -261,7 +261,7 @@
         "tts"
       ],
       "license": "MIT",
-      "stars": 64,
+      "stars": 65,
       "forks": 3,
       "createdAt": "2026-08-31T07:01:52Z",
       "pushedAt": "2026-11-11T01:29:58Z",
@@ -335,6 +335,31 @@
       "starsDelta": null
     },
     {
+      "id": 1460519280,
+      "fullName": "aakashg/growth-podcast-transcripts",
+      "url": "https://github.com/aakashg/growth-podcast-transcripts",
+      "description": "Every episode of The Growth Podcast with Aakash Gupta as markdown: 166 episodes, speaker-labelled, timestamped. Free to build on.",
+      "homepage": null,
+      "language": null,
+      "topics": [
+        "claude-code",
+        "dataset",
+        "mcp",
+        "podcast",
+        "product-management",
+        "transcripts"
+      ],
+      "license": null,
+      "stars": 59,
+      "forks": 26,
+      "createdAt": "2026-11-16T20:17:27Z",
+      "pushedAt": "2026-11-26T22:00:53Z",
+      "archived": false,
+      "rank": 11,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
       "id": 1411529408,
       "fullName": "LeoLee0812/sunyuchen-alan-interview",
       "url": "https://github.com/LeoLee0812/sunyuchen-alan-interview",
@@ -359,7 +384,7 @@
       "createdAt": "2026-10-09T08:33:03Z",
       "pushedAt": "2026-10-09T09:19:12Z",
       "archived": false,
-      "rank": 11,
+      "rank": 12,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -391,7 +416,7 @@
       "createdAt": "2026-11-24T15:14:17Z",
       "pushedAt": "2026-11-24T21:47:18Z",
       "archived": false,
-      "rank": 12,
+      "rank": 13,
       "rankDelta": null,
       "starsDelta": null
     }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T05:05:54.678Z",
+  "updatedAt": "2026-11-27T20:00:00.411Z",
   "queries": [
     {
       "categoryId": "go",
@@ -326,8 +326,8 @@
       "window": "new",
       "query": "language:Dart created:>2026-08-29 stars:>=50",
       "status": "ok",
-      "fetched": 83,
-      "kept": 83
+      "fetched": 82,
+      "kept": 82
     },
     {
       "categoryId": "dart",
@@ -382,8 +382,8 @@
       "window": "active",
       "query": "language:Zig pushed:>2026-11-20 stars:>=500",
       "status": "ok",
-      "fetched": 36,
-      "kept": 36
+      "fetched": 41,
+      "kept": 41
     },
     {
       "categoryId": "react",
@@ -502,16 +502,16 @@
       "window": "new",
       "query": "topic:book created:>2026-08-29 stars:>=50",
       "status": "ok",
-      "fetched": 3,
-      "kept": 3
+      "fetched": 4,
+      "kept": 4
     },
     {
       "categoryId": "books-lists",
       "window": "new",
       "query": "topic:ebook created:>2026-08-29 stars:>=50",
       "status": "ok",
-      "fetched": 6,
-      "kept": 6
+      "fetched": 7,
+      "kept": 7
     },
     {
       "categoryId": "ebook-tools",
@@ -590,16 +590,16 @@
       "window": "new",
       "query": "topic:text-to-speech created:>2026-08-29 stars:>=50",
       "status": "ok",
-      "fetched": 71,
-      "kept": 71
+      "fetched": 72,
+      "kept": 72
     },
     {
       "categoryId": "tts",
       "window": "new",
       "query": "topic:tts created:>2026-08-29 stars:>=50",
       "status": "ok",
-      "fetched": 60,
-      "kept": 60
+      "fetched": 61,
+      "kept": 61
     },
     {
       "categoryId": "tts",
@@ -638,8 +638,8 @@
       "window": "new",
       "query": "topic:audio-processing created:>2026-08-29 stars:>=50",
       "status": "ok",
-      "fetched": 10,
-      "kept": 10
+      "fetched": 9,
+      "kept": 9
     },
     {
       "categoryId": "audio-processing",
@@ -686,8 +686,8 @@
       "window": "new",
       "query": "topic:podcast created:>2026-08-29 stars:>=50",
       "status": "ok",
-      "fetched": 12,
-      "kept": 12
+      "fetched": 13,
+      "kept": 13
     },
     {
       "categoryId": "podcast",
@@ -726,8 +726,8 @@
       "window": "new",
       "query": "topic:music-player created:>2026-08-29 stars:>=50",
       "status": "ok",
-      "fetched": 60,
-      "kept": 60
+      "fetched": 62,
+      "kept": 62
     },
     {
       "categoryId": "music",
@@ -846,8 +846,8 @@
       "window": "new",
       "query": "topic:llm-agent created:>2026-08-29 stars:>=50",
       "status": "ok",
-      "fetched": 27,
-      "kept": 27
+      "fetched": 29,
+      "kept": 29
     },
     {
       "categoryId": "agent-tools",
@@ -862,8 +862,8 @@
       "window": "new",
       "query": "topic:agentic-ai created:>2026-08-29 stars:>=50",
       "status": "ok",
-      "fetched": 98,
-      "kept": 98
+      "fetched": 100,
+      "kept": 100
     }
   ]
 }
