@@ -1,7 +1,7 @@
 {
   "categoryId": "books-lists",
   "window": "new",
-  "updatedAt": "2026-11-27T20:00:00.411Z",
+  "updatedAt": "2026-11-28T04:45:27.175Z",
   "totalFetched": 13,
   "items": [
     {
@@ -25,10 +25,10 @@
         "windows"
       ],
       "license": "GPL-3.0",
-      "stars": 1787,
-      "forks": 271,
+      "stars": 1793,
+      "forks": 273,
       "createdAt": "2026-09-01T18:58:43Z",
-      "pushedAt": "2026-11-27T10:56:21Z",
+      "pushedAt": "2026-11-28T04:16:27Z",
       "archived": false,
       "rank": 1,
       "rankDelta": null,
@@ -54,7 +54,7 @@
         "workbuddy"
       ],
       "license": "MIT",
-      "stars": 1497,
+      "stars": 1499,
       "forks": 145,
       "createdAt": "2026-09-08T07:48:21Z",
       "pushedAt": "2026-10-19T16:34:57Z",
@@ -155,6 +155,32 @@
       "starsDelta": null
     },
     {
+      "id": 1465589076,
+      "fullName": "wangyinbo-gif/zh-book-pipeline",
+      "url": "https://github.com/wangyinbo-gif/zh-book-pipeline",
+      "description": "中文扫描书→结构化可读书稿全流水线：OCR 双通道（横/竖排+页级去倾斜）· 块级结构与章节重建 · 三态质检 · 零依赖本地阅读器/离线包/题库 · 会话认证 · 公版原文抽样数据集(v1.0.9)。CPU-only，CI 端到端可复现。",
+      "homepage": null,
+      "language": "Python",
+      "topics": [
+        "book-pipeline",
+        "chinese",
+        "digitization",
+        "ebook",
+        "ocr",
+        "pdf",
+        "rapidocr"
+      ],
+      "license": "MIT",
+      "stars": 89,
+      "forks": 26,
+      "createdAt": "2026-11-20T15:26:07Z",
+      "pushedAt": "2026-11-27T12:13:42Z",
+      "archived": false,
+      "rank": 6,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
       "id": 1370748100,
       "fullName": "vkorost/claude-certified-developer-guide",
       "url": "https://github.com/vkorost/claude-certified-developer-guide",
@@ -187,7 +213,7 @@
       "createdAt": "2026-09-15T01:51:59Z",
       "pushedAt": "2026-11-02T23:42:10Z",
       "archived": false,
-      "rank": 6,
+      "rank": 7,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -224,7 +250,7 @@
       "createdAt": "2026-10-03T13:36:54Z",
       "pushedAt": "2026-10-06T04:32:33Z",
       "archived": false,
-      "rank": 7,
+      "rank": 8,
       "rankDelta": null,
       "starsDelta": null
     },
@@ -249,32 +275,6 @@
       "createdAt": "2026-10-22T14:00:11Z",
       "pushedAt": "2026-11-01T23:01:34Z",
       "archived": false,
-      "rank": 8,
-      "rankDelta": null,
-      "starsDelta": null
-    },
-    {
-      "id": 1465589076,
-      "fullName": "wangyinbo-gif/zh-book-pipeline",
-      "url": "https://github.com/wangyinbo-gif/zh-book-pipeline",
-      "description": "中文扫描书→结构化可读书稿全流水线：OCR 双通道（横/竖排+页级去倾斜）· 块级结构与章节重建 · 三态质检 · 零依赖本地阅读器/离线包/题库 · 会话认证 · 公版原文抽样数据集(v1.0.9)。CPU-only，CI 端到端可复现。",
-      "homepage": null,
-      "language": "Python",
-      "topics": [
-        "book-pipeline",
-        "chinese",
-        "digitization",
-        "ebook",
-        "ocr",
-        "pdf",
-        "rapidocr"
-      ],
-      "license": "MIT",
-      "stars": 76,
-      "forks": 20,
-      "createdAt": "2026-11-20T15:26:07Z",
-      "pushedAt": "2026-11-27T12:13:42Z",
-      "archived": false,
       "rank": 9,
       "rankDelta": null,
       "starsDelta": null
@@ -295,7 +295,7 @@
         "latex"
       ],
       "license": null,
-      "stars": 75,
+      "stars": 79,
       "forks": 6,
       "createdAt": "2026-11-27T02:01:45Z",
       "pushedAt": "2026-11-27T16:38:19Z",

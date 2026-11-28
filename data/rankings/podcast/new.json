@@ -1,7 +1,7 @@
 {
   "categoryId": "podcast",
   "window": "new",
-  "updatedAt": "2026-11-27T20:00:00.411Z",
+  "updatedAt": "2026-11-28T04:45:27.175Z",
   "totalFetched": 13,
   "items": [
     {
@@ -63,10 +63,10 @@
         "youtube"
       ],
       "license": "AGPL-3.0",
-      "stars": 340,
+      "stars": 341,
       "forks": 51,
       "createdAt": "2026-11-16T11:22:42Z",
-      "pushedAt": "2026-11-27T17:56:51Z",
+      "pushedAt": "2026-11-28T04:24:02Z",
       "archived": false,
       "rank": 2,
       "rankDelta": null,
@@ -128,7 +128,7 @@
         "whisper-cpp"
       ],
       "license": null,
-      "stars": 237,
+      "stars": 236,
       "forks": 1,
       "createdAt": "2026-09-24T17:31:47Z",
       "pushedAt": "2026-11-20T12:43:31Z",
@@ -157,7 +157,7 @@
         "voice-recorder"
       ],
       "license": "MIT",
-      "stars": 107,
+      "stars": 109,
       "forks": 31,
       "createdAt": "2026-11-16T08:56:19Z",
       "pushedAt": "2026-11-18T03:25:32Z",
@@ -234,7 +234,7 @@
       "stars": 72,
       "forks": 0,
       "createdAt": "2026-09-22T21:39:09Z",
-      "pushedAt": "2026-11-27T13:28:04Z",
+      "pushedAt": "2026-11-28T04:29:46Z",
       "archived": false,
       "rank": 7,
       "rankDelta": null,
@@ -302,6 +302,31 @@
       "starsDelta": null
     },
     {
+      "id": 1460519280,
+      "fullName": "aakashg/growth-podcast-transcripts",
+      "url": "https://github.com/aakashg/growth-podcast-transcripts",
+      "description": "Every episode of The Growth Podcast with Aakash Gupta as markdown: 166 episodes, speaker-labelled, timestamped. Free to build on.",
+      "homepage": null,
+      "language": null,
+      "topics": [
+        "claude-code",
+        "dataset",
+        "mcp",
+        "podcast",
+        "product-management",
+        "transcripts"
+      ],
+      "license": null,
+      "stars": 60,
+      "forks": 27,
+      "createdAt": "2026-11-16T20:17:27Z",
+      "pushedAt": "2026-11-26T22:00:53Z",
+      "archived": false,
+      "rank": 10,
+      "rankDelta": null,
+      "starsDelta": null
+    },
+    {
       "id": 1470340788,
       "fullName": "JudithRoux4494/pod-studio-ai",
       "url": "https://github.com/JudithRoux4494/pod-studio-ai",
@@ -325,35 +350,10 @@
         "windows-tool"
       ],
       "license": "MIT",
-      "stars": 61,
+      "stars": 60,
       "forks": 0,
       "createdAt": "2026-11-24T15:14:26Z",
       "pushedAt": "2026-11-24T21:47:19Z",
-      "archived": false,
-      "rank": 10,
-      "rankDelta": null,
-      "starsDelta": null
-    },
-    {
-      "id": 1460519280,
-      "fullName": "aakashg/growth-podcast-transcripts",
-      "url": "https://github.com/aakashg/growth-podcast-transcripts",
-      "description": "Every episode of The Growth Podcast with Aakash Gupta as markdown: 166 episodes, speaker-labelled, timestamped. Free to build on.",
-      "homepage": null,
-      "language": null,
-      "topics": [
-        "claude-code",
-        "dataset",
-        "mcp",
-        "podcast",
-        "product-management",
-        "transcripts"
-      ],
-      "license": null,
-      "stars": 59,
-      "forks": 26,
-      "createdAt": "2026-11-16T20:17:27Z",
-      "pushedAt": "2026-11-26T22:00:53Z",
       "archived": false,
       "rank": 11,
       "rankDelta": null,
